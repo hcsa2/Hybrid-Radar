@@ -1,47 +1,66 @@
 #!/usr/bin/env python3
-"""Fetch public RSS news headlines. Does not verify underlying reporting."""
-import datetime, hashlib, json, re, time
+"""RSS headlines for Hybrid Radar. Source reporting is not independently verified."""
+import datetime as dt
+import hashlib
+import html
+import json
+import re
 from pathlib import Path
-import requests, feedparser
-ROOT=Path(__file__).resolve().parents[1]
-TOPICS={
- "HPE Software":"HPE Morpheus OpsRamp Zerto GreenLake Juniper",
- "Competitive":"VMware Broadcom Nutanix virtualization",
- "Opportunity":"Canada enterprise government AI infrastructure funding",
- "Security":"hybrid cloud cybersecurity vulnerability CISA",
- "Emerging":"private cloud startup funding open source",
- "AI & Cloud":"AI infrastructure Kubernetes GPU cloud",
- "Partners":"HPE Juniper channel partner enterprise"
+import feedparser
+import requests
+
+ROOT = Path(__file__).resolve().parents[1]
+TOPICS = {
+ "HPE Software": "HPE Morpheus OpsRamp Zerto GreenLake Juniper",
+ "Competitive": "VMware Broadcom Nutanix virtualization",
+ "Opportunity": "Canada enterprise government AI infrastructure funding",
+ "Security": "hybrid cloud cybersecurity vulnerability CISA",
+ "Emerging": "private cloud startup funding open source",
+ "AI & Cloud": "AI infrastructure Kubernetes GPU cloud",
+ "Partners": "HPE Juniper channel partner enterprise",
 }
-def clean(s):
- return re.sub(r"\s+"," ",re.sub(r"<[^>]*>"," ",s or "")).strip()
-def fetch():
- news=[];seen=set()
- for cat,q in TOPICS.items():
-  try:
-   url="https://news.google.com/rss/search"
-   res=requests.get(url,params={"q":q+" when:7d","hl":"en-US","gl":"US","ceid":"US:en"},headers={"User-Agent":"HybridRadarNews/1.0"},timeout=25)
-   res.raise_for_status()
-   entries=feedparser.parse(res.content).entries[:15]
-  except Exception as e:
-   print("Fetch unavailable:",cat,str(e));continue
-  for item in entries:
-   title=clean(item.get("title",""));link=item.get("link","")
-   if not title or not link:continue
-   key=re.sub(r"\W","",title.lower())[:110]
-   if key in seen:continue
-   seen.add(key)
-   hits=sum(word in title.lower() for word in ("hpe","morpheus","opsramp","zerto","vmware","nutanix","quebec","canada","juniper","broadcom"))
-   news.append({"id":hashlib.sha256(link.encode()).hexdigest()[:14],"cat":cat,"title":title,
-    "summary":clean(item.get("summary",""))[:330] or "Read the linked source for the underlying reporting.",
-    "impact":"Evaluate potential implications for hybrid-cloud architecture, customer needs or partner discussions. Verify the source before taking action.",
-    "score":min(5,3+hits),"region":"Global / North America lens",
-    "date":item.get("published","Date not supplied"),"source":link,
-    "status":"RSS-discovered; source content not independently verified"})
- return sorted(news,key=lambda x:(x["score"],x["date"]),reverse=True)[:40]
-if __name__=="__main__":
- target=ROOT/"data"/"feed.json";stories=fetch()
- if not stories:
-  print("No results; retaining previous feed");quit()
- target.write_text(json.dumps({"generated_at":datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),"stories":stories},ensure_ascii=False,indent=2)+"\n")
- print("Saved",len(stories),"stories")
+KEYWORDS=("hpe","morpheus","opsramp","zerto","vmware","nutanix","quebec","canada","juniper","broadcom")
+def clean(value):
+    value=str(value or "")
+    for _ in range(3):
+        updated=html.unescape(value)
+        if updated==value: break
+        value=updated
+    value=re.sub(r"<[^>]+>"," ",value).replace("\u00a0"," ")
+    return re.sub(r"\s+"," ",value).strip()
+def timestamp(entry):
+    parsed=entry.get("published_parsed") or entry.get("updated_parsed")
+    try: return dt.datetime(*parsed[:6],tzinfo=dt.timezone.utc) if parsed else None
+    except (ValueError,TypeError): return None
+def main():
+    stories=[]; seen=set()
+    for category, query in TOPICS.items():
+        try:
+            response=requests.get("https://news.google.com/rss/search",params={"q":query+" when:7d","hl":"en-US","gl":"US","ceid":"US:en"},timeout=25,headers={"User-Agent":"HybridRadar/1.1"})
+            response.raise_for_status()
+            entries=feedparser.parse(response.content).entries[:15]
+        except requests.RequestException as e:
+            print("RSS unavailable",category,str(e));continue
+        for entry in entries:
+            title=clean(entry.get("title")); url=str(entry.get("link",""))
+            if not title or not url.startswith("https://"):continue
+            key=re.sub(r"\W+","",title.casefold())[:140]
+            if key in seen:continue
+            seen.add(key)
+            summary=clean(entry.get("summary"))
+            if len(summary)<45 or title.casefold() in summary.casefold():
+                summary="Headline from a public RSS feed. Read the source for the reporting and context."
+            date=timestamp(entry)
+            score=min(5,3+sum(k in title.casefold() for k in KEYWORDS))
+            stories.append({"id":hashlib.sha256(url.encode()).hexdigest()[:14],"cat":category,"title":title,"summary":summary[:330],
+                "impact":"Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+                "score":score,"region":"Global / North America lens","date":date.strftime("%Y-%m-%d") if date else "Date not confirmed",
+                "source":url,"status":"RSS-discovered, unverified","_ts":date.timestamp() if date else 0})
+    if not stories:
+        print("No stories; keeping previous feed");return
+    stories.sort(key=lambda s:(s["score"],s["_ts"]),reverse=True)
+    for s in stories:s.pop("_ts")
+    target=ROOT/"data"/"feed.json"
+    target.write_text(json.dumps({"generated_at":dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),"stories":stories[:40]},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    print("Published",min(len(stories),40))
+if __name__=="__main__":main()
