@@ -18,8 +18,12 @@ TOPICS = {
  "Emerging": "private cloud startup funding open source",
  "AI & Cloud": "AI infrastructure Kubernetes GPU cloud",
  "Partners": "HPE Juniper channel partner enterprise",
+ "Frontier AI": "Anthropic Claude OpenAI GPT Codex xAI Grok Google Gemini DeepMind model release API",
+ "Open Models": "Hugging Face open weight models model release benchmarks inference quantization llama qwen deepseek mistral",
+ "AI Dev Tools": "AI coding agents Claude Code Codex Cursor Gemini CLI Jen developer tools MCP SDK",
+ "Agent Testing": "AI agent eval harness testing frameworks benchmark test harness LangSmith DeepEval promptfoo Inspect AI SWE bench",
 }
-KEYWORDS=("hpe","morpheus","opsramp","zerto","vmware","nutanix","quebec","canada","juniper","broadcom")
+KEYWORDS=("hpe","morpheus","opsramp","zerto","vmware","nutanix","quebec","canada","juniper","broadcom","anthropic","claude","openai","codex","grok","xai","gemini","hugging face","open weight","harness","eval")
 def clean(value):
     value=str(value or "")
     for _ in range(3):
@@ -38,7 +42,7 @@ def main():
         try:
             response=requests.get("https://news.google.com/rss/search",params={"q":query+" when:7d","hl":"en-US","gl":"US","ceid":"US:en"},timeout=25,headers={"User-Agent":"HybridRadar/1.1"})
             response.raise_for_status()
-            entries=feedparser.parse(response.content).entries[:15]
+            entries=feedparser.parse(response.content).entries[:20]
         except requests.RequestException as e:
             print("RSS unavailable",category,str(e));continue
         for entry in entries:
@@ -61,6 +65,6 @@ def main():
     stories.sort(key=lambda s:(s["score"],s["_ts"]),reverse=True)
     for s in stories:s.pop("_ts")
     target=ROOT/"data"/"feed.json"
-    target.write_text(json.dumps({"generated_at":dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),"stories":stories[:40]},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print("Published",min(len(stories),40))
+    target.write_text(json.dumps({"generated_at":dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),"stories":stories[:90]},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    print("Published",min(len(stories),90))
 if __name__=="__main__":main()
