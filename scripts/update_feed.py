@@ -20,8 +20,8 @@ TOPICS = {
  "Partners": "HPE Juniper channel partner enterprise",
  "Frontier AI": "Anthropic Claude OpenAI GPT Codex xAI Grok Google Gemini DeepMind model release API",
  "Open Models": "Hugging Face open weight models model release benchmarks inference quantization llama qwen deepseek mistral",
- "AI Dev Tools": "AI coding agents Claude Code Codex Cursor Gemini CLI Jen developer tools MCP SDK",
- "Agent Testing": "AI agent eval harness testing frameworks benchmark test harness LangSmith DeepEval promptfoo Inspect AI SWE bench",
+ "AI Dev Tools": "AI coding agents Claude Code Codex Cursor Gemini CLI Jev TypeSafe AI agent routing decision model MCP SDK",
+ "Agent Testing": "AI agent eval harness Jev Jev Harness TypeSafeAI testing frameworks LangSmith DeepEval promptfoo Inspect AI SWE bench",
 }
 KEYWORDS=("hpe","morpheus","opsramp","zerto","vmware","nutanix","quebec","canada","juniper","broadcom","anthropic","claude","openai","codex","grok","xai","gemini","hugging face","open weight","harness","eval")
 def clean(value):
