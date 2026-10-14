@@ -48,7 +48,7 @@ def main():
             if key in seen:continue
             seen.add(key)
             summary=clean(entry.get("summary"))
-            if len(summary)<45 or title.casefold() in summary.casefold():
+            if len(summary)<45 or title.casefold() in summary.casefold() or summary.casefold().startswith(re.sub(r"\\s*-\\s*[^-]+$", "", title).strip().casefold()):
                 summary="Headline from a public RSS feed. Read the source for the reporting and context."
             date=timestamp(entry)
             score=min(5,3+sum(k in title.casefold() for k in KEYWORDS))
