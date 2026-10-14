@@ -1,6 +1,10 @@
 name: Backfill 2026 Year-to-Date
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/backfill.yml'
   schedule:
     - cron: '30 13 1 * *'
 permissions:
