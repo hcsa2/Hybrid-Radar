@@ -2,24 +2,41 @@ name: Update Hybrid Radar
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 12 * * *'
+    - cron: '0 10 * * *'
+    - cron: '0 11 * * *'
 permissions:
   contents: write
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
+      - name: Check Montréal 6 AM schedule
+        id: localtime
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT_NAME" = 'workflow_dispatch' ] || [ "$(TZ=America/Toronto date +%H)" = '06' ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/checkout@v4
+        if: steps.localtime.outputs.run == 'true'
       - uses: actions/setup-python@v5
+        if: steps.localtime.outputs.run == 'true'
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
+        if: steps.localtime.outputs.run == 'true'
       - name: Refresh public news
+        if: steps.localtime.outputs.run == 'true'
         run: python scripts/update_feed.py
       - name: Friday digest
+        if: steps.localtime.outputs.run == 'true'
         run: |
           if [ "$(date -u +%u)" = "5" ]; then python scripts/update_weekly.py; fi
       - name: Commit feed
+        if: steps.localtime.outputs.run == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
