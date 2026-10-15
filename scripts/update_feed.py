@@ -58,7 +58,7 @@ def main():
             score=min(5,3+sum(k in title.casefold() for k in KEYWORDS))
             stories.append({"id":hashlib.sha256(url.encode()).hexdigest()[:14],"cat":category,"title":title,"summary":summary[:330],
                 "impact":"Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-                "score":score,"region":"Global / North America lens","date":date.strftime("%Y-%m-%d") if date else "Date not confirmed",
+                "score":score,"region":"Global / North America lens","date":date.strftime("%Y-%m-%d") if date else "Date not confirmed","published_at":date.isoformat() if date else None,
                 "source":url,"status":"RSS-discovered, unverified","_ts":date.timestamp() if date else 0})
     if not stories:
         print("No stories; keeping previous feed");return
