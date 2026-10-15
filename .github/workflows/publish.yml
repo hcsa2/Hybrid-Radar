@@ -4,18 +4,20 @@ on:
   schedule:
     - cron: '0 10 * * *'
     - cron: '0 11 * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 17 * * *'
 permissions:
   contents: write
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Check Montréal 6 AM schedule
+      - name: Check Montréal 6 AM or noon schedule
         id: localtime
         env:
           EVENT_NAME: ${{ github.event_name }}
         run: |
-          if [ "$EVENT_NAME" = 'workflow_dispatch' ] || [ "$(TZ=America/Toronto date +%H)" = '06' ]; then
+          if [ "$EVENT_NAME" = 'workflow_dispatch' ] || [ "$(TZ=America/Toronto date +%H)" = '06' ] || [ "$(TZ=America/Toronto date +%H)" = '12' ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
