@@ -25,26 +25,27 @@ TOPICS = {
 }
 KEYWORDS=("hpe","morpheus","opsramp","zerto","vmware","nutanix","quebec","canada","juniper","broadcom","anthropic","claude","openai","codex","grok","xai","gemini","hugging face","open weight","harness","eval")
 
-# Headline-based geography is indicative, not a verified publication-location assessment.
-CANADA=re.compile(r"\\b(canada|canadian|quebec|québec|montreal|montréal|ontario|toronto|ottawa|vancouver|alberta|nova scotia|santé québec)\\b",re.I)
-USA=re.compile(r"\\b(united states|\\bu\\.?s\\.?a?\\b|american|washington|california|new york|texas|silicon valley)\\b",re.I)
-EUROPE=re.compile(r"\\b(europe|european|eu regulation|uk|britain|british|france|french|germany|german|switzerland|swiss)\\b",re.I)
-APAC=re.compile(r"\\b(china|chinese|japan|japanese|india|indian|korea|korean|singapore|taiwan|australia)\\b",re.I)
-NA_IMPACT=("hpe","morpheus","opsramp","zerto","greenlake","juniper","aruba","vmware","broadcom","nutanix","openai","anthropic","claude","codex","microsoft","google","gemini","nvidia","hugging face","qwen","deepseek","mistral","llama","ai agent","mcp","inference","gpu")
-def geography(title):
-    # Locations in headlines reflect the subject, not reliably the origin of an announcement.
-    if CANADA.search(title):return "Canada / Quebec"
-    if USA.search(title):return "United States"
-    if EUROPE.search(title):return "Europe"
-    if APAC.search(title):return "Asia-Pacific"
-    return "Global / unspecified"
-def commercial_score(title,category,region):
+# These are heuristic classifications based on RSS headlines, not verified reporting.
+CANADA=re.compile(r"\b(canada|canadian|quebec|québec|montreal|montréal|ontario|toronto|ottawa|vancouver|alberta|nova scotia)\b",re.I)
+USA=re.compile(r"\b(united states|american|u\\.s\\.|usa|california|new york|texas|silicon valley)\b",re.I)
+EUROPE=re.compile(r"\b(europe|european|britain|british|france|french|germany|german|switzerland|swiss)\b",re.I)
+APAC=re.compile(r"\b(china|chinese|japan|japanese|india|indian|korea|korean|singapore|taiwan|australia)\b",re.I)
+GLOBAL_AI=("openai","anthropic","claude","codex","gemini","grok","hugging face","qwen","deepseek","mistral","llama","model","inference","agent","gpu","mcp","benchmark","harness")
+HPE=("hpe","morpus","morpheus","opsramp","zerto","greenlake","juniper","aruba")
+ENTERPRISE=("vmware","broadcom","nutanix","cybersecurity","private cloud","virtualization","datacenter","data center","enterprise")
+def origin_from_headline(title):
+    # Country mentions are only geographic clues; never infer a headquarters from a vendor name.
+    matches=[name for pattern,name in ((CANADA,"Canada / Quebec"),(USA,"United States"),(EUROPE,"Europe"),(APAC,"Asia-Pacific")) if pattern.search(title)]
+    return matches[0] if len(matches)==1 else "Unconfirmed / global"
+def commercial_impact(title,category):
     t=title.casefold()
-    weight=3 if any(k in t for k in NA_IMPACT) else 2
-    if region=="Canada / Quebec":weight+=2
-    elif region=="United States":weight+=1
-    if category in ("HPE Software","Partners","Opportunity"):weight+=1
-    return min(5,weight)
+    # Separate from origin: globally sourced developments can be highly useful in North America.
+    if any(x in t for x in HPE):return 5,"Direct HPE portfolio or partner relevance"
+    if any(x in t for x in ("canada","canadian","quebec","québec")):return 5,"Canadian enterprise / public-sector relevance"
+    if any(x in t for x in ENTERPRISE):return 4,"North American enterprise infrastructure relevance"
+    if any(x in t for x in GLOBAL_AI):return 4,"Cross-border AI platform or developer relevance"
+    if category in ("HPE Software","Partners","Opportunity"):return 4,"Potential North American partner / customer relevance"
+    return 2,"North American impact not yet established"
 def clean(value):
     value=str(value or "")
     for _ in range(3):
@@ -76,11 +77,11 @@ def main():
             if len(summary)<45 or title.casefold() in summary.casefold() or summary.casefold().startswith(re.sub(r"\s*-\s*[^-]+$", "", title).strip().casefold()):
                 summary="Headline from a public RSS feed. Read the source for the reporting and context."
             date=timestamp(entry)
-            region=geography(title)
-            score=commercial_score(title,category,region)
+            origin=origin_from_headline(title)
+            score,impact_reason=commercial_impact(title,category)
             stories.append({"id":hashlib.sha256(url.encode()).hexdigest()[:14],"cat":category,"title":title,"summary":summary[:330],
                 "impact":"Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-                "score":score,"region":region,"na_impact":score,"date":date.strftime("%Y-%m-%d") if date else "Date not confirmed","published_at":date.isoformat() if date else None,
+                "score":score,"region":origin,"origin_region":origin,"na_impact":score,"na_impact_reason":impact_reason,"date":date.strftime("%Y-%m-%d") if date else "Date not confirmed","published_at":date.isoformat() if date else None,
                 "source":url,"status":"RSS-discovered, unverified","_ts":date.timestamp() if date else 0})
     if not stories:
         print("No stories; keeping previous feed");return
