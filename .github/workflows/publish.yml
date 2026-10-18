@@ -33,6 +33,9 @@ jobs:
       - name: Refresh public news
         if: steps.localtime.outputs.run == 'true'
         run: python scripts/update_feed.py
+      - name: Audit editorial source provenance
+        if: steps.localtime.outputs.run == 'true'
+        run: python scripts/audit_editorial.py
       - name: Friday digest
         if: steps.localtime.outputs.run == 'true'
         run: |
