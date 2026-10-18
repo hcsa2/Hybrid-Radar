@@ -27,11 +27,11 @@ KEYWORDS=("hpe","morpheus","opsramp","zerto","vmware","nutanix","quebec","canada
 
 # These are heuristic classifications based on RSS headlines, not verified reporting.
 CANADA=re.compile(r"\b(canada|canadian|quebec|québec|montreal|montréal|ontario|toronto|ottawa|vancouver|alberta|nova scotia)\b",re.I)
-USA=re.compile(r"\b(united states|american|u\\.s\\.|usa|california|new york|texas|silicon valley)\b",re.I)
+USA=re.compile(r"\b(united states|american|u\.s\.|usa|california|new york|texas|silicon valley)\b",re.I)
 EUROPE=re.compile(r"\b(europe|european|britain|british|france|french|germany|german|switzerland|swiss)\b",re.I)
 APAC=re.compile(r"\b(china|chinese|japan|japanese|india|indian|korea|korean|singapore|taiwan|australia)\b",re.I)
 GLOBAL_AI=("openai","anthropic","claude","codex","gemini","grok","hugging face","qwen","deepseek","mistral","llama","model","inference","agent","gpu","mcp","benchmark","harness")
-HPE=("hpe","morpus","morpheus","opsramp","zerto","greenlake","juniper","aruba")
+HPE=("hpe","morpheus","opsramp","zerto","greenlake","juniper","aruba")
 ENTERPRISE=("vmware","broadcom","nutanix","cybersecurity","private cloud","virtualization","datacenter","data center","enterprise")
 def origin_from_headline(title):
     # Country mentions are only geographic clues; never infer a headquarters from a vendor name.
