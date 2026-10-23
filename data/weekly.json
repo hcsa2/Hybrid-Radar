@@ -2,6 +2,74 @@
   "date": "2026-10-23",
   "stories": [
     {
+      "id": "32c4d8f92afd93",
+      "cat": "Opportunity",
+      "title": "Extreme Previews Industry’s First On-Prem Enterprise AI Infrastructure for Networking - Yahoo! Finance Canada",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-10-21",
+      "published_at": "2026-10-21T11:05:00+00:00",
+      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeE9HR0pGTnlCNm1VTXVuMkVReThCWGtVd0NBd0hfTnhkcEFMNTVVUzlvcnFEeFB4YVM2dWgxazVLam5wUV90TERGa2I2cjd6a1REM1NENjFCcC1BemdkREE4amVfNFF5OWI1b293aHRBTWJvNG5JT2NkeElKUW4tLWxjYVFqRVcya0R4bkp3?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-10-23T16:29:22.067977+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeE9HR0pGTnlCNm1VTXVuMkVReThCWGtVd0NBd0hfTnhkcEFMNTVVUzlvcnFEeFB4YVM2dWgxazVLam5wUV90TERGa2I2cjd6a1REM1NENjFCcC1BemdkREE4amVfNFF5OWI1b293aHRBTWJvNG5JT2NkeElKUW4tLWxjYVFqRVcya0R4bkp3?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeE9HR0pGTnlCNm1VTXVuMkVReThCWGtVd0NBd0hfTnhkcEFMNTVVUzlvcnFEeFB4YVM2dWgxazVLam5wUV90TERGa2I2cjd6a1REM1NENjFCcC1BemdkREE4amVfNFF5OWI1b293aHRBTWJvNG5JT2NkeElKUW4tLWxjYVFqRVcya0R4bkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "eb3c502ef71084",
+      "cat": "Opportunity",
+      "title": "The Campbell's Company (CPB) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-10-21",
+      "published_at": "2026-10-21T02:18:40+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YdEdJYlJlR1Q3SThDOUY1TFlIRlBzMW5KUVl2emZnOUZYUkU5UW1XY1ItTUNDWkVKaUVfb19EY2tfSXVaYUYxSEdCYzZMc1ky?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-10-23T16:29:22.517830+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YdEdJYlJlR1Q3SThDOUY1TFlIRlBzMW5KUVl2emZnOUZYUkU5UW1XY1ItTUNDWkVKaUVfb19EY2tfSXVaYUYxSEdCYzZMc1ky?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YdEdJYlJlR1Q3SThDOUY1TFlIRlBzMW5KUVl2emZnOUZYUkU5UW1XY1ItTUNDWkVKaUVfb19EY2tfSXVaYUYxSEdCYzZMc1ky?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
       "id": "c063a89d16bcce",
       "cat": "Partners",
       "title": "CRN Channel Awards Asia 2026 Q&A: HPE - CRN Asia",
@@ -21,7 +89,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:26.460613+00:00",
+        "checked_at": "2026-10-23T16:29:22.775426+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPazdzUHg1T1cxcXg2ZkFLMm00SWlVRlY2bFFqZzNTVnduWEJBN2tSVTJwVG1sVUxUZVFMN1daN2N3Y1B6Z0FTUlBWRnhybGFkcnBOTUxDQXdNRTdrU2lVa09ZNG1fZzJFVzFTQnRHUXZ2Ymh0T1ZTRnFxSDFkNXBfc09aVQ?oc=5",
@@ -55,7 +123,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:26.609470+00:00",
+        "checked_at": "2026-10-23T16:29:23.161700+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWC1WZXBFclpBcU1QMjlEUUQ0XzJjbnZMSkFDeklkSXN2UVBKM3NhLXNCd29OSzlRUFhsVXlsZTJFc05qS2JCS0lYZ09feERGV2JzZWw2UXFlY3h5S0pZNzJXYlFHaFFHRDlzVWtOc3NoMjVqOGp0ZEhXRWJ6akUxaTBBRGZtZFdKT3ZYZGR0eXNFdHZLM0RrTHpoNkVjRmx2SUVOYzVXOVlBU0NiazAxNDVsSFBZajB3ZF9QMmZ3?oc=5",
@@ -89,7 +157,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:26.734315+00:00",
+        "checked_at": "2026-10-23T16:29:23.468799+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFlM1ZWeW1fUWZpWHlkLVhKN1JsSGl3MFRnY1dVbVNpQlhVM3phNXJnSkZSYTNwazNqV01RQlZta1BnNXNyX0JuUkRRV3hiUFpXSGxyb0FFZFl2ZndIVVpFYmZBS2RLVVI1bHFBemwtTlM2a1VObGJKNm5YU1lfMDh4X2ZNMm5QczE0R3NVVmlrR05uVGphTl9B?oc=5",
@@ -123,7 +191,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:26.846404+00:00",
+        "checked_at": "2026-10-23T16:29:23.751255+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0VmWG5zU1ZGUGlrc1F4N2xadS0ybUJyc1JUTDV6eGdqTjBEcm56QkNHQjE4a2YyeWtFYWRqOFlZbms1dE5UTnRoaUthU0lpWVgxYnpmaEFoTmlvSVh5RWQ5eUxKWU0xWkhDRkN6cTM2TGpZakNwd3U3YV91ZUx5VU15V1pnZElLeUltUEloNm9UWVhlMXVTNktkOEV1ZzROXzRXbE14ckVtM2lIR2tzakxZd1hZWWxYNTJOMg?oc=5",
@@ -157,7 +225,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:26.945838+00:00",
+        "checked_at": "2026-10-23T16:29:24.014611+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zaWFQMElNOWxKc2ZhVXZjQWJRazFlLVR4WjdQWHU3ZWVqUFZTTnZwdjF5ZGF5akxwR1huMDlnQjVvdHdsVG5Ha3hoQzZLZlVtN19Ia1MwSW8wd0RVV2JCVVR6VGIzSm5xV0I1U1hqYnA4OTZEZHc?oc=5",
@@ -165,6 +233,40 @@
           },
           {
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zaWFQMElNOWxKc2ZhVXZjQWJRazFlLVR4WjdQWHU3ZWVqUFZTTnZwdjF5ZGF5akxwR1huMDlnQjVvdHdsVG5Ha3hoQzZLZlVtN19Ia1MwSW8wd0RVV2JCVVR6VGIzSm5xV0I1U1hqYnA4OTZEZHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "f43db6903c78fe",
+      "cat": "Opportunity",
+      "title": "Blackstone Positions Itself at the Center of AI Financing as Neocloud Debt Concerns Grow - AI Insider",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 4,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 4,
+      "na_impact_reason": "Potential North American partner / customer relevance",
+      "date": "2026-10-23",
+      "published_at": "2026-10-23T13:47:05+00:00",
+      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkp2ZmstWnZTQmxzYjdOZkxoWEJ5b21tLVdsV0sxTExpczhRb0RET2RDcHNveUh4OHBmU3p5OGIyUW54SE84LVBwazNnU01OY1ZpZGVEUU9nei10V0VLdzdFV0tNV0tvSm55eEl4NTNNVnJIbzJOZ3RFa1pVc3RDRng5a1l5Vl8xaFlabXV6ajBKUFVMdXhfa2NBVEJ0cHZyQWJMelVYQVBqaURrUUQxNlpxaVBrVXIyYkZUNE5YbE9hd2Zv?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-10-23T16:29:24.309948+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkp2ZmstWnZTQmxzYjdOZkxoWEJ5b21tLVdsV0sxTExpczhRb0RET2RDcHNveUh4OHBmU3p5OGIyUW54SE84LVBwazNnU01OY1ZpZGVEUU9nei10V0VLdzdFV0tNV0tvSm55eEl4NTNNVnJIbzJOZ3RFa1pVc3RDRng5a1l5Vl8xaFlabXV6ajBKUFVMdXhfa2NBVEJ0cHZyQWJMelVYQVBqaURrUUQxNlpxaVBrVXIyYkZUNE5YbE9hd2Zv?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkp2ZmstWnZTQmxzYjdOZkxoWEJ5b21tLVdsV0sxTExpczhRb0RET2RDcHNveUh4OHBmU3p5OGIyUW54SE84LVBwazNnU01OY1ZpZGVEUU9nei10V0VLdzdFV0tNV0tvSm55eEl4NTNNVnJIbzJOZ3RFa1pVc3RDRng5a1l5Vl8xaFlabXV6ajBKUFVMdXhfa2NBVEJ0cHZyQWJMelVYQVBqaURrUUQxNlpxaVBrVXIyYkZUNE5YbE9hd2Zv?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -191,7 +293,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:27.044751+00:00",
+        "checked_at": "2026-10-23T16:29:24.527092+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHZUNzNhMEtVUURpS1c1cnhGc1ZTcVlBeElwU1JoUXVDTkZwenRRUUVHelRmWjdaT1dwRHpRZmdVM2FSSkIxeU5ralJpUy0tQjZ2QzF6UXdHZDJMeFg2clBYQW1UWThUcUNWVnk0aTZUeVFiTTkwTjVnOFVhN0xUeUVqVWpoZmRiS2EtYnBEZ1B6OTQ?oc=5",
@@ -206,9 +308,9 @@
       }
     },
     {
-      "id": "e8158fdaca5764",
+      "id": "16313285799391",
       "cat": "Opportunity",
-      "title": "Kevel Announces $52M in Funding to Scale AI-Driven Infrastructure for the Future of Commerce Media - AI Insider",
+      "title": "Data Replication Software Market Size & Share [2035] - Market Growth Reports",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
       "score": 4,
@@ -216,125 +318,23 @@
       "origin_region": "Unconfirmed / global",
       "na_impact": 4,
       "na_impact_reason": "Potential North American partner / customer relevance",
-      "date": "2026-10-22",
-      "published_at": "2026-10-22T17:08:19+00:00",
-      "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMnNNQ185S0dLS3dTelowTHBGMTZIMTM4Tk1DM0tEWEpLN0VTaTJqNzZfOTNJVDlvOXNMXzNWLTJjSUE4YnFsOWlGbDRzZjlwTXRiRmZxQjEyamhORktwbjRMMEEyZElXWWZhZEtSMFUtcFZ3azdaSlZzZkVUb1pqMjk1b2kxa3VFR3pUcG9GcFBlSVVYczhYS3ZZT29PY0xpRV9xWXRZek9PVlprZkVzSXN1OHFnNUlKajFSb0phdlZTVVlZeFN1QXFQMFNvd3pG?oc=5",
+      "date": "2026-10-23",
+      "published_at": "2026-10-23T06:49:35+00:00",
+      "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVhtMllsTUFWZG1pTDR2Y0U0eXZ6RU9CSDZwS2hmRkM3SFpCM2tleDhmQ1E4RTZhMnJ6MVpJTGZMQ2Nra1dWSktVRXZ6bkZKQXZVYTlYYnhFS3BxQ0pzREc0M3pTUmRqN0I1Ukx5d1dDZk85M0pBamVndUNOWDM3UUJkVEU0eHYzclFXdjFMN1V4bE91?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:27.160479+00:00",
+        "checked_at": "2026-10-23T16:29:24.795095+00:00",
         "evidence": [
           {
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMnNNQ185S0dLS3dTelowTHBGMTZIMTM4Tk1DM0tEWEpLN0VTaTJqNzZfOTNJVDlvOXNMXzNWLTJjSUE4YnFsOWlGbDRzZjlwTXRiRmZxQjEyamhORktwbjRMMEEyZElXWWZhZEtSMFUtcFZ3azdaSlZzZkVUb1pqMjk1b2kxa3VFR3pUcG9GcFBlSVVYczhYS3ZZT29PY0xpRV9xWXRZek9PVlprZkVzSXN1OHFnNUlKajFSb0phdlZTVVlZeFN1QXFQMFNvd3pG?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVhtMllsTUFWZG1pTDR2Y0U0eXZ6RU9CSDZwS2hmRkM3SFpCM2tleDhmQ1E4RTZhMnJ6MVpJTGZMQ2Nra1dWSktVRXZ6bkZKQXZVYTlYYnhFS3BxQ0pzREc0M3pTUmRqN0I1Ukx5d1dDZk85M0pBamVndUNOWDM3UUJkVEU0eHYzclFXdjFMN1V4bE91?oc=5",
             "kind": "RSS discovery"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMnNNQ185S0dLS3dTelowTHBGMTZIMTM4Tk1DM0tEWEpLN0VTaTJqNzZfOTNJVDlvOXNMXzNWLTJjSUE4YnFsOWlGbDRzZjlwTXRiRmZxQjEyamhORktwbjRMMEEyZElXWWZhZEtSMFUtcFZ3azdaSlZzZkVUb1pqMjk1b2kxa3VFR3pUcG9GcFBlSVVYczhYS3ZZT29PY0xpRV9xWXRZek9PVlprZkVzSXN1OHFnNUlKajFSb0phdlZTVVlZeFN1QXFQMFNvd3pG?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "92006bc530fa9c",
-      "cat": "Opportunity",
-      "title": "Why AI’s next phase could favor investors with a global view - T. Rowe Price",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Potential North American partner / customer relevance",
-      "date": "2026-10-22",
-      "published_at": "2026-10-22T13:48:31+00:00",
-      "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkdSNnJpRG5qVUhPcW5jVzlDZUJOTWt5WnpMU3dUS1JkeWFLc2p5VW1tTS1FV19hbEFwTU1zVC00TThpYlJyblhoYllpN3RXRGpPXzRQRU1qQzJISXpIYnphNEJnSzdoU2sxVVN3cHlrRWFaM05wMWg1NmtwME5iRGg0NDNKSWlKeGhwY1hQN2hhXzNBWEtYcVJWMjZJUXVydFJXd3o0TElsM2hST3MxQk9zdUZPMmQ4eE1xQ25RT3JkY285eWJBd0IzeURJamxIc0Q5ZElrRmJNZw?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:27.263086+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkdSNnJpRG5qVUhPcW5jVzlDZUJOTWt5WnpMU3dUS1JkeWFLc2p5VW1tTS1FV19hbEFwTU1zVC00TThpYlJyblhoYllpN3RXRGpPXzRQRU1qQzJISXpIYnphNEJnSzdoU2sxVVN3cHlrRWFaM05wMWg1NmtwME5iRGg0NDNKSWlKeGhwY1hQN2hhXzNBWEtYcVJWMjZJUXVydFJXd3o0TElsM2hST3MxQk9zdUZPMmQ4eE1xQ25RT3JkY285eWJBd0IzeURJamxIc0Q5ZElrRmJNZw?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkdSNnJpRG5qVUhPcW5jVzlDZUJOTWt5WnpMU3dUS1JkeWFLc2p5VW1tTS1FV19hbEFwTU1zVC00TThpYlJyblhoYllpN3RXRGpPXzRQRU1qQzJISXpIYnphNEJnSzdoU2sxVVN3cHlrRWFaM05wMWg1NmtwME5iRGg0NDNKSWlKeGhwY1hQN2hhXzNBWEtYcVJWMjZJUXVydFJXd3o0TElsM2hST3MxQk9zdUZPMmQ4eE1xQ25RT3JkY285eWJBd0IzeURJamxIc0Q5ZElrRmJNZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "16e111cc4e35d6",
-      "cat": "Opportunity",
-      "title": "Integrated Quantum Technologies Expands U.S. Government Market Strategy Through Partnership with ARMI Solutions - TradingView",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Potential North American partner / customer relevance",
-      "date": "2026-10-22",
-      "published_at": "2026-10-22T12:30:00+00:00",
-      "source": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZlZLQXdWeEFUTnlOSWo5OGtGSDVsYWgtRVYxQ2x3OG13S1hDcldscGNIVWFmSmRYQms3RDh1YUJlOFRaV2VIWjh2ZXJpazNxcTc3NV9mYXRoU3NVVVZRb2o3cUNYVTluVE5JajYwY3RjamRDRjlBbkZxZFlCcXprWTh0aTR5RHZ1TDJ1QzF2MUlpTUhSb3BiYldvLXRBY3RUZkVZSmYxMENMb1loQ0xMSlY4VUJqcXdJUWQwRlpIdkVoUUtLdFRZTkFTakRIX3l3Tl9adzQ1dWVXSWhOSzQ2dlhTeGNYTGNLdUVENW1UUXhuWURuTW1VckdxV2JSaTNSMjcw?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:27.383432+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZlZLQXdWeEFUTnlOSWo5OGtGSDVsYWgtRVYxQ2x3OG13S1hDcldscGNIVWFmSmRYQms3RDh1YUJlOFRaV2VIWjh2ZXJpazNxcTc3NV9mYXRoU3NVVVZRb2o3cUNYVTluVE5JajYwY3RjamRDRjlBbkZxZFlCcXprWTh0aTR5RHZ1TDJ1QzF2MUlpTUhSb3BiYldvLXRBY3RUZkVZSmYxMENMb1loQ0xMSlY4VUJqcXdJUWQwRlpIdkVoUUtLdFRZTkFTakRIX3l3Tl9adzQ1dWVXSWhOSzQ2dlhTeGNYTGNLdUVENW1UUXhuWURuTW1VckdxV2JSaTNSMjcw?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZlZLQXdWeEFUTnlOSWo5OGtGSDVsYWgtRVYxQ2x3OG13S1hDcldscGNIVWFmSmRYQms3RDh1YUJlOFRaV2VIWjh2ZXJpazNxcTc3NV9mYXRoU3NVVVZRb2o3cUNYVTluVE5JajYwY3RjamRDRjlBbkZxZFlCcXprWTh0aTR5RHZ1TDJ1QzF2MUlpTUhSb3BiYldvLXRBY3RUZkVZSmYxMENMb1loQ0xMSlY4VUJqcXdJUWQwRlpIdkVoUUtLdFRZTkFTakRIX3l3Tl9adzQ1dWVXSWhOSzQ2dlhTeGNYTGNLdUVENW1UUXhuWURuTW1VckdxV2JSaTNSMjcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "782064d8364dd3",
-      "cat": "Opportunity",
-      "title": "Smartbird Expands Enterprise AI Infrastructure Ecosystem with WEKA Technology - Yahoo Finance",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "North American enterprise infrastructure relevance",
-      "date": "2026-10-22",
-      "published_at": "2026-10-22T12:00:00+00:00",
-      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTJDbkdab253Y2NNcFI3UTlfcExPVzF5Z2JCUW9sQThET2NEVXJlUWpVWjZDYmlMYjNFcHhybXQxekZEekpfRkFSTG9aZ1p3dzV4YlZXXzVoUWtkWWdqclY4cEZwN2RUcVpYd1A0Vmc2YlZnenNfSEcxQnRybTc1ZEdwTkh1bG9BUzh3VmJZaWk3NmZuZ1J1V0FMSDV5VHlGU2xQQm5OZWlPUlhiVDdZ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-23T10:29:27.480662+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTJDbkdab253Y2NNcFI3UTlfcExPVzF5Z2JCUW9sQThET2NEVXJlUWpVWjZDYmlMYjNFcHhybXQxekZEekpfRkFSTG9aZ1p3dzV4YlZXXzVoUWtkWWdqclY4cEZwN2RUcVpYd1A0Vmc2YlZnenNfSEcxQnRybTc1ZEdwTkh1bG9BUzh3VmJZaWk3NmZuZ1J1V0FMSDV5VHlGU2xQQm5OZWlPUlhiVDdZ?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTJDbkdab253Y2NNcFI3UTlfcExPVzF5Z2JCUW9sQThET2NEVXJlUWpVWjZDYmlMYjNFcHhybXQxekZEekpfRkFSTG9aZ1p3dzV4YlZXXzVoUWtkWWdqclY4cEZwN2RUcVpYd1A0Vmc2YlZnenNfSEcxQnRybTc1ZEdwTkh1bG9BUzh3VmJZaWk3NmZuZ1J1V0FMSDV5VHlGU2xQQm5OZWlPUlhiVDdZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVhtMllsTUFWZG1pTDR2Y0U0eXZ6RU9CSDZwS2hmRkM3SFpCM2tleDhmQ1E4RTZhMnJ6MVpJTGZMQ2Nra1dWSktVRXZ6bkZKQXZVYTlYYnhFS3BxQ0pzREc0M3pTUmRqN0I1Ukx5d1dDZk85M0pBamVndUNOWDM3UUJkVEU0eHYzclFXdjFMN1V4bE91?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -348,5 +348,5 @@
     "Which partners could help deliver a discovery workshop next week?"
   ],
   "methodology": "Selected public RSS headlines from the available seven-day feed, not a comprehensive or independently verified research report.",
-  "text": "HYBRID RADAR WEEKLY — 2026-10-23\nNorth America first | Global technology intelligence\n\n1. CRN Channel Awards Asia 2026 Q&A: HPE - CRN Asia\nDate: 2026-10-19 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMigwFBVV95cUxPazdzUHg1T1cxcXg2ZkFLMm00SWlVRlY2bFFqZzNTVnduWEJBN2tSVTJwVG1sVUxUZVFMN1daN2N3Y1B6Z0FTUlBWRnhybGFkcnBOTUxDQXdNRTdrU2lVa09ZNG1fZzJFVzFTQnRHUXZ2Ymh0T1ZTRnFxSDFkNXBfc09aVQ?oc=5\n\n2. HPE sees growing demand for refurbished IT as supply chain costs squeeze customers - CRN UK\nDate: 2026-10-19 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMivgFBVV95cUxQWC1WZXBFclpBcU1QMjlEUUQ0XzJjbnZMSkFDeklkSXN2UVBKM3NhLXNCd29OSzlRUFhsVXlsZTJFc05qS2JCS0lYZ09feERGV2JzZWw2UXFlY3h5S0pZNzJXYlFHaFFHRDlzVWtOc3NoMjVqOGp0ZEhXRWJ6akUxaTBBRGZtZFdKT3ZYZGR0eXNFdHZLM0RrTHpoNkVjRmx2SUVOYzVXOVlBU0NiazAxNDVsSFBZajB3ZF9QMmZ3?oc=5\n\n3. Canada enjoys home advantage in AI infrastructure race - Infrastructure Investor\nDate: 2026-10-19 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFlM1ZWeW1fUWZpWHlkLVhKN1JsSGl3MFRnY1dVbVNpQlhVM3phNXJnSkZSYTNwazNqV01RQlZta1BnNXNyX0JuUkRRV3hiUFpXSGxyb0FFZFl2ZndIVVpFYmZBS2RLVVI1bHFBemwtTlM2a1VObGJKNm5YU1lfMDh4X2ZNMm5QczE0R3NVVmlrR05uVGphTl9B?oc=5\n\n4. Norway Data Center Firm Hunts for Partner on Canada-Europe Fiber Link - Bloomberg.com\nDate: 2026-10-19 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0VmWG5zU1ZGUGlrc1F4N2xadS0ybUJyc1JUTDV6eGdqTjBEcm56QkNHQjE4a2YyeWtFYWRqOFlZbms1dE5UTnRoaUthU0lpWVgxYnpmaEFoTmlvSVh5RWQ5eUxKWU0xWkhDRkN6cTM2TGpZakNwd3U3YV91ZUx5VU15V1pnZElLeUltUEloNm9UWVhlMXVTNktkOEV1ZzROXzRXbE14ckVtM2lIR2tzakxZd1hZWWxYNTJOMg?oc=5\n\n5. Canada Maps AI Data Centres as Alberta Takes 90% [2026] - tech-insider.org\nDate: 2026-10-17 | Opportunity\nRelevance: 5/5\nCanada Maps AI Data Centres as Alberta Takes 90% [2026] tech-insider.org\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMidkFVX3lxTE9zaWFQMElNOWxKc2ZhVXZjQWJRazFlLVR4WjdQWHU3ZWVqUFZTTnZwdjF5ZGF5akxwR1huMDlnQjVvdHdsVG5Ha3hoQzZLZlVtN19Ia1MwSW8wd0RVV2JCVVR6VGIzSm5xV0I1U1hqYnA4OTZEZHc?oc=5\n\n6. AGENTS.md, DESIGN.md and SKILL.md, the 3 Files That Guide AI Coding Agents - Pasquale Pillitteri\nDate: 2026-10-23 | AI Dev Tools\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHZUNzNhMEtVUURpS1c1cnhGc1ZTcVlBeElwU1JoUXVDTkZwenRRUUVHelRmWjdaT1dwRHpRZmdVM2FSSkIxeU5ralJpUy0tQjZ2QzF6UXdHZDJMeFg2clBYQW1UWThUcUNWVnk0aTZUeVFiTTkwTjVnOFVhN0xUeUVqVWpoZmRiS2EtYnBEZ1B6OTQ?oc=5\n\n7. Kevel Announces $52M in Funding to Scale AI-Driven Infrastructure for the Future of Commerce Media - AI Insider\nDate: 2026-10-22 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMnNNQ185S0dLS3dTelowTHBGMTZIMTM4Tk1DM0tEWEpLN0VTaTJqNzZfOTNJVDlvOXNMXzNWLTJjSUE4YnFsOWlGbDRzZjlwTXRiRmZxQjEyamhORktwbjRMMEEyZElXWWZhZEtSMFUtcFZ3azdaSlZzZkVUb1pqMjk1b2kxa3VFR3pUcG9GcFBlSVVYczhYS3ZZT29PY0xpRV9xWXRZek9PVlprZkVzSXN1OHFnNUlKajFSb0phdlZTVVlZeFN1QXFQMFNvd3pG?oc=5\n\n8. Why AI’s next phase could favor investors with a global view - T. Rowe Price\nDate: 2026-10-22 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkdSNnJpRG5qVUhPcW5jVzlDZUJOTWt5WnpMU3dUS1JkeWFLc2p5VW1tTS1FV19hbEFwTU1zVC00TThpYlJyblhoYllpN3RXRGpPXzRQRU1qQzJISXpIYnphNEJnSzdoU2sxVVN3cHlrRWFaM05wMWg1NmtwME5iRGg0NDNKSWlKeGhwY1hQN2hhXzNBWEtYcVJWMjZJUXVydFJXd3o0TElsM2hST3MxQk9zdUZPMmQ4eE1xQ25RT3JkY285eWJBd0IzeURJamxIc0Q5ZElrRmJNZw?oc=5\n\n9. Integrated Quantum Technologies Expands U.S. Government Market Strategy Through Partnership with ARMI Solutions - TradingView\nDate: 2026-10-22 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMigwJBVV95cUxQZlZLQXdWeEFUTnlOSWo5OGtGSDVsYWgtRVYxQ2x3OG13S1hDcldscGNIVWFmSmRYQms3RDh1YUJlOFRaV2VIWjh2ZXJpazNxcTc3NV9mYXRoU3NVVVZRb2o3cUNYVTluVE5JajYwY3RjamRDRjlBbkZxZFlCcXprWTh0aTR5RHZ1TDJ1QzF2MUlpTUhSb3BiYldvLXRBY3RUZkVZSmYxMENMb1loQ0xMSlY4VUJqcXdJUWQwRlpIdkVoUUtLdFRZTkFTakRIX3l3Tl9adzQ1dWVXSWhOSzQ2dlhTeGNYTGNLdUVENW1UUXhuWURuTW1VckdxV2JSaTNSMjcw?oc=5\n\n10. Smartbird Expands Enterprise AI Infrastructure Ecosystem with WEKA Technology - Yahoo Finance\nDate: 2026-10-22 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTJDbkdab253Y2NNcFI3UTlfcExPVzF5Z2JCUW9sQThET2NEVXJlUWpVWjZDYmlMYjNFcHhybXQxekZEekpfRkFSTG9aZ1p3dzV4YlZXXzVoUWtkWWdqclY4cEZwN2RUcVpYd1A0Vmc2YlZnenNfSEcxQnRybTc1ZEdwTkh1bG9BUzh3VmJZaWk3NmZuZ1J1V0FMSDV5VHlGU2xQQm5OZWlPUlhiVDdZ?oc=5\n\nDISCOVERY QUESTIONS\nWhich upcoming virtualization renewals create a modernization opportunity?\nWhich AI workloads need private deployment, observability or runtime governance?\nWhich partners could help deliver a discovery workshop next week?\n\nEditorial note: selected public RSS headlines; original reporting and claims have not been independently verified."
+  "text": "HYBRID RADAR WEEKLY — 2026-10-23\nNorth America first | Global technology intelligence\n\n1. Extreme Previews Industry’s First On-Prem Enterprise AI Infrastructure for Networking - Yahoo! Finance Canada\nDate: 2026-10-21 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMijgFBVV95cUxOeE9HR0pGTnlCNm1VTXVuMkVReThCWGtVd0NBd0hfTnhkcEFMNTVVUzlvcnFEeFB4YVM2dWgxazVLam5wUV90TERGa2I2cjd6a1REM1NENjFCcC1BemdkREE4amVfNFF5OWI1b293aHRBTWJvNG5JT2NkeElKUW4tLWxjYVFqRVcya0R4bkp3?oc=5\n\n2. The Campbell's Company (CPB) Stock Price, News, Quote & History - Yahoo! Finance Canada\nDate: 2026-10-21 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YdEdJYlJlR1Q3SThDOUY1TFlIRlBzMW5KUVl2emZnOUZYUkU5UW1XY1ItTUNDWkVKaUVfb19EY2tfSXVaYUYxSEdCYzZMc1ky?oc=5\n\n3. CRN Channel Awards Asia 2026 Q&A: HPE - CRN Asia\nDate: 2026-10-19 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMigwFBVV95cUxPazdzUHg1T1cxcXg2ZkFLMm00SWlVRlY2bFFqZzNTVnduWEJBN2tSVTJwVG1sVUxUZVFMN1daN2N3Y1B6Z0FTUlBWRnhybGFkcnBOTUxDQXdNRTdrU2lVa09ZNG1fZzJFVzFTQnRHUXZ2Ymh0T1ZTRnFxSDFkNXBfc09aVQ?oc=5\n\n4. HPE sees growing demand for refurbished IT as supply chain costs squeeze customers - CRN UK\nDate: 2026-10-19 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMivgFBVV95cUxQWC1WZXBFclpBcU1QMjlEUUQ0XzJjbnZMSkFDeklkSXN2UVBKM3NhLXNCd29OSzlRUFhsVXlsZTJFc05qS2JCS0lYZ09feERGV2JzZWw2UXFlY3h5S0pZNzJXYlFHaFFHRDlzVWtOc3NoMjVqOGp0ZEhXRWJ6akUxaTBBRGZtZFdKT3ZYZGR0eXNFdHZLM0RrTHpoNkVjRmx2SUVOYzVXOVlBU0NiazAxNDVsSFBZajB3ZF9QMmZ3?oc=5\n\n5. Canada enjoys home advantage in AI infrastructure race - Infrastructure Investor\nDate: 2026-10-19 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFlM1ZWeW1fUWZpWHlkLVhKN1JsSGl3MFRnY1dVbVNpQlhVM3phNXJnSkZSYTNwazNqV01RQlZta1BnNXNyX0JuUkRRV3hiUFpXSGxyb0FFZFl2ZndIVVpFYmZBS2RLVVI1bHFBemwtTlM2a1VObGJKNm5YU1lfMDh4X2ZNMm5QczE0R3NVVmlrR05uVGphTl9B?oc=5\n\n6. Norway Data Center Firm Hunts for Partner on Canada-Europe Fiber Link - Bloomberg.com\nDate: 2026-10-19 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0VmWG5zU1ZGUGlrc1F4N2xadS0ybUJyc1JUTDV6eGdqTjBEcm56QkNHQjE4a2YyeWtFYWRqOFlZbms1dE5UTnRoaUthU0lpWVgxYnpmaEFoTmlvSVh5RWQ5eUxKWU0xWkhDRkN6cTM2TGpZakNwd3U3YV91ZUx5VU15V1pnZElLeUltUEloNm9UWVhlMXVTNktkOEV1ZzROXzRXbE14ckVtM2lIR2tzakxZd1hZWWxYNTJOMg?oc=5\n\n7. Canada Maps AI Data Centres as Alberta Takes 90% [2026] - tech-insider.org\nDate: 2026-10-17 | Opportunity\nRelevance: 5/5\nCanada Maps AI Data Centres as Alberta Takes 90% [2026] tech-insider.org\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMidkFVX3lxTE9zaWFQMElNOWxKc2ZhVXZjQWJRazFlLVR4WjdQWHU3ZWVqUFZTTnZwdjF5ZGF5akxwR1huMDlnQjVvdHdsVG5Ha3hoQzZLZlVtN19Ia1MwSW8wd0RVV2JCVVR6VGIzSm5xV0I1U1hqYnA4OTZEZHc?oc=5\n\n8. Blackstone Positions Itself at the Center of AI Financing as Neocloud Debt Concerns Grow - AI Insider\nDate: 2026-10-23 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkp2ZmstWnZTQmxzYjdOZkxoWEJ5b21tLVdsV0sxTExpczhRb0RET2RDcHNveUh4OHBmU3p5OGIyUW54SE84LVBwazNnU01OY1ZpZGVEUU9nei10V0VLdzdFV0tNV0tvSm55eEl4NTNNVnJIbzJOZ3RFa1pVc3RDRng5a1l5Vl8xaFlabXV6ajBKUFVMdXhfa2NBVEJ0cHZyQWJMelVYQVBqaURrUUQxNlpxaVBrVXIyYkZUNE5YbE9hd2Zv?oc=5\n\n9. AGENTS.md, DESIGN.md and SKILL.md, the 3 Files That Guide AI Coding Agents - Pasquale Pillitteri\nDate: 2026-10-23 | AI Dev Tools\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHZUNzNhMEtVUURpS1c1cnhGc1ZTcVlBeElwU1JoUXVDTkZwenRRUUVHelRmWjdaT1dwRHpRZmdVM2FSSkIxeU5ralJpUy0tQjZ2QzF6UXdHZDJMeFg2clBYQW1UWThUcUNWVnk0aTZUeVFiTTkwTjVnOFVhN0xUeUVqVWpoZmRiS2EtYnBEZ1B6OTQ?oc=5\n\n10. Data Replication Software Market Size & Share [2035] - Market Growth Reports\nDate: 2026-10-23 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVhtMllsTUFWZG1pTDR2Y0U0eXZ6RU9CSDZwS2hmRkM3SFpCM2tleDhmQ1E4RTZhMnJ6MVpJTGZMQ2Nra1dWSktVRXZ6bkZKQXZVYTlYYnhFS3BxQ0pzREc0M3pTUmRqN0I1Ukx5d1dDZk85M0pBamVndUNOWDM3UUJkVEU0eHYzclFXdjFMN1V4bE91?oc=5\n\nDISCOVERY QUESTIONS\nWhich upcoming virtualization renewals create a modernization opportunity?\nWhich AI workloads need private deployment, observability or runtime governance?\nWhich partners could help deliver a discovery workshop next week?\n\nEditorial note: selected public RSS headlines; original reporting and claims have not been independently verified."
 }
