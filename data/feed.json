@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-11-03 11:42 UTC",
+  "generated_at": "2026-11-03 17:42 UTC",
   "stories": [
+    {
+      "id": "cd982363c7e414",
+      "cat": "Opportunity",
+      "title": "Canada needs to start embracing AI data centres - The Hub | More Signal. Less Noise.",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-11-03",
+      "published_at": "2026-11-03T08:00:51+00:00",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajN5RjdhOUdYYWUtSWV0eVBHQVpjNlBESy1zZS1BQmxRR0hRenVpUVNfdFpPNkEwRG1yYm9QQ3hLZHBCYmtBMV9YUzZSaXlDZG9BMFhOYi1wdjV6aDBCTnprN2hMQmFOZ2U2ckgzS2ZNV3cwclA0QzNpUjM0RGFwZWV4VGVzTkVwRGxVaTBkWW92Rmh0RFJaYXhaRV9Ka2tNZGlMZ2xNX01uQ1REb2c?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-03T17:42:22.606879+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajN5RjdhOUdYYWUtSWV0eVBHQVpjNlBESy1zZS1BQmxRR0hRenVpUVNfdFpPNkEwRG1yYm9QQ3hLZHBCYmtBMV9YUzZSaXlDZG9BMFhOYi1wdjV6aDBCTnprN2hMQmFOZ2U2ckgzS2ZNV3cwclA0QzNpUjM0RGFwZWV4VGVzTkVwRGxVaTBkWW92Rmh0RFJaYXhaRV9Ka2tNZGlMZ2xNX01uQ1REb2c?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajN5RjdhOUdYYWUtSWV0eVBHQVpjNlBESy1zZS1BQmxRR0hRenVpUVNfdFpPNkEwRG1yYm9QQ3hLZHBCYmtBMV9YUzZSaXlDZG9BMFhOYi1wdjV6aDBCTnprN2hMQmFOZ2U2ckgzS2ZNV3cwclA0QzNpUjM0RGFwZWV4VGVzTkVwRGxVaTBkWW92Rmh0RFJaYXhaRV9Ka2tNZGlMZ2xNX01uQ1REb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
     {
       "id": "a4615822173e2e",
       "cat": "Partners",
@@ -21,7 +55,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:14.908375+00:00",
+        "checked_at": "2026-11-03T17:42:22.921522+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWt6cjdqR3p3Vzl1MjdZV005TC1HOTQ5ckZkWnZPY1Z3R3B3MzFmenU2eFdWdWstdWtjQjZWS1R5YTlLOHN6UDd3a0l0MGxYS1FkUmJSNDkyZGRRNHBjZkhsRHYzYTJCOGR0bDVsZ29GMkdxSy1JZm9NaG4xZ2VvU0xuLV82anhqMjM3MzNBVVBzVXlpbnZ6SDlpMHlmQjFzMmlQRktNRVl2ZjdiYWc?oc=5",
@@ -55,7 +89,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.046968+00:00",
+        "checked_at": "2026-11-03T17:42:23.123276+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc?oc=5",
@@ -63,6 +97,40 @@
           },
           {
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "1d5aae87571dc5",
+      "cat": "Opportunity",
+      "title": "AI company Cohere, founded by U of T alumni, to receive up to $1.6 billion from Government of Canada - University of Toronto",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-11-02",
+      "published_at": "2026-11-02T17:46:44+00:00",
+      "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcERPVWRxSW04V0dQRW5uNGFVQ3A3X3lhVElRYkNOWU5jcHB6NS1qVmJ4U3lmVG9KMjAxcWZTLTVlMXlBcFNMQWUxM2l5MjJybkZZNGlLNl9sSzI2THNsS1lfZ2p6c3J0UVZFeTFjVFJxZVdPSFlZb0M3Ym9yYXF6UDhYQ2toZFRDY2d1cnhuQnlOUnFfNXlBU0d0NUhoUmpnemJQbg?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-03T17:42:23.406336+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcERPVWRxSW04V0dQRW5uNGFVQ3A3X3lhVElRYkNOWU5jcHB6NS1qVmJ4U3lmVG9KMjAxcWZTLTVlMXlBcFNMQWUxM2l5MjJybkZZNGlLNl9sSzI2THNsS1lfZ2p6c3J0UVZFeTFjVFJxZVdPSFlZb0M3Ym9yYXF6UDhYQ2toZFRDY2d1cnhuQnlOUnFfNXlBU0d0NUhoUmpnemJQbg?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcERPVWRxSW04V0dQRW5uNGFVQ3A3X3lhVElRYkNOWU5jcHB6NS1qVmJ4U3lmVG9KMjAxcWZTLTVlMXlBcFNMQWUxM2l5MjJybkZZNGlLNl9sSzI2THNsS1lfZ2p6c3J0UVZFeTFjVFJxZVdPSFlZb0M3Ym9yYXF6UDhYQ2toZFRDY2d1cnhuQnlOUnFfNXlBU0d0NUhoUmpnemJQbg?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -89,7 +157,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.136035+00:00",
+        "checked_at": "2026-11-03T17:42:23.519120+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFcVVvbXYwOHQ1dWRZeDVwYk4wSURqUFBQaDJTNV9ad0ZVUXRXekd2VU5CWmE2R0d0djBRMUh4T0laNXNBZ3ozdjVhU2FadWEzdVVr?oc=5",
@@ -123,7 +191,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.216808+00:00",
+        "checked_at": "2026-11-03T17:42:23.668222+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1hrNGpQTXU2RmYzNVlzRVZ5RWZmWlNBeU4wMFJxMUVvdFhoRGRhYTlqNy1ISTZFUDRQWU9QWVBxcEd4elJVT3d4TUpPcUJhWVpsam5WWFpfQVhyUnNLdzQxVlFSSVJEcFE2dklWVzdzamNIdWVuejVLaXV1bnEwb2lVXzJjZ1hSUkNFc1d4dm9fNWxfLVE?oc=5",
@@ -131,40 +199,6 @@
           },
           {
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1hrNGpQTXU2RmYzNVlzRVZ5RWZmWlNBeU4wMFJxMUVvdFhoRGRhYTlqNy1ISTZFUDRQWU9QWVBxcEd4elJVT3d4TUpPcUJhWVpsam5WWFpfQVhyUnNLdzQxVlFSSVJEcFE2dklWVzdzamNIdWVuejVLaXV1bnEwb2lVXzJjZ1hSUkNFc1d4dm9fNWxfLVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "8b80faef5ae1e1",
-      "cat": "Opportunity",
-      "title": "Canada’s evolving data centre landscape: Federal and provincial updates - Dentons",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-30",
-      "published_at": "2026-10-30T15:34:47+00:00",
-      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaklKRVF4V0ptTTdtb1otMkJmZzB3b0ZtU3RJdWRTMnAzdlRCUEN0UWFzLWVzdzBETU42WWZGZXV4U0p6cWJKSmMxZnhfUm56Ul85MjliZ3h2aHVwdGdwTzNYaWwwanEyZTRITWlNY0FWNXRlZWpzWUJBLVdKWEdON3JwNV93UnRRSGFjdDhFbkZYVGM5eGJvNE5Da3M1UDNz?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.296461+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaklKRVF4V0ptTTdtb1otMkJmZzB3b0ZtU3RJdWRTMnAzdlRCUEN0UWFzLWVzdzBETU42WWZGZXV4U0p6cWJKSmMxZnhfUm56Ul85MjliZ3h2aHVwdGdwTzNYaWwwanEyZTRITWlNY0FWNXRlZWpzWUJBLVdKWEdON3JwNV93UnRRSGFjdDhFbkZYVGM5eGJvNE5Da3M1UDNz?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaklKRVF4V0ptTTdtb1otMkJmZzB3b0ZtU3RJdWRTMnAzdlRCUEN0UWFzLWVzdzBETU42WWZGZXV4U0p6cWJKSmMxZnhfUm56Ul85MjliZ3h2aHVwdGdwTzNYaWwwanEyZTRITWlNY0FWNXRlZWpzWUJBLVdKWEdON3JwNV93UnRRSGFjdDhFbkZYVGM5eGJvNE5Da3M1UDNz?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -191,7 +225,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.386090+00:00",
+        "checked_at": "2026-11-03T17:42:23.876839+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3FKY3loNkpBclkyR3VQek5NTFhrMHdGTTBkSVJSdThSc09BbTF6Y3N6akdYSXpwRXBQekdCS3RWRTlCOFJFWjVudGh1Z0xDX3ptdXpEMWlSdERDakc5emlwQVA3RTVZNlgwNDhjMzZJaXVPYTlzTkxaTVhhSW9CMTl1V29OUDFJQlQwSUNGQWhjXzdDS0xZTEtCV0lmSGlES25zRQ?oc=5",
@@ -206,43 +240,9 @@
       }
     },
     {
-      "id": "e7dca9dc75e391",
+      "id": "1f47c99ac86b44",
       "cat": "Opportunity",
-      "title": "What Canada Gets for C$1.6B in Cohere: 1,000 Jobs [2026] - tech-insider.org",
-      "summary": "What Canada Gets for C$1.6B in Cohere: 1,000 Jobs [2026] tech-insider.org",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-30",
-      "published_at": "2026-10-30T07:43:34+00:00",
-      "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUk9yOVdjS3VpS1B3Q1FmT2RMcnlVSi1WWEZiQUxlMjNRelE5eE51MWFtZnBDTmFTNDNvZWFrNTNDSzZwRUcySm85MkxVNmtRNlhRTG5rRjhnN0plNFhQN2lFYUkteVY2UmNSNmJKNEdWelBRVGJ4YVEyTEIzSkpMOUowM3NmZw?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.480494+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUk9yOVdjS3VpS1B3Q1FmT2RMcnlVSi1WWEZiQUxlMjNRelE5eE51MWFtZnBDTmFTNDNvZWFrNTNDSzZwRUcySm85MkxVNmtRNlhRTG5rRjhnN0plNFhQN2lFYUkteVY2UmNSNmJKNEdWelBRVGJ4YVEyTEIzSkpMOUowM3NmZw?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUk9yOVdjS3VpS1B3Q1FmT2RMcnlVSi1WWEZiQUxlMjNRelE5eE51MWFtZnBDTmFTNDNvZWFrNTNDSzZwRUcySm85MkxVNmtRNlhRTG5rRjhnN0plNFhQN2lFYUkteVY2UmNSNmJKNEdWelBRVGJ4YVEyTEIzSkpMOUowM3NmZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "f94e775c6d5254",
-      "cat": "Opportunity",
-      "title": "Canada buying stake in AI firm Cohere to bolster tech sovereignty - AFP.com",
+      "title": "Canada to Take Equity Stake in AI Firm Cohere - WSJ",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
       "score": 5,
@@ -251,90 +251,22 @@
       "na_impact": 5,
       "na_impact_reason": "Canadian enterprise / public-sector relevance",
       "date": "2026-10-29",
-      "published_at": "2026-10-29T20:27:15+00:00",
-      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXFyRE5OU0RJUXFtTXVBY0tKaV9LR1ktWkxtdTM5djJnWmQ4c2xwQ191Y1RmUlR0SVE4czF6VklFUjdZUVhEMEZ1Rnh3MXJsWUxmajdvNUJaU1hsUVBMYmJTaXExUmoxb3ZTOGJWZ3JjdXdFakEzdTJhSG4zaERUUHRwSk1za1duNEE?oc=5",
+      "published_at": "2026-10-29T20:58:00+00:00",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEVSWHVMeWdhSEpveGFxMzh1Q0FFUTNpaGRUTWgxbGlBOHlOTkQyZTA3QjVCUXJJY3kwaFRFN3ViQTlXalowMVBKLV9Mci1nWXRoOEhjT053SHdnNklfcDBoWVp0LWgzLVFZeE5EcjlCOUZTak1DRHl0ckd3SGt4Y3dpRTZPVXhMV0VvdXRvSm1DT21CVjNNS1h3?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.618907+00:00",
+        "checked_at": "2026-11-03T17:42:24.191767+00:00",
         "evidence": [
           {
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXFyRE5OU0RJUXFtTXVBY0tKaV9LR1ktWkxtdTM5djJnWmQ4c2xwQ191Y1RmUlR0SVE4czF6VklFUjdZUVhEMEZ1Rnh3MXJsWUxmajdvNUJaU1hsUVBMYmJTaXExUmoxb3ZTOGJWZ3JjdXdFakEzdTJhSG4zaERUUHRwSk1za1duNEE?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEVSWHVMeWdhSEpveGFxMzh1Q0FFUTNpaGRUTWgxbGlBOHlOTkQyZTA3QjVCUXJJY3kwaFRFN3ViQTlXalowMVBKLV9Mci1nWXRoOEhjT053SHdnNklfcDBoWVp0LWgzLVFZeE5EcjlCOUZTak1DRHl0ckd3SGt4Y3dpRTZPVXhMV0VvdXRvSm1DT21CVjNNS1h3?oc=5",
             "kind": "RSS discovery"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXFyRE5OU0RJUXFtTXVBY0tKaV9LR1ktWkxtdTM5djJnWmQ4c2xwQ191Y1RmUlR0SVE4czF6VklFUjdZUVhEMEZ1Rnh3MXJsWUxmajdvNUJaU1hsUVBMYmJTaXExUmoxb3ZTOGJWZ3JjdXdFakEzdTJhSG4zaERUUHRwSk1za1duNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "0932ec8b4c9c29",
-      "cat": "Opportunity",
-      "title": "Feds to invest up to $1.6 billion in Canadian AI company Cohere in its $7-billion fundraise - Yahoo! Finance Canada",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T17:36:02+00:00",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWYUtlUHROUzF5cTRGR2F3ZU9TYXp2eWVGenY1RWtENEVRbnQ4RUx3bzR0WG1kQm9HY0ZjTzJURnBwOFNsQXFEVW51eUhmNU5LMWJaLVVpbWVyVFBUV0V4Mk0xSDFYZUNiYXFNbENvT0stazkzWlZjNEJiTEg?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.713188+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWYUtlUHROUzF5cTRGR2F3ZU9TYXp2eWVGenY1RWtENEVRbnQ4RUx3bzR0WG1kQm9HY0ZjTzJURnBwOFNsQXFEVW51eUhmNU5LMWJaLVVpbWVyVFBUV0V4Mk0xSDFYZUNiYXFNbENvT0stazkzWlZjNEJiTEg?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWYUtlUHROUzF5cTRGR2F3ZU9TYXp2eWVGenY1RWtENEVRbnQ4RUx3bzR0WG1kQm9HY0ZjTzJURnBwOFNsQXFEVW51eUhmNU5LMWJaLVVpbWVyVFBUV0V4Mk0xSDFYZUNiYXFNbENvT0stazkzWlZjNEJiTEg?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "22826710ec61e0",
-      "cat": "Opportunity",
-      "title": "Nvidia and Canada are backing Cohere's record funding round of up to CAD $7 billion - Quartz",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T17:31:25+00:00",
-      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.801642+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEVSWHVMeWdhSEpveGFxMzh1Q0FFUTNpaGRUTWgxbGlBOHlOTkQyZTA3QjVCUXJJY3kwaFRFN3ViQTlXalowMVBKLV9Mci1nWXRoOEhjT053SHdnNklfcDBoWVp0LWgzLVFZeE5EcjlCOUZTak1DRHl0ckd3SGt4Y3dpRTZPVXhMV0VvdXRvSm1DT21CVjNNS1h3?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -361,7 +293,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.884235+00:00",
+        "checked_at": "2026-11-03T17:42:24.298928+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80QzFvaVEtR1JBancxd3BTNGhyRkJYTVN1cnE4ZUtua2VQMlBNU0VPZXVZMzA0M2tJc3FPVHVYUkd1UEkzVzJyYURpZVhteGE3X3J2cTF3cWVyWll2NzdzT093SkxxSjM2eEVrVVFrVmJwSWg0R0ROcmVn?oc=5",
@@ -369,6 +301,40 @@
           },
           {
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80QzFvaVEtR1JBancxd3BTNGhyRkJYTVN1cnE4ZUtua2VQMlBNU0VPZXVZMzA0M2tJc3FPVHVYUkd1UEkzVzJyYURpZVhteGE3X3J2cTF3cWVyWll2NzdzT093SkxxSjM2eEVrVVFrVmJwSWg0R0ROcmVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "68babf864a7b84",
+      "cat": "Opportunity",
+      "title": "Canada, Nvidia Back Cohere at Over $20 Billion Valuation - Bloomberg",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-10-29",
+      "published_at": "2026-10-29T16:57:22+00:00",
+      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVk0xNE9EYzVuMEQ0OUJvYXNDMTFEN2tfVkVYWV9xSXpQWnlQUkNVTTIyWG5XOThJMHY3WWs5RktqWXpVMjN1ZmtXcVFUeVJMYjJNaEhFTTg1b0RNblJUTHZ3LW1wZ0JmRUZEUURwTy0yaC1nXzlHM3ZKeWFIUVJBdUZ5VlU0RXZxcTNKdGZ0ZHVoVWFILTRRWmVyVlN3V2V1X1VONWdTNjFYYVcwYUlj?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-03T17:42:24.451075+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVk0xNE9EYzVuMEQ0OUJvYXNDMTFEN2tfVkVYWV9xSXpQWnlQUkNVTTIyWG5XOThJMHY3WWs5RktqWXpVMjN1ZmtXcVFUeVJMYjJNaEhFTTg1b0RNblJUTHZ3LW1wZ0JmRUZEUURwTy0yaC1nXzlHM3ZKeWFIUVJBdUZ5VlU0RXZxcTNKdGZ0ZHVoVWFILTRRWmVyVlN3V2V1X1VONWdTNjFYYVcwYUlj?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVk0xNE9EYzVuMEQ0OUJvYXNDMTFEN2tfVkVYWV9xSXpQWnlQUkNVTTIyWG5XOThJMHY3WWs5RktqWXpVMjN1ZmtXcVFUeVJMYjJNaEhFTTg1b0RNblJUTHZ3LW1wZ0JmRUZEUURwTy0yaC1nXzlHM3ZKeWFIUVJBdUZ5VlU0RXZxcTNKdGZ0ZHVoVWFILTRRWmVyVlN3V2V1X1VONWdTNjFYYVcwYUlj?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -395,7 +361,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:15.990608+00:00",
+        "checked_at": "2026-11-03T17:42:24.643037+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU1JkdFJDamFOMjNzZFBIdzhxcGYyckdOenN2MXhkRjUtbnIzRC1IOXZxelVVUFJSMXNzTllQdHJVRGhtRFVBN0tQOEQ0QTlHN2xaVURzVHhKYjZldmY4RmNnZHV2MWp5Zi1JcjJ4c0VQRVFrQTFqRk02WVYyUnZOWTJlMnJrQQ?oc=5",
@@ -429,7 +395,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:16.066993+00:00",
+        "checked_at": "2026-11-03T17:42:25.066752+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2tPMnVDVHA4cENoZWpuSDR1OXJmVTk2YmUxWU5GSFpnZDAzdmdWb09xWmN5Y3pJSEs2cV8xM2tXZmdJbTN4WkdOazlqcldZZjVnMFNoLUtZUU5RT3NfN3kwa0xQcV9FMW52cGN0T092cFBTQ3hrcGVwVGJ3d2V6eGk4VXJUVTgySkdEZUVEaWV1VzNGNFBBZXp2WWYzejd6NTNRWmRYbUdBNkpIQnFfY1FmczBxdw?oc=5",
@@ -463,7 +429,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:16.175816+00:00",
+        "checked_at": "2026-11-03T17:42:25.369408+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkZSb2ljcUtzSkkxOUxtUUNQaDRlX0hMYkcwalltbzFjLUxKRFpqTzk4MFdJNC1DSEpRRWItc3FmZENRRXMyejNOcW0zZVU1XzdCXzlnZWNCOTRrZjd4cU41b3phVGx6UnlQUlFocHZyLWZkdGJfRHFwRHFOdDJVeGV2YmFwTGxCMkhZeEVWbmF3VVRQUEhiUFIxWUpMSWNXY0NfLVJQY2syR3p2WmdmenYydmJOTzlZQkJnZ1lzZlo?oc=5",
@@ -497,7 +463,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-03T11:42:16.250813+00:00",
+        "checked_at": "2026-11-03T17:42:25.647076+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS09mcU5RV3dZcGQzTC0tTFAzcm5UZ0hRU1BQZk91LXJpUlZTUG0yQWhjQ0lwMDVoajlaQWFkaXlDUmU4WnRhZl90NFoyX282WGxJUlBSakdlSHR1RWRKWWctZ1pjaFlBS3BPdDRTUW9KUEwtTUdjRENvSVAzY1BudXZRcUhBTEY1UW9Vb1pEZVFzQXY5bW9fY0pwS2ktQ2ZiWnNGOUVCWTJjb0hWZC1QVlNlNlNRR3p4czgxSUoyb1NUOTUyakZhcWpCMTJNX2w3U1JJMXhld1h2cUNVSUxqblNhbw?oc=5",
@@ -509,31 +475,6 @@
           }
         ],
         "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "f3c02649944aee",
-      "cat": "Partners",
-      "title": "HPE Networking networks EdgeConnect SASE into Mist, Aruba Central - SDxCentral",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 5,
-      "na_impact_reason": "Direct HPE portfolio or partner relevance",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T14:26:57+00:00",
-      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOW00RWgxNmJISHVmR0dnX0w4RHk5UlhaWExuSnZzZXpsQ3pWaEUwMjA4UjlZNDI2YzBSeUVodjdRbW82UlcxMkFrUkdEdTNIb09DQTA5cWhaU2JDNUlRR1l2ZDRIY0dEOGdNOXVLMXduNmZaeFo0YU1QRWUyYmpvQk5uM1BRWjBBeXlZWG5xdDh4VjA1V0cxVXAtanV1QQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
       }
     },
     {
@@ -553,16 +494,25 @@
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
-        "source_status": "Not inspected",
+        "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
+        "checked_at": "2026-11-03T17:42:25.789324+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaFZRakdNUWNMS2hzZ2hPd245QTNsSTB6N0RnaGtBLUhXM2EwbkRBc2hDNS1DSjZMd0M5WlV1MnlVOEpfOXZCa1laQ2MxYnFRYnhZam1QRFMyNnljcjJGODI4SGxDNEZqOGIyYzVJNjBxaXZkRXBkLTRUU28zMFZHSUs0QjU4cTFqRWNBRDA0dFdMazlmVUs5MWZETlRkX3BLeHdOekNaZXg3Tm1jeHlKZ2I1SURNS2ctOGRhNG0wRElUOGFYRWhFaVAyMGl1SDg?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaFZRakdNUWNMS2hzZ2hPd245QTNsSTB6N0RnaGtBLUhXM2EwbkRBc2hDNS1DSjZMd0M5WlV1MnlVOEpfOXZCa1laQ2MxYnFRYnhZam1QRFMyNnljcjJGODI4SGxDNEZqOGIyYzVJNjBxaXZkRXBkLTRUU28zMFZHSUs0QjU4cTFqRWNBRDA0dFdMazlmVUs5MWZETlRkX3BLeHdOekNaZXg3Tm1jeHlKZ2I1SURNS2ctOGRhNG0wRElUOGFYRWhFaVAyMGl1SDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
       }
     },
     {
-      "id": "0ff4c2c6f76a88",
+      "id": "db877c20c77674",
       "cat": "AI & Cloud",
       "title": "CIQ launches Stratum Kubernetes Engine for simplified AI, GPU clusters - TechGig",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
@@ -573,8 +523,33 @@
       "na_impact": 4,
       "na_impact_reason": "Cross-border AI platform or developer relevance",
       "date": "2026-11-03",
-      "published_at": "2026-11-03T03:40:37+00:00",
-      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZlEyLXlTdFExOFRTMVBHTGJkWlRkQmg2SlFRaHRWYTBkRmVsR0JOOU9leENOUmpPRHVJZnZKdHdneThhelFKdlJ4cDN6YmJSQ0M5enlhVldnVmxZNmxaZmVkU0ZHZEFuV2dzeDdETkg3V3gtMFNDX09od1lBaHhBTFFFU05MQ1FhUWNsLXI4Ulc1QWRmQ3RpSlBEWmtGMS1wMmhWMHl0U0szUjhaRUxJeks5U1BhX3RSUlVXVkZOQUxOMGhIOUp1YdIByAFBVV95cUxQZlEyLXlTdFExOFRTMVBHTGJkWlRkQmg2SlFRaHRWYTBkRmVsR0JOOU9leENOUmpPRHVJZnZKdHdneThhelFKdlJ4cDN6YmJSQ0M5enlhVldnVmxZNmxaZmVkU0ZHZEFuV2dzeDdETkg3V3gtMFNDX09od1lBaHhBTFFFU05MQ1FhUWNsLXI4Ulc1QWRmQ3RpSlBEWmtGMS1wMmhWMHl0U0szUjhaRUxJeks5U1BhX3RSUlVXVkZOQUxOMGhIOUp1YQ?oc=5",
+      "published_at": "2026-11-03T06:36:21+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2phSUlhYmUtT3MtTDI3S1hnNXFjSWNSclRySk5GWjlsZDVFUjl5X0c4bExncE5QT3didC1VbEMxOThBUVFTV3dHZHlSMVB2alJMVUk1Sl9TdlNkenJkdjdIQi1UMDRBSVhHVGt2NDRtUnhMZHBuRUlVdGVXelRJWW9LTkVZbEZzeEV3d0gyX05rOUhVLWJfcE5DQUh6T1hpbmJ0S2hsWXdOckQxUk9Kb1JYaXRlSDBERTQteU5zSDMyZVnSAcgBQVVfeXFMUGZRMi15U3RRMThUUzFQR0xiZFpUZEJoNkpRUWh0VmEwZEZlbEdCTjlPZXhDTlJqT0R1SWZ2SnR3Z3k4YXpRSnZSeHAzemJiUkNDOXp5YVZXZ1ZsWTZsWmZlZFNGR2RBbldnc3g3RE5IN1d4LTBTQ19PaHdZQWh4QUxRRVNOTENRYVFjbC1yOFJXNUFkZkN0aUpQRFprRjEtcDJoVjB5dFNLM1I4WkVMSXpLOVNQYV90UlJVV1ZGTkFMTjBoSDlKdWE?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "c1debefd61cdb5",
+      "cat": "Opportunity",
+      "title": "John Ivison: ‘Red flags all over’ Carney government’s buy-in of AI company Cohere - National Post",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 4,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 4,
+      "na_impact_reason": "Potential North American partner / customer relevance",
+      "date": "2026-11-03",
+      "published_at": "2026-11-03T04:11:03+00:00",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84aGpNVl85djVlMmdzZE9yTXBoSm8xc29hVlhSTm1rc2dYbTJaMElUT0J3eU9HZ25EM3h4bGxWclNnUUtySFhLOFY0Uk84STVMZVRnbzFUVDY5S2liTUJWaDF6WVlraEZrckRydFFJdnFmUTczT01wc0h2MEE?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -600,31 +575,6 @@
       "date": "2026-11-03",
       "published_at": "2026-11-03T01:30:15+00:00",
       "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnhfcmhTbDI0aVhRLVNwVEowcU5GZDhuaHh2UlZGMGduR1VEQVFEQk1tb29ZQ0VzaXRhTVU3TnNNLVN4ZVZ5SVdtWVVULXNZY2N2ano5VjZxVW1EaWZUeEY1LVV0bHVxQnVsRk9rU0dMUk4xRzAwMUJralVPM0lRT1dtMnBOUGloNThreExyTWZNRW96WTdMTGc2YVpmaUlOOEJka3B1dTd0UzZ1SjhsRGFUTE9TQnFRMlFDUFdJZi1TLWxXMHBZRnZYeUVJUQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "58aa27d3fedb11",
-      "cat": "Emerging",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts | TechCrunch - news.lavx.hu",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Cross-border AI platform or developer relevance",
-      "date": "2026-11-03",
-      "published_at": "2026-11-03T00:12:07+00:00",
-      "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaldtczMydjJSdGFBSGt3Q085VUh5S0gxRjhaVFVlVDJacUlJSVNDLU1hQmNET1ZyRlVrSE00dDZTcVd2a2luTGw3RjlpaTNTWDYxb3c5M2c5Wk9YU19KYkFKbWJLbUcwZl9makpENkFrVDR5VjVQWGtQNVpVNXZEZjdrQ0ZHa0I1ODY2b2pJOTBoenNRRW50VkNneFFZNW51UkN1Y1lhVkhzM195ak1FRk1WVGxHQ3UxQkNEN0M1VQ?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -762,9 +712,9 @@
       }
     },
     {
-      "id": "e81ec8b2444f81",
-      "cat": "Opportunity",
-      "title": "FuriosaAI Secures $620M Series D to Meet Surging Enterprise AI Inference Demand and Accelerate Next-Gen Silicon - AI Insider",
+      "id": "490b0cd4175365",
+      "cat": "Partners",
+      "title": "List of 31 Acquisitions by Hewlett Packard Enterprise (Nov 2026) - Tracxn",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
       "score": 4,
@@ -772,9 +722,9 @@
       "origin_region": "Unconfirmed / global",
       "na_impact": 4,
       "na_impact_reason": "North American enterprise infrastructure relevance",
-      "date": "2026-11-02",
-      "published_at": "2026-11-02T08:21:30+00:00",
-      "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM002c1FtelRTR0lDWXFLdGZkd050bzdzQ09tQmF5VTZuZko3Y2JfWEtVTVUzSTFEcUlGbXpwd2x0QlJfbHNNbW9SME1qbGd3QXh1ekNobWsydUJ3MWJGMm15MHhVY290T0hLaHBnWGluNE45NGNiSm1qVVVlamhlQ1M2S1FFM0l3SUNnSlR3Yy1ZV2ZaX2pXOGwxeXktNXIyY3lPNXFUUU9HMjVCZGQ5N2xENENtQjFNSTlkNUN0dGk0QWxIQW9teWpWNnlna25oSXVKX0pWQkxwdjVsMnBzTG9n?oc=5",
+      "date": "2026-11-01",
+      "published_at": "2026-11-01T20:06:55+00:00",
+      "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXBobVYzMkUwUWlOYk1XLWhTcDdqLU14ZmhMQUlFdHBlLWRxQU5DeTZITjZvdEVVak9VVmw0bUNkcXZpMGMyVVFqaEJaRGF5bWNta2VsbkxhVGtFeE5icG96YnpWWGVKeVFveEEzbmUyT1ZWcnJ5djVmLUhMVnp0R0NIc0R2T2E0ZzJWSElHSm1yNm44WER5MDIwaG5WY181LW5sNTlXYl8zNU9nRjBhVVd1MkRtRGhFRnl5QWhRaw?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -787,9 +737,9 @@
       }
     },
     {
-      "id": "abc6ee03611fc9",
-      "cat": "Open Models",
-      "title": "OpenCode Free Models: $0 Stack, 12 Steps, 60 Min [2026] - shattered.io",
+      "id": "fdd21043ac8204",
+      "cat": "Emerging",
+      "title": "How AI Startups Are Stretching Their Runway With Free Cloud and GPU Credits in 2026 - TechBullion",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
       "score": 4,
@@ -798,8 +748,33 @@
       "na_impact": 4,
       "na_impact_reason": "Cross-border AI platform or developer relevance",
       "date": "2026-11-01",
-      "published_at": "2026-11-01T17:12:28+00:00",
-      "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0ZzltQTV2OVpDajVHd0tEbGxQc3c4b3kwem1WWHh0dHg0SXN6aVYwNkc3SnF2aW1pUzd3dm00R2V1RFAwckFuQWU5MEZTR3VqSW91VnBfMVNQZXNPdkZ1UVJpRE94cW1GQlZoQ0JmZ0ppM255MDc3a1ozZVBsUUU?oc=5",
+      "published_at": "2026-11-01T10:52:09+00:00",
+      "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDVJZTJkNDQ3MjY5ZjdmN3gycml2Y2lPS3JENTNoN2NoV3ltcmdwX0ZvNjNhbzVFWEVxYXliTV9wWGJxbzgwLVpNZEE1YjZCc3Y1MklUZm1jM1U0b1V5eDV1Qnp5cklRaER4UGlqM09FM0FVZ3l4QkJyNXJEay1UM21YSXlzaGJtTkRQbThySFFPYlBqYWhMcXdLWXlGWktybjdqVW1xczdXaFF2?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "26b715a552ac42",
+      "cat": "Opportunity",
+      "title": "Weekly market commentary - BlackRock",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 4,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 4,
+      "na_impact_reason": "Potential North American partner / customer relevance",
+      "date": "2026-11-01",
+      "published_at": "2026-11-01T07:00:00+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -900,31 +875,6 @@
       "date": "2026-10-30",
       "published_at": "2026-10-30T16:27:53+00:00",
       "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXZQQlpCRTl5YlRkTFVJYjNyQ3ktUkhfNlJITHd1d081bzF6dXZTOUVPLXpZYmFkRTBuMjZrd2hSdFU2LTQybGxEQUZ5bnNnbThNbDhxSVphYTdHU3RwYnVsdk1ySGVCdmNXTU90MkF1eTRrdkxyMml0V24wWmEybWkzQ3VIa1hOU1pNQWd2UHlMUGl3WHNsWmhTNGM3TzhZU3o5NXc5YktyRS1oaF9BYzMtQQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "09d867bf1f8ab8",
-      "cat": "Opportunity",
-      "title": "What’s up with… Cohere, Jio Platforms, T-Mobile US - TelecomTV",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Potential North American partner / customer relevance",
-      "date": "2026-10-30",
-      "published_at": "2026-10-30T15:52:04+00:00",
-      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlhhcXBETFhYeGszUjhiVFBVLUJjdGw5T1YtUXZ4RkRFYWZLMlpWZGgxWWhncUotNmFYRzlydnZrbUlWeVNjUjBwOURReERSNlJRY3RBbF9DS1dqUHFsR1l2cEcxWlQ5aE9sSEg2ejVjYXdwd3JKMmZ4T054LThNRF9KalFvSmZpMWdiMEpqbWxwM1FDaEHSAZsBQVVfeXFMUGVrY3VnNVBlM0VFaVhSWDhvTmM1dVc0dklEX0R0Rmoya2lPWFhPenpjR3J0b3JuamlQYkNad2thZEZfS1RPSDNabUxESHl5TDRGXzZHcVBfUXBYOXl3VHBtVEdaNnVCLUVlNFViNVpPVVpnUUZwd2dfaFhYUlA3SjZoOWZ1bTZQdkEwZlNzNW13MzU3Q29KSWFfc1k?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -1437,6 +1387,31 @@
       }
     },
     {
+      "id": "b3fcc2c8740582",
+      "cat": "Opportunity",
+      "title": "HIVE Digital Technologies Ltd - HIVE Digital Technologies Ltd",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 4,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 4,
+      "na_impact_reason": "Potential North American partner / customer relevance",
+      "date": "2026-10-28",
+      "published_at": "2026-10-28T05:31:37+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbmdJQkRkSGgwR1VHd0ViTzNkbzhwUkpRcm5yRndiVkFxYlhBRVd0ZVRIcWNFQVFfR0ZTeEhOLWQ4cUptTFgybVVhR0VGWHRIdjFCYy1rSFp6bUFvZjVyVnNOa0wtQjEzbWlpLV9fd0ZfZ01WcjdFMjhrdkhjQUIwUERCT3JCdnhxYmN6a0VXem83cHdNVHc2NUhYcmpvS1VIYndiS1VJTVVFQlR5N1paRFNCYmdrWDRMQnByRjJPdHdsT3l6cXd6SGRVSF83TU9aNXBFOXlGYkJXMEE1c2lLRFROeE55VmUxaFUyWjl0c1hVaWRwbnhKWmJaTmZESUhtWHBpbDR3dUUydw?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
       "id": "e5aab8682a5c7a",
       "cat": "AI & Cloud",
       "title": "Akamai launches AI inference & agent sandbox tools - IT Brief Australia",
@@ -1512,144 +1487,94 @@
       }
     },
     {
-      "id": "c726bf5c5ea5d4",
+      "id": "1e3f330ae9f213",
       "cat": "Security",
-      "title": "CISA, security researchers confirm successful exploitation of PHP flaws - Cybersecurity Dive",
+      "title": "CISA urges critical infrastructure owners to prioritize OT security, operational continuity, recovery planning in 2026 campaign - Industrial Cyber",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "North American enterprise infrastructure relevance",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T16:17:18+00:00",
-      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUQ0OUh3WHJKT0VwS3ZlR2dONzI0UzNYVl9sRDNIQnNBUzRHaXFDd093VTdQaGlvdmNxT3gwbk1tRlVlUGhSS2xBNGU1TC1fZlhyTWJhZlJOLUxlVkticDNFUkVtWkt5WUFVMUJzLXlaVHNic08tVnJPTFpCQmhka3dYZUtpREFYemZfYjhGajlxWElGNE1nZ3ZBYw?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "c4aedb4eb07918",
-      "cat": "Security",
-      "title": "CISA Offers Two Free Tools to Detect Security Misconfigurations in Microsoft 365 and Google Workspace - CyberSecurityNews",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "North American enterprise infrastructure relevance",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T15:31:45+00:00",
-      "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vZzl6QW1NX0RkencwdjctN0c2N1ZsWDd6SHdGOXV2dmRwZnI2X053RXlJTEZVbUFYNF82Mmh6QldDeUdRSjEtRk51TmNhdTBWUXhWX0xUMDZXMHhzdG1QNEQ4dHh5LUpwZWdGMm80SjhGVW1KOXl4UXY0Z2NaQXfSAYQBQVVfeXFMTWFMZ0pDUVk4aF9pcmVXWUl1WkhZMGhTRlJoRUlHZ3hjc05zSXhMby1SMzBoZV9zRVNiWmp2SDZGejZKXzNpY29rV0stcWFWUkJwWVdfSm8zdmtlYTdzNHE4YzBka2Y3UnYzOEZ4NDVjQVVKLWp4eDl6M2FKYzh1Mkd6N2I0?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "beba64fc7601b6",
-      "cat": "Emerging",
-      "title": "Simplismart raises $14 million in Series B to expand AI inference platform - Business Standard",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Cross-border AI platform or developer relevance",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T14:17:40+00:00",
-      "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYnVlamdSZE9jaWRCQVVIbUdSY2Zfdko2c3llRmhpeVJ1akw5R2dzRnZqaTNTTDhzazBGaVptRmFEVnFGWGFvZGo2a29yQndnRDIwQVJUTmFvd0FlbjJ3bnR5YVNvbUVERk1JNjZlVHliaTNfQ2RnZFkyWmxoX0pBTTVHUnJGR01PbG5neDNjU1JZdFZrdU40czdjeEFpY20wOTJ2ZE9XbXNmRkk0SlcxTmxJbmE3eFUtM0tWV25EbFhoRlNzZVUtV1VmcDI1MUljMEhUQ09qMkxJdWtDTWw3ctIB5gFBVV95cUxQblBTZ2N2a0FZcjZqQ0JOZVFXUm1vMzV0Sm8zQlp4bTBONDBsY0FRNXdtd1dlak5pMzlUYUFzemo2WEZqN3BhTExYSjdBekFvQVM0SExKUzNBYkZvaHA3RWU2UGdyZVE2emdvbDR1NnVPSTJzMDkzQTZvLVpUOGhaajNhMS1TZVV6M0xDbmRmZ2hYYktzcUxuMENDcFJ3d08xcW9uZmVoQ3ZWQWJIMnBFSmtObDIyVk5Dd1FCcGNYUkRXRDB6NjZPbEFBQ3ZyUjVLMkZVU2NQQjc5anVmdUQ0Q0FPaE1UUQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "1200ead0db685f",
-      "cat": "Partners",
-      "title": "Arms Cyber shifts to channel-centric strategy for midmarket security - MSSP Alert",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Potential North American partner / customer relevance",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T13:58:02+00:00",
-      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRm8wUkNrZmRzdXhYMWJhU1M5eXgzVzlfTVhOR1dXSXh3ZnRYMnYwUWo4Zi0yTXYzOWpSNjlWdlYwXzJtRmYxSW5xckZLbkZ3THpqNk45WUNTVmVxYk1leFlQc1l3TG9ZX0ZFVmI1ZmRURy1UOGdLYXJFdl9rdDNuTWNuQ1V1THlwNnZ3cWJKcnZhV0kzN19rekMyekFsOHFNaUE?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "e48cda63173ae2",
-      "cat": "Opportunity",
-      "title": "AI Insider Intelligence Platform - AI Insider",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Potential North American partner / customer relevance",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T12:02:40+00:00",
-      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMRnNpUjJtRk1pb3I4aEVHbXpGdkdCMzVGQ0tLRWhSRy1VVFU3aVMteS1jY3ExT1lPLUhlLWVIbm1yTGVadk9LSTBhOW1BdFVfZTFBVkxfdlVzUFQ4?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "4769ca78e68326",
-      "cat": "Emerging",
-      "title": "French Tech Central Day Nov. 19: What’s Confirmed [2026] - https://tech-insider.org/",
-      "summary": "French Tech Central Day Nov. 19: What’s Confirmed [2026] https://tech-insider.org/",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
       "score": 2,
-      "region": "Europe",
-      "origin_region": "Europe",
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
       "na_impact": 2,
       "na_impact_reason": "North American impact not yet established",
       "date": "2026-11-03",
-      "published_at": "2026-11-03T01:36:27+00:00",
-      "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEg0TFZMeEctS0NtRjBhWV9kTjgwSTVvandKaXFqb3hiVVNpNjBqeEpEeFFhdDFpTENsZmxwbWxFV3JGMzdRUWZCYm1WQ1ZFVTFtV2drMzZOUktSWDRhMGZJeE1uVUhhenFUNGdqd0dIbEZ0Z0k2VmxPdkZPeXB1S2FiUUZkUUdX?oc=5",
+      "published_at": "2026-11-03T13:12:15+00:00",
+      "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1lJN2ZfRDVFUnpNelA1cjNKeUVXRG5Gdm9zRG4zbkNWSzRNMWZuNW5fc3JrZ0p5cWRRUmJUNFJkTTNKaWxaMDhwQ0VxaGo5RUpWallsMWd5cDYzeUdlYmtvNUNkOEd2SUFfNlpOa2lHODNpZE1vdndicUlBWE5WVmNvd0VfQkkyRzJSQnhlMlhtTlBnRG5VY0U0b2NQWXNxVW1HenVsM3Y4RkxuMGhObkFGMmRjc1lCYW5BbHBWNE4yOXg1RmpmLUdiOVBmWGp5R09GYzFwbDZpTlctbnk1emcwWTBYTTI4a2JZSHpNaw?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "d8c7b393756e59",
+      "cat": "Emerging",
+      "title": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October - Crunchbase News",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Asia-Pacific",
+      "origin_region": "Asia-Pacific",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-11-03",
+      "published_at": "2026-11-03T12:00:44+00:00",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb1IycmMxQnBWU1NhVDBQdmpmZnpVblAyTzBZdVR5dEVEX2FzaU5EZ0M3TktZNTVZOTRkcElTcWZ6azljeUFVSVBFVHQ3bWxTZTBVVzBmYVBUZDhZd1Y0Y0JvY0puMnplcXlzVW8yY1luQ0o4TlRUb0cwejZKYXdzUzlQb1RUR0FuM0lMcUpjcU1pX042OHk1M1B3?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "54c0f7b78d7686",
+      "cat": "Security",
+      "title": "CISA’s new strategy runs into America’s blind trust problem - CyberScoop",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-11-03",
+      "published_at": "2026-11-03T11:01:43+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa25NdWlrSWpuVTJHZU5YYUtUbEZIM3NqU1lNdjB0b3lBMlZibTZPb0MzZUtCZWFpeEhvRGFzdXJCWElPNXpCUnEycC1uajhDYkF1SGdhVjFuQllOMkVwQ0ZTYUxVZjVTUkdoZ0JVYWZCSzJ3OXNrOEFicW9FMFNKZkNMdkRSNEFFeUhv?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "8e3511530840e3",
+      "cat": "Emerging",
+      "title": "srsRAN vs OAI: 2 Open-Source 5G RANs Compared [2026] - https://tech-insider.org/",
+      "summary": "srsRAN vs OAI: 2 Open-Source 5G RANs Compared [2026] https://tech-insider.org/",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-11-03",
+      "published_at": "2026-11-03T06:51:31+00:00",
+      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMl91cG4tNWhQNERMVUV0clp6eGMtc0g5QU5yVEVsSEZyc29nZTdsNG1TdEFZSWZaWDRaLWVaTV9VWkN6ZHNaVTBJRDBmMzFLWElHSmVhQ1YzOU5IdEU5TzFMNUx3Z2pndUhTc2N5dmtweXJOaVlKNW90MlI5WDlHQmk4djJtTVJWMi0wbC03T3hZaFplaUNSU1kxZw?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -1712,6 +1637,31 @@
       }
     },
     {
+      "id": "753e15416c8c5c",
+      "cat": "Security",
+      "title": "CISA Retreats From Election Security Ahead of Midterms - The New York Times",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "United States",
+      "origin_region": "United States",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-11-02",
+      "published_at": "2026-11-02T20:07:29+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZVUxVEI2OTVXRG1xUFRCY0JJZjlKem9reWlEbFBwRlhiYUhqbW5qYXF5VkltN0xtbjdOckhrb2o3Vl9fV0VVckpWUTlKLW5VaGlqQ2EwSjFUZ0lqT210ZkJRalRoVTZNcXZFYTZKR1B1dzNfOE53S1FPNlNaMVh6Q0lVX19EeUxURzVR?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
       "id": "a2ff6326ba0ad8",
       "cat": "AI & Cloud",
       "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog - NVIDIA Developer",
@@ -1725,6 +1675,56 @@
       "date": "2026-11-02",
       "published_at": "2026-11-02T18:20:34+00:00",
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSm9sT3U3a3RBZXl2ajhpa0ZVbmJ3cVZwUDdNNjVsc0xVc01VN05vajcxaXJmUjJFNTV5cF9tWi1xbkxLY2ZwdzdrX1UxeXJvSjRjbEgzU1ppMGZrYllHb3hMMVI3TVR2X0FuWk80VHZHM3YzVTJiM1U5TTQwbEM5aEJqUlVqMWNQV3FETmdOYmZLWTRpcUExd01R?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "1e8b4d00ee78f0",
+      "cat": "AI & Cloud",
+      "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-11-02",
+      "published_at": "2026-11-02T16:06:44+00:00",
+      "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXpxbDZQMUZkNWlDT1N5WDg4U2NyMGJ4d0VlNmxHYWNEaUZrZUdVeHlKOTk1YV90MFdpOFpRTm5vYTgydWlCY3FHaVh0RFRKMXUyUUdjWkZWZFh1Y0NMQUtMVEhhUC1XX0g5N1NlMFlQSEczMU1PQjVVZ1ota0VwTDd2Q2FUWHRqb0xjUDg5d20tZlZoT0Qwbg?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "aa0fd58a6edc5b",
+      "cat": "Emerging",
+      "title": "n8n: Berlin's $5.2B Workflow-Automation Unicorn - Startuprad Io",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-11-02",
+      "published_at": "2026-11-02T09:00:11+00:00",
+      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUJ0eDBPallsYTQ3T3JIcmh2UmlJQ2xUQnNQWi1WdXFYS0lJcFVCaloyNzloOUoyOTVUbGNoRFdmSDhLdzExdUJtMXo1OHBSa1Q2SURFeHJxVnV1NHlQTS1DVDRNUnBRem9vd080bEwxQ3B4SzJfUmFLaWhjVnN6MnRKTXVISThfd1pJVERR?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -1787,6 +1787,31 @@
       }
     },
     {
+      "id": "7fec51ffcdaec4",
+      "cat": "Security",
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key - The Hacker News",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-11-01",
+      "published_at": "2026-11-01T08:51:00+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEtwb3BUWUJwN3hLb2N1LXRkY2xIcFJCYmFtbWF1MDJZd0ppcmNTeDc3Ynl2cWlfWFVsd3hmSGlyS3djT3hKLVVNLWFFdThYSl9yYlJGc2llel9SSUtHODJkOXUwcTJyLW9EQkZJOEdfd0VLOEQtYXpzdnBvY0NZbnNn?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
       "id": "13a370d25afb31",
       "cat": "Security",
       "title": "U.S. CISA adds Ivanti Connect Secure flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
@@ -1837,10 +1862,10 @@
       }
     },
     {
-      "id": "49880f77b336f5",
-      "cat": "Security",
-      "title": "GitLab CVE-2026-97229: CVSS 10.0 Joins CISA KEV [2026] - https://tech-insider.org/",
-      "summary": "GitLab CVE-2026-97229: CVSS 10.0 Joins CISA KEV [2026] https://tech-insider.org/",
+      "id": "d069a2e4f0c3fd",
+      "cat": "Emerging",
+      "title": "Fed Holds at 3.75%-4.00%, 10-2 Vote, Big Tech Next [2026] - shattered.io",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
       "score": 2,
       "region": "Unconfirmed / global",
@@ -1848,8 +1873,33 @@
       "na_impact": 2,
       "na_impact_reason": "North American impact not yet established",
       "date": "2026-10-31",
-      "published_at": "2026-10-31T03:24:40+00:00",
-      "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlM4S0NVUGlWQmJ5cFBlM1BiRjBERGNCWUhVSk9uaVRtUDJmczhZNFJveWZ6ZUpLdk9tek80eWR6UXh0OERpcVYteVRCSzBjRmswcVRhUzVUTWVGWV81TllQdFVveHl1Z2pob0dUcUFnNG5uLVNPX1lUSjNnMEd6Um1NVXZOWkk?oc=5",
+      "published_at": "2026-10-31T10:28:33+00:00",
+      "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEM1clZIWHVWUFFrUVR2bjBWN2FMNFFVV1BDRHgxa2F5SHZtbjRTR1ZpUTktMUxSUTRZNjF6djF6NHdDeFJmX21rNGhlcDNPbDgtdDB3VFVEUnQyMG1XU3c0SXhmOGIxZmFiTDVWNW9JYV9NMGFycDZLcTVaeWhnQnIycWJoMk5sUHpQMndBRWtvQ0hMRjZKMQ?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "b85c263537d82a",
+      "cat": "Security",
+      "title": "ESX Zero-Day CVE-2026-41709: CVSS 2.7 & KEV Listed [2026] - shattered.io",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-10-31",
+      "published_at": "2026-10-31T03:56:11+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFdpbWxQLVktT25fSG9NOXY5QTNCX3l0bGFJNUlWWmVNOGpmY2oyV0VkY2N3dHB6MmcySFNLWFlPb3JXVkk0UklWZ1dPa1lMR0hsSWJMNmRCLWdPT2JQNlpZbnhWcGhyYkc3NE9NRVNnVjV6NWR1U1BZZW9HNHJRREgyVHV6VS1h?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -2062,31 +2112,6 @@
       }
     },
     {
-      "id": "edf7a5ace4b5ce",
-      "cat": "Security",
-      "title": "Vulnerability Management in Python: 12 Steps, 90 Min [2026] - shattered.io",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 2,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 2,
-      "na_impact_reason": "North American impact not yet established",
-      "date": "2026-10-28",
-      "published_at": "2026-10-28T21:50:35+00:00",
-      "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamdOTkhTR2VLVDdudEMwdmQ2Nk5fR3hmLVY0Zjh4S3NvNnJCdnE1NXhrTS1nZE1JYUpsMHk3SmFPNHdUZTBEX2RRbElaT0xaaUgtYUpnRWVUZDVmSHdhUGF3N3o2akZDV2tZa2ZvOEoydnBNM2prN3VYYXlZanN1aTd0R29RaEk?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
       "id": "f8fbe8650561fe",
       "cat": "AI Dev Tools",
       "title": "Dataverse plugin for Copilot Cowork: one prompt, governed app - Microsoft",
@@ -2100,6 +2125,31 @@
       "date": "2026-10-28",
       "published_at": "2026-10-28T20:50:01+00:00",
       "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2l5QlZUTG4wYlNkUUlnaG1LU1pIZlNOcmFPYldMay1nQjhBdENxeHcyYmZfaTVLUkFoYjVweVBkR0ZYMVZxbjVVTGMyazFqZnl6RzlIMzFQNTlTVUNZLUZxQzBoQU9QRnN4Zk50UmxsN2VGX2pQQ1JqNFlqQ3JhaERjVXJ3Q1NJa3JqRFVnR1BIWEFQMkhYQVBIMA?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "314c325f8a3646",
+      "cat": "AI Dev Tools",
+      "title": "PICO Put Its XR SDK Behind Ten AI Coding Assistants, and the Whole Install Is One npm Line - https://vr.org/",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-10-28",
+      "published_at": "2026-10-28T17:21:28+00:00",
+      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHlQUWYyWEo4WkcySjMySUJhUTFxbWNmZkJTeE1LOG9XajNOSXlaN2FGNzlrSHI0aU83YlNGaFJFZGxRRmZncDRzY3lGTlVBY1J5OVBZWXBycVYzVTZlY0hiSHo1MW1tc1J4T0pPZ2RMRHNYbG9xYVNTU0k1amV5OUVrdEo5dThsa3ZFVEJR?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -2187,6 +2237,31 @@
       }
     },
     {
+      "id": "8cf8ec46436628",
+      "cat": "Security",
+      "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts - SecurityWeek",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-10-28",
+      "published_at": "2026-10-28T08:37:24+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOREI3TnhvajdrdVJuUDI5Qkp2MWh2QXJaRmdrNXQ0akRWRk16Mk04aFhfT0M0Z0ZOYm0wempkWDllYjd3YkFBR0o2bDFKRWhDTnR0SUJZM0dsS2d6QVJzWW5acHYyQnB6SFdqWDNTTElKcmxPbVJ1WGMwa2dJT0xSajhULVFuaElGSEp6ZmpXdVRsQVRnV3hFdXRPV0RIWXJUMFHSAacBQVVfeXFMTURsRlVucy1rSU5oaFBKRy04UkpMMjRHSGF4RXRmX3EtRjlxU0lmcEI4UUp0NElSNElHZW9CS0RtTHA4a0dHbDJid1lQOFYtOEkwUmZYS1U4dVBiUk1tOVZGMDJnWm1lSlBrQmdfVHhSNE5OSkpic0NOSmVXYXBnekFoVF9McGhjeWdad1JJZ3ZzZ1NoUnpQRkxMM0RWV0ZnSkc5X0pBekE?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
       "id": "60eeaa6a40d163",
       "cat": "Security",
       "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges - The Hacker News",
@@ -2200,6 +2275,31 @@
       "date": "2026-10-28",
       "published_at": "2026-10-28T05:42:00+00:00",
       "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUFPU3RCVFNabTVEMWo0U3IyYWY4TmhCZTV3T2x4WklicW93eDZmNFp1bVpIVDJ0Rk5aRk5DWmd1UGh6cUhWZUZmdTVWR2w5MlgxQnJoSlpFc3NWRDE2YnlhWDVodGpKZDE2YVBjdEJBYmpsRGJxVDJTdUNEOUc2UlY3ak0?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Not inspected",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": null,
+        "evidence": [],
+        "note": "Outside the top 15 automatic source checks."
+      }
+    },
+    {
+      "id": "b10b3d4ab28e2a",
+      "cat": "AI & Cloud",
+      "title": "E2E Networks plans NVIDIA Blackwell expansion for Indian AI workloads - TechGig",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 2,
+      "region": "Asia-Pacific",
+      "origin_region": "Asia-Pacific",
+      "na_impact": 2,
+      "na_impact_reason": "North American impact not yet established",
+      "date": "2026-10-28",
+      "published_at": "2026-10-28T01:32:35+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlFYQlAwcGwzdXZqOEg4UGV5UHlEWWlhSl9HRFV0RTdKVmNDRjVoVjdLUEptbV9DSEJXSVM5emQ4ZWl6Yy04OUU4RlVTRkRFMmVtd1VLcEJFMnJDdTZJQnhpUV9qOTJyWUo0aWxtMjlsYzc1X0RGcXBEWGFWNkM3UWZnbkU2eU05SUlyVmg5WDNCb1VxTk90R1djbXduTUNQbFYzRjdtS3M5ZFg0V0JCLWZYNUx3QXBFT2Y4UWxkdE9CSnPSAcgBQVVfeXFMTVMzTXh0S1NpaGFiNUZJTDl6bTlpS0N2bW8yeFhSSHc1NmhSOS0yRHg3aHVJWmpFUVAxSklUaG5oOFBpendYTEtob2EtVkJPaHdUVm1xVktETVRfMHpIRE1fV0preUVZSElsekppZktRangyU044c19CU1RrVnNWenRjbGpsYUczdjlMVmRLOXp1R2ZkUnByQUxXd0tFOE0xdkctSE1BOUVVemg3dTVwNlhPN0ItdjhvVFhibGdzOWZlSWNqTTlLbEI?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
@@ -2285,111 +2385,11 @@
         "evidence": [],
         "note": "Outside the top 15 automatic source checks."
       }
-    },
-    {
-      "id": "4a8e52ec761f14",
-      "cat": "AI & Cloud",
-      "title": "Oracle, Nvidia expand cloud AI infrastructure partnership - Investing.com",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 2,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 2,
-      "na_impact_reason": "North American impact not yet established",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T16:14:54+00:00",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlFzSVdsVVNfRTFQOF9OQTV3c2tRMWpNc3pnT08xNkFWalJDRkZJRGtVdUs5aWpVMThqdzU3SzVmZkVDVVNPa3RhaklhbG82SlYtS0dnVkhCS0x2SGVfYnFzWU8wYjl3eVFvUWtuSkJTWXdhNHpNc21SOVFISkJkSFJhcEZxQXRJQjZNWDRkaEpKRjVtMDN1S0QtSzZTZHR6VFNScEktWEF6eHc2Slhia3VTUQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "9711f8e10af4c7",
-      "cat": "AI Dev Tools",
-      "title": "Lightning Labs opens Wavelength for AI bitcoin payments on mainnet - Crypto News",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 2,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 2,
-      "na_impact_reason": "North American impact not yet established",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T16:13:15+00:00",
-      "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XVHV4X19iblFmd2Y0VERzYWw3MTRyd0pBR2QyYkFseVotSG5menFwVWtvWWtOUUc4MVZrclowV0VkbnpENEd1MFpuN2ZxdVNHSG4yNERuLUJ5Wm43cUR6MWxPS21xV3JuWGlCWVJPcUhqbEpPdGVlMHBxdTFyeHc?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "d92d38e25094d6",
-      "cat": "AI & Cloud",
-      "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure - NVIDIA Newsroom",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 2,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 2,
-      "na_impact_reason": "North American impact not yet established",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T16:04:28+00:00",
-      "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMkc2eEt1TWtsdGMyakwwbENvTldlM2tKNjJTb1RwSTdnbXgxOTVwWmRyTlVSeElfcmtGclZnbThpR05IOVQ2SmdxMlpZMVByMFRZU29aeVNXSHR3VWpZWDJ2M2FROFVwZlZOUkdFTXRKR0U3M1hCLTVNSE84V25YZnEwYXRkRTFPVXV0QWdZdzdSVnhtYzVLajlLQlo3bUFTRUc3VWtsUGswdWJraVQxXzU3MExyZGhpNmY0a2FCRUU4NE1Ma3lSYnFGbE41OTNnLUU1MmhaaWc5a25qMjVnTENtQ2JIbFRMTmt0blhfWQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
-    },
-    {
-      "id": "0b3647647c4147",
-      "cat": "Security",
-      "title": "Facing critical PHP website vulnerabilities, cities urged to shore up systems - Smart Cities Dive",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 2,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 2,
-      "na_impact_reason": "North American impact not yet established",
-      "date": "2026-10-27",
-      "published_at": "2026-10-27T14:43:01+00:00",
-      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVhJYWlPZW85Ql9FYUpRNFU2Rm01OUlwekd5aXNjMDdGTXdzOEl1MWtodFlpT2VxclZnWnVmMG1DWmZyMGo3UEVvVkxueG42S3lIU0pLY3BPcnFYTVppZ0hQSHZOYzE4cjdjR05hcnF4NW1XNnlDSW1GWkxvUmhGSjloeXcwcGg0X2JDTXpYUE02Y2RDM1FxYV8zZk0?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Not inspected",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": null,
-        "evidence": [],
-        "note": "Outside the top 15 automatic source checks."
-      }
     }
   ],
   "editorial_audit": {
     "method": "Source provenance and accessibility only; no independent fact-checking",
     "count": 15,
-    "checked_at": "2026-11-03T11:42:16.356467+00:00"
+    "checked_at": "2026-11-03T17:42:25.947676+00:00"
   }
 }
