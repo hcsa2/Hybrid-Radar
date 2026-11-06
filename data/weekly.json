@@ -1,6 +1,244 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-06",
   "stories": [
+    {
+      "id": "53169102805f5b",
+      "cat": "Opportunity",
+      "title": "Canada Hardware Startups: 16.5-Year Buying Cycle [2026] - shattered.io",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-11-05",
+      "published_at": "2026-11-05T13:33:06+00:00",
+      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkxCNWlNc3FsQlJTbW91ZVk2N1B5VGVHRWloLTVDYmVvN0cwMGVBQUVsUkxEUjV4cktQOUFGQ08wOXNKXy1tUlZsMllBX0RYbDZqYjJFbm1QWFZCYkJuNGNFVVdTalhHQXhBdlRNN0s1ZDFsaktleWRXZlBDLVNBSnF3Uk5IZm96VmRRMTE5U19TWW5XR0E?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-06T11:43:32.266529+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkxCNWlNc3FsQlJTbW91ZVk2N1B5VGVHRWloLTVDYmVvN0cwMGVBQUVsUkxEUjV4cktQOUFGQ08wOXNKXy1tUlZsMllBX0RYbDZqYjJFbm1QWFZCYkJuNGNFVVdTalhHQXhBdlRNN0s1ZDFsaktleWRXZlBDLVNBSnF3Uk5IZm96VmRRMTE5U19TWW5XR0E?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkxCNWlNc3FsQlJTbW91ZVk2N1B5VGVHRWloLTVDYmVvN0cwMGVBQUVsUkxEUjV4cktQOUFGQ08wOXNKXy1tUlZsMllBX0RYbDZqYjJFbm1QWFZCYkJuNGNFVVdTalhHQXhBdlRNN0s1ZDFsaktleWRXZlBDLVNBSnF3Uk5IZm96VmRRMTE5U19TWW5XR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "296014bf1f221c",
+      "cat": "Opportunity",
+      "title": "Robo.ai Inc. (AIIO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-11-03",
+      "published_at": "2026-11-03T21:45:41+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-06T11:43:32.421694+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "3ec5265f811171",
+      "cat": "Partners",
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Stock Forecast & Analyst Predictions - Simply Wall St",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 5,
+      "na_impact_reason": "Direct HPE portfolio or partner relevance",
+      "date": "2026-11-03",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMG4xUmUtYzhmYk9mSVdxOG9LaldNVmd5WExQVm0zbTFaTVFXMWxXbEJ4enl6T0pNNXR3R2JDSnpQS21VdzN2a2RiQ2lHX1hBc05oajR5M05EWUlSOUUwRk5TczJTcnNKN3IxUmhTTTh0QWItbmRmMHAxMTJzZk15RDVLa2pFUQ?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-06T11:43:32.526351+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMG4xUmUtYzhmYk9mSVdxOG9LaldNVmd5WExQVm0zbTFaTVFXMWxXbEJ4enl6T0pNNXR3R2JDSnpQS21VdzN2a2RiQ2lHX1hBc05oajR5M05EWUlSOUUwRk5TczJTcnNKN3IxUmhTTTh0QWItbmRmMHAxMTJzZk15RDVLa2pFUQ?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMG4xUmUtYzhmYk9mSVdxOG9LaldNVmd5WExQVm0zbTFaTVFXMWxXbEJ4enl6T0pNNXR3R2JDSnpQS21VdzN2a2RiQ2lHX1hBc05oajR5M05EWUlSOUUwRk5TczJTcnNKN3IxUmhTTTh0QWItbmRmMHAxMTJzZk15RDVLa2pFUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "a4615822173e2e",
+      "cat": "Partners",
+      "title": "Extreme Networks CEO Ed Meyercord sharpens pointed attacks against HPE, Cisco - SDxCentral",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 5,
+      "na_impact_reason": "Direct HPE portfolio or partner relevance",
+      "date": "2026-11-02",
+      "published_at": "2026-11-02T20:39:21+00:00",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWt6cjdqR3p3Vzl1MjdZV005TC1HOTQ5ckZkWnZPY1Z3R3B3MzFmenU2eFdWdWstdWtjQjZWS1R5YTlLOHN6UDd3a0l0MGxYS1FkUmJSNDkyZGRRNHBjZkhsRHYzYTJCOGR0bDVsZ29GMkdxSy1JZm9NaG4xZ2VvU0xuLV82anhqMjM3MzNBVVBzVXlpbnZ6SDlpMHlmQjFzMmlQRktNRVl2ZjdiYWc?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-06T11:43:32.687669+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWt6cjdqR3p3Vzl1MjdZV005TC1HOTQ5ckZkWnZPY1Z3R3B3MzFmenU2eFdWdWstdWtjQjZWS1R5YTlLOHN6UDd3a0l0MGxYS1FkUmJSNDkyZGRRNHBjZkhsRHYzYTJCOGR0bDVsZ29GMkdxSy1JZm9NaG4xZ2VvU0xuLV82anhqMjM3MzNBVVBzVXlpbnZ6SDlpMHlmQjFzMmlQRktNRVl2ZjdiYWc?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWt6cjdqR3p3Vzl1MjdZV005TC1HOTQ5ckZkWnZPY1Z3R3B3MzFmenU2eFdWdWstdWtjQjZWS1R5YTlLOHN6UDd3a0l0MGxYS1FkUmJSNDkyZGRRNHBjZkhsRHYzYTJCOGR0bDVsZ29GMkdxSy1JZm9NaG4xZ2VvU0xuLV82anhqMjM3MzNBVVBzVXlpbnZ6SDlpMHlmQjFzMmlQRktNRVl2ZjdiYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "ab7ce475ba4139",
+      "cat": "Opportunity",
+      "title": "Cohere Hits US$25bn as Canada & NVIDIA Fund Sovereign AI - AI Magazine",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-11-02",
+      "published_at": "2026-11-02T18:43:33+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-06T11:43:32.794814+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "acc68cf4761c7d",
+      "cat": "Partners",
+      "title": "Extreme Networks picks off Cisco and HPE partners - Channel Dive",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 5,
+      "na_impact_reason": "Direct HPE portfolio or partner relevance",
+      "date": "2026-11-02",
+      "published_at": "2026-11-02T08:00:00+00:00",
+      "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3BnQmVMTTVrS2EybWlWNk9hOC1DekRRa0VOZnV6QXZac0lOQkY2NjlKeXg2VnVTdDRXT1d0VlN6WnVVckd5M1FRM0pGTFBSeVhRckhIZ1Q2WG1VZzh2a3prV2xGNGdvam5OT0hQSlNjQ0hoN2FwNkExWHlpaUd3UVdEQ1JjNDRqYm5lSWl0MkNMV2tO?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-06T11:43:32.905167+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3BnQmVMTTVrS2EybWlWNk9hOC1DekRRa0VOZnV6QXZac0lOQkY2NjlKeXg2VnVTdDRXT1d0VlN6WnVVckd5M1FRM0pGTFBSeVhRckhIZ1Q2WG1VZzh2a3prV2xGNGdvam5OT0hQSlNjQ0hoN2FwNkExWHlpaUd3UVdEQ1JjNDRqYm5lSWl0MkNMV2tO?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3BnQmVMTTVrS2EybWlWNk9hOC1DekRRa0VOZnV6QXZac0lOQkY2NjlKeXg2VnVTdDRXT1d0VlN6WnVVckd5M1FRM0pGTFBSeVhRckhIZ1Q2WG1VZzh2a3prV2xGNGdvam5OT0hQSlNjQ0hoN2FwNkExWHlpaUd3UVdEQ1JjNDRqYm5lSWl0MkNMV2tO?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "75aa92b614cf8e",
+      "cat": "Opportunity",
+      "title": "Cohere Projects Over 1,500 Canadian Jobs and C$4 Billion Investment by 2031 - Unite.AI",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-10-30",
+      "published_at": "2026-10-30T14:35:03+00:00",
+      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlFxcHdYMUVpSkFScW9sblJaeW5Ha2FBTmM3eExOX2NqcDlJamJHVkUtc1BmMzFNaFZhREFIb0ttUDlOWFRPcTAxS1AxUDNTWHdkbkZBLWJnTzJxd3Q0NkRpT09zakktcW44aTBWa2Z2YWpFTnE1amZJYWdmNVYtaE1IeEQxUmozeC1HNWNuR3V4ZE80bktrczlQR3ZyQQ?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-06T11:43:33.015157+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlFxcHdYMUVpSkFScW9sblJaeW5Ha2FBTmM3eExOX2NqcDlJamJHVkUtc1BmMzFNaFZhREFIb0ttUDlOWFRPcTAxS1AxUDNTWHdkbkZBLWJnTzJxd3Q0NkRpT09zakktcW44aTBWa2Z2YWpFTnE1amZJYWdmNVYtaE1IeEQxUmozeC1HNWNuR3V4ZE80bktrczlQR3ZyQQ?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlFxcHdYMUVpSkFScW9sblJaeW5Ha2FBTmM3eExOX2NqcDlJamJHVkUtc1BmMzFNaFZhREFIb0ttUDlOWFRPcTAxS1AxUDNTWHdkbkZBLWJnTzJxd3Q0NkRpT09zakktcW44aTBWa2Z2YWpFTnE1amZJYWdmNVYtaE1IeEQxUmozeC1HNWNuR3V4ZE80bktrczlQR3ZyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
     {
       "id": "30f5c3eb723115",
       "cat": "Partners",
@@ -21,7 +259,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:04.671091+00:00",
+        "checked_at": "2026-11-06T11:43:33.122804+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3FKY3loNkpBclkyR3VQek5NTFhrMHdGTTBkSVJSdThSc09BbTF6Y3N6akdYSXpwRXBQekdCS3RWRTlCOFJFWjVudGh1Z0xDX3ptdXpEMWlSdERDakc5emlwQVA3RTVZNlgwNDhjMzZJaXVPYTlzTkxaTVhhSW9CMTl1V29OUDFJQlQwSUNGQWhjXzdDS0xZTEtCV0lmSGlES25zRQ?oc=5",
@@ -36,305 +274,67 @@
       }
     },
     {
-      "id": "afc2a9d2c90091",
+      "id": "3c3ff371bfd637",
       "cat": "Opportunity",
-      "title": "Carney announces taxpayer-funded investment in Canada AI company Cohere - The Hamilton Independent",
+      "title": "AI Money Delivers Mixed Midterm Results as Data Center Backlash Emerges as a Political Force - AI Insider",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-30",
-      "published_at": "2026-10-30T10:24:01+00:00",
-      "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUd0aVM4ZldOVVNsMi1nLXBib0R4dmNqUjF4ZXZZSXRnc0RjWjBfNTMwVk55NWJhMnVrdTU5Szd2TXlwMmpZN1czT0hRMWVGYXczN2FPT1RSc09ZVjVaaW80Vl9FMGlBV0lDUjFhVUE2UG8xbGdJcUJHWXM3ZllpY25MNEQteTRPUGJ6TEZoODFORXpJdlFvMUxmR190RFdpNGEtZEtR?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:04.814048+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUd0aVM4ZldOVVNsMi1nLXBib0R4dmNqUjF4ZXZZSXRnc0RjWjBfNTMwVk55NWJhMnVrdTU5Szd2TXlwMmpZN1czT0hRMWVGYXczN2FPT1RSc09ZVjVaaW80Vl9FMGlBV0lDUjFhVUE2UG8xbGdJcUJHWXM3ZllpY25MNEQteTRPUGJ6TEZoODFORXpJdlFvMUxmR190RFdpNGEtZEtR?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUd0aVM4ZldOVVNsMi1nLXBib0R4dmNqUjF4ZXZZSXRnc0RjWjBfNTMwVk55NWJhMnVrdTU5Szd2TXlwMmpZN1czT0hRMWVGYXczN2FPT1RSc09ZVjVaaW80Vl9FMGlBV0lDUjFhVUE2UG8xbGdJcUJHWXM3ZllpY25MNEQteTRPUGJ6TEZoODFORXpJdlFvMUxmR190RFdpNGEtZEtR?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "47c2cf6de0ce75",
-      "cat": "Opportunity",
-      "title": "Ottawa investing up to $1.6B in Canadian AI company Cohere - BNN Bloomberg",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T23:51:22+00:00",
-      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVdnN2p3YXB3UFNpLVZ5VnhMSFRnOHZZMHliZWxzaTFpbV9NN0dqTGNqQ3VIdXNwOFFhTHI5XzNzc2RmNmZtUFBmX0NvTURTRDJUWnpXVlMtUGFqYi1fRG1ndmdMNXhGMG01NUs4ZTdOSXNGc1JhQzlQQ0h4VUNIUHUyb0hYM0pzSW5CZkt1UUU4eWlpX1lTbldrUU5Wb0RXbUVTWU55LW5mTzA4aE55am5NSDZ4cUwyUkx6LVVOSU04NktKeXllLQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:04.919229+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVdnN2p3YXB3UFNpLVZ5VnhMSFRnOHZZMHliZWxzaTFpbV9NN0dqTGNqQ3VIdXNwOFFhTHI5XzNzc2RmNmZtUFBmX0NvTURTRDJUWnpXVlMtUGFqYi1fRG1ndmdMNXhGMG01NUs4ZTdOSXNGc1JhQzlQQ0h4VUNIUHUyb0hYM0pzSW5CZkt1UUU4eWlpX1lTbldrUU5Wb0RXbUVTWU55LW5mTzA4aE55am5NSDZ4cUwyUkx6LVVOSU04NktKeXllLQ?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVdnN2p3YXB3UFNpLVZ5VnhMSFRnOHZZMHliZWxzaTFpbV9NN0dqTGNqQ3VIdXNwOFFhTHI5XzNzc2RmNmZtUFBmX0NvTURTRDJUWnpXVlMtUGFqYi1fRG1ndmdMNXhGMG01NUs4ZTdOSXNGc1JhQzlQQ0h4VUNIUHUyb0hYM0pzSW5CZkt1UUU4eWlpX1lTbldrUU5Wb0RXbUVTWU55LW5mTzA4aE55am5NSDZ4cUwyUkx6LVVOSU04NktKeXllLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "dc8ed1afd60a7a",
-      "cat": "Opportunity",
-      "title": "Nvidia and Canadian Government Join Forces on Bet, Cohere Valuation Soars to $20.5 Billion - BigGo Finance",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T22:56:00+00:00",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zbXFnVzlLZkxHYUxWemZESHFZMzBrRXJLUUw4WHpxZFBqXzFFNlc1VS16cW96cU50Y1ZDaW5WWWRZY0NSUFR0bmhDZTJDbG5NSVdfOTJGcFA0STdSNlRwb2dMNEl5cWg0TGRBOC1PRllZX2RrV3c?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:05.021506+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zbXFnVzlLZkxHYUxWemZESHFZMzBrRXJLUUw4WHpxZFBqXzFFNlc1VS16cW96cU50Y1ZDaW5WWWRZY0NSUFR0bmhDZTJDbG5NSVdfOTJGcFA0STdSNlRwb2dMNEl5cWg0TGRBOC1PRllZX2RrV3c?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zbXFnVzlLZkxHYUxWemZESHFZMzBrRXJLUUw4WHpxZFBqXzFFNlc1VS16cW96cU50Y1ZDaW5WWWRZY0NSUFR0bmhDZTJDbG5NSVdfOTJGcFA0STdSNlRwb2dMNEl5cWg0TGRBOC1PRllZX2RrV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "0932ec8b4c9c29",
-      "cat": "Opportunity",
-      "title": "Feds to invest up to $1.6 billion in Canadian AI company Cohere in its $7-billion fundraise - Yahoo! Finance Canada",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T17:36:02+00:00",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWYUtlUHROUzF5cTRGR2F3ZU9TYXp2eWVGenY1RWtENEVRbnQ4RUx3bzR0WG1kQm9HY0ZjTzJURnBwOFNsQXFEVW51eUhmNU5LMWJaLVVpbWVyVFBUV0V4Mk0xSDFYZUNiYXFNbENvT0stazkzWlZjNEJiTEg?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:05.126177+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWYUtlUHROUzF5cTRGR2F3ZU9TYXp2eWVGenY1RWtENEVRbnQ4RUx3bzR0WG1kQm9HY0ZjTzJURnBwOFNsQXFEVW51eUhmNU5LMWJaLVVpbWVyVFBUV0V4Mk0xSDFYZUNiYXFNbENvT0stazkzWlZjNEJiTEg?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWYUtlUHROUzF5cTRGR2F3ZU9TYXp2eWVGenY1RWtENEVRbnQ4RUx3bzR0WG1kQm9HY0ZjTzJURnBwOFNsQXFEVW51eUhmNU5LMWJaLVVpbWVyVFBUV0V4Mk0xSDFYZUNiYXFNbENvT0stazkzWlZjNEJiTEg?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "22826710ec61e0",
-      "cat": "Opportunity",
-      "title": "Cohere Series E round of up to CAD $7 billion draws Nvidia, Canada - Quartz",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T17:31:25+00:00",
-      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:05.244231+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "68babf864a7b84",
-      "cat": "Opportunity",
-      "title": "Canada, Nvidia Back Cohere in Round at Over $20 Billion Value - Bloomberg.com",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T16:57:22+00:00",
-      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVk0xNE9EYzVuMEQ0OUJvYXNDMTFEN2tfVkVYWV9xSXpQWnlQUkNVTTIyWG5XOThJMHY3WWs5RktqWXpVMjN1ZmtXcVFUeVJMYjJNaEhFTTg1b0RNblJUTHZ3LW1wZ0JmRUZEUURwTy0yaC1nXzlHM3ZKeWFIUVJBdUZ5VlU0RXZxcTNKdGZ0ZHVoVWFILTRRWmVyVlN3V2V1X1VONWdTNjFYYVcwYUlj?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:05.351913+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVk0xNE9EYzVuMEQ0OUJvYXNDMTFEN2tfVkVYWV9xSXpQWnlQUkNVTTIyWG5XOThJMHY3WWs5RktqWXpVMjN1ZmtXcVFUeVJMYjJNaEhFTTg1b0RNblJUTHZ3LW1wZ0JmRUZEUURwTy0yaC1nXzlHM3ZKeWFIUVJBdUZ5VlU0RXZxcTNKdGZ0ZHVoVWFILTRRWmVyVlN3V2V1X1VONWdTNjFYYVcwYUlj?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVk0xNE9EYzVuMEQ0OUJvYXNDMTFEN2tfVkVYWV9xSXpQWnlQUkNVTTIyWG5XOThJMHY3WWs5RktqWXpVMjN1ZmtXcVFUeVJMYjJNaEhFTTg1b0RNblJUTHZ3LW1wZ0JmRUZEUURwTy0yaC1nXzlHM3ZKeWFIUVJBdUZ5VlU0RXZxcTNKdGZ0ZHVoVWFILTRRWmVyVlN3V2V1X1VONWdTNjFYYVcwYUlj?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "af5e9688fb56fc",
-      "cat": "Opportunity",
-      "title": "Cohere Announces Series E Fundraise Targeting CAD $7 Billion to Meet Surging Global Demand for Secure, Sovereign AI - PR Newswire Canada",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T16:45:00+00:00",
-      "source": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTjluVi1FTE5wM3dRd1g1VXgyTURYZTFUSFdTTzNDWjN0U0FjaDFjU014bV9iR1N6VTRPNmxJQUItMmlGbUdOa1ZvYml0cDBxaVZ4eUwwUjNYOWxsaHhSMVFMT2FXRzlQSHFoa3RLM0ctV05yVlhPcnlLbC1IbTIwYXVjTmtDZDhMNHZuYUlIU3h0MGFXeUphV1hldXhoTTlfa29yTVRaci1CS0h1Q3NRdDIwVFk1enkzN29FOHo5MzFrUmJlTy1lUTFaYnRPWTFiZm43dGdWbU1yU2NSTUlvM3ZkRkdrZDFMU2RwYl9RbWNZUWJrRkVVV3hn?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:05.476157+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTjluVi1FTE5wM3dRd1g1VXgyTURYZTFUSFdTTzNDWjN0U0FjaDFjU014bV9iR1N6VTRPNmxJQUItMmlGbUdOa1ZvYml0cDBxaVZ4eUwwUjNYOWxsaHhSMVFMT2FXRzlQSHFoa3RLM0ctV05yVlhPcnlLbC1IbTIwYXVjTmtDZDhMNHZuYUlIU3h0MGFXeUphV1hldXhoTTlfa29yTVRaci1CS0h1Q3NRdDIwVFk1enkzN29FOHo5MzFrUmJlTy1lUTFaYnRPWTFiZm43dGdWbU1yU2NSTUlvM3ZkRkdrZDFMU2RwYl9RbWNZUWJrRkVVV3hn?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTjluVi1FTE5wM3dRd1g1VXgyTURYZTFUSFdTTzNDWjN0U0FjaDFjU014bV9iR1N6VTRPNmxJQUItMmlGbUdOa1ZvYml0cDBxaVZ4eUwwUjNYOWxsaHhSMVFMT2FXRzlQSHFoa3RLM0ctV05yVlhPcnlLbC1IbTIwYXVjTmtDZDhMNHZuYUlIU3h0MGFXeUphV1hldXhoTTlfa29yTVRaci1CS0h1Q3NRdDIwVFk1enkzN29FOHo5MzFrUmJlTy1lUTFaYnRPWTFiZm43dGdWbU1yU2NSTUlvM3ZkRkdrZDFMU2RwYl9RbWNZUWJrRkVVV3hn?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "cd9897d0cfbdbf",
-      "cat": "Opportunity",
-      "title": "Canada Cohere Investment: Up to C$1.6B Stake [2026] - tech-insider.org",
-      "summary": "Canada Cohere Investment: Up to C$1.6B Stake [2026] tech-insider.org",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T16:44:24+00:00",
-      "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU1JkdFJDamFOMjNzZFBIdzhxcGYyckdOenN2MXhkRjUtbnIzRC1IOXZxelVVUFJSMXNzTllQdHJVRGhtRFVBN0tQOEQ0QTlHN2xaVURzVHhKYjZldmY4RmNnZHV2MWp5Zi1JcjJ4c0VQRVFrQTFqRk02WVYyUnZOWTJlMnJrQQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:05.597120+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU1JkdFJDamFOMjNzZFBIdzhxcGYyckdOenN2MXhkRjUtbnIzRC1IOXZxelVVUFJSMXNzTllQdHJVRGhtRFVBN0tQOEQ0QTlHN2xaVURzVHhKYjZldmY4RmNnZHV2MWp5Zi1JcjJ4c0VQRVFrQTFqRk02WVYyUnZOWTJlMnJrQQ?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU1JkdFJDamFOMjNzZFBIdzhxcGYyckdOenN2MXhkRjUtbnIzRC1IOXZxelVVUFJSMXNzTllQdHJVRGhtRFVBN0tQOEQ0QTlHN2xaVURzVHhKYjZldmY4RmNnZHV2MWp5Zi1JcjJ4c0VQRVFrQTFqRk02WVYyUnZOWTJlMnJrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "88ad35e0b67237",
-      "cat": "Partners",
-      "title": "Cisco Gains From AI Networking Boom: Can It Outpace HPE & ANET? - TradingView",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
+      "score": 4,
       "region": "Unconfirmed / global",
       "origin_region": "Unconfirmed / global",
-      "na_impact": 5,
-      "na_impact_reason": "Direct HPE portfolio or partner relevance",
-      "date": "2026-10-29",
-      "published_at": "2026-10-29T16:38:00+00:00",
-      "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2tPMnVDVHA4cENoZWpuSDR1OXJmVTk2YmUxWU5GSFpnZDAzdmdWb09xWmN5Y3pJSEs2cV8xM2tXZmdJbTN4WkdOazlqcldZZjVnMFNoLUtZUU5RT3NfN3kwa0xQcV9FMW52cGN0T092cFBTQ3hrcGVwVGJ3d2V6eGk4VXJUVTgySkdEZUVEaWV1VzNGNFBBZXp2WWYzejd6NTNRWmRYbUdBNkpIQnFfY1FmczBxdw?oc=5",
+      "na_impact": 4,
+      "na_impact_reason": "North American enterprise infrastructure relevance",
+      "date": "2026-11-06",
+      "published_at": "2026-11-06T10:00:26+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEZsVWREOS1Vb3FSU2oxSGZjb25Pa3lZZ3BKemxHTzBEUHY1cmFoZ0xHSVBGcFM0RjdEVndoMnRIX1JlcWZyYUYtNE5MZnA5WHRmMFNTdnJ5WHRYc3Z6X1JiLVpldUJ6cnNmQThMVjJnbjNWc1EzVDJtVFRZaHk0aDJqRVRFMzYzdGdXbGs5ZmdZb1JHRHdXSDk4TkZDbFFoUDVRWE53NjNqMk81dm5xZGpDSVVTdW1UMHpKTWt5T25aeERHZnk5YmVn?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-10-30T16:39:05.706268+00:00",
+        "checked_at": "2026-11-06T11:43:33.232257+00:00",
         "evidence": [
           {
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2tPMnVDVHA4cENoZWpuSDR1OXJmVTk2YmUxWU5GSFpnZDAzdmdWb09xWmN5Y3pJSEs2cV8xM2tXZmdJbTN4WkdOazlqcldZZjVnMFNoLUtZUU5RT3NfN3kwa0xQcV9FMW52cGN0T092cFBTQ3hrcGVwVGJ3d2V6eGk4VXJUVTgySkdEZUVEaWV1VzNGNFBBZXp2WWYzejd6NTNRWmRYbUdBNkpIQnFfY1FmczBxdw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEZsVWREOS1Vb3FSU2oxSGZjb25Pa3lZZ3BKemxHTzBEUHY1cmFoZ0xHSVBGcFM0RjdEVndoMnRIX1JlcWZyYUYtNE5MZnA5WHRmMFNTdnJ5WHRYc3Z6X1JiLVpldUJ6cnNmQThMVjJnbjNWc1EzVDJtVFRZaHk0aDJqRVRFMzYzdGdXbGs5ZmdZb1JHRHdXSDk4TkZDbFFoUDVRWE53NjNqMk81dm5xZGpDSVVTdW1UMHpKTWt5T25aeERHZnk5YmVn?oc=5",
             "kind": "RSS discovery"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2tPMnVDVHA4cENoZWpuSDR1OXJmVTk2YmUxWU5GSFpnZDAzdmdWb09xWmN5Y3pJSEs2cV8xM2tXZmdJbTN4WkdOazlqcldZZjVnMFNoLUtZUU5RT3NfN3kwa0xQcV9FMW52cGN0T092cFBTQ3hrcGVwVGJ3d2V6eGk4VXJUVTgySkdEZUVEaWV1VzNGNFBBZXp2WWYzejd6NTNRWmRYbUdBNkpIQnFfY1FmczBxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEZsVWREOS1Vb3FSU2oxSGZjb25Pa3lZZ3BKemxHTzBEUHY1cmFoZ0xHSVBGcFM0RjdEVndoMnRIX1JlcWZyYUYtNE5MZnA5WHRmMFNTdnJ5WHRYc3Z6X1JiLVpldUJ6cnNmQThMVjJnbjNWc1EzVDJtVFRZaHk0aDJqRVRFMzYzdGdXbGs5ZmdZb1JHRHdXSDk4TkZDbFFoUDVRWE53NjNqMk81dm5xZGpDSVVTdW1UMHpKTWt5T25aeERHZnk5YmVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "ba2c5966f71a0d",
+      "cat": "AI & Cloud",
+      "title": "NVIDIA Kubernetes Engine Enters Preview: A Management Plane for GPU Kubernetes Clusters - news.lavx.hu",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 4,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 4,
+      "na_impact_reason": "Cross-border AI platform or developer relevance",
+      "date": "2026-11-06",
+      "published_at": "2026-11-06T04:05:33+00:00",
+      "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXBxbjhKZExBZGlyeW9VakF5X2lFbmVRTWQ0ZXZxWldJT2VCZTVLd0RMeFVYQ2xodEc2TVgwZGpVNHhrWmtUNjNYLWtmem13dnBxU2ZxYktpcU94cEY1Q0tLMnU3Y1JSZUJGeF9GeFN5U2UwXzRMS2RuZWJYUUM0RlJxUTJpQkFVRnBOaG4zbnIxaDc1TlI3UmJDVnJlYlloeExNc2U2ZWl2ZjNDRDVyX0lFWmFfQQ?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-06T11:43:33.335510+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXBxbjhKZExBZGlyeW9VakF5X2lFbmVRTWQ0ZXZxWldJT2VCZTVLd0RMeFVYQ2xodEc2TVgwZGpVNHhrWmtUNjNYLWtmem13dnBxU2ZxYktpcU94cEY1Q0tLMnU3Y1JSZUJGeF9GeFN5U2UwXzRMS2RuZWJYUUM0RlJxUTJpQkFVRnBOaG4zbnIxaDc1TlI3UmJDVnJlYlloeExNc2U2ZWl2ZjNDRDVyX0lFWmFfQQ?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXBxbjhKZExBZGlyeW9VakF5X2lFbmVRTWQ0ZXZxWldJT2VCZTVLd0RMeFVYQ2xodEc2TVgwZGpVNHhrWmtUNjNYLWtmem13dnBxU2ZxYktpcU94cEY1Q0tLMnU3Y1JSZUJGeF9GeFN5U2UwXzRMS2RuZWJYUUM0RlJxUTJpQkFVRnBOaG4zbnIxaDc1TlI3UmJDVnJlYlloeExNc2U2ZWl2ZjNDRDVyX0lFWmFfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -348,5 +348,5 @@
     "Which partners could help deliver a discovery workshop next week?"
   ],
   "methodology": "Selected public RSS headlines from the available seven-day feed, not a comprehensive or independently verified research report.",
-  "text": "HYBRID RADAR WEEKLY — 2026-10-30\nNorth America first | Global technology intelligence\n\n1. HPE secures another Premier League networking win with Brentford deal - SDxCentral\nDate: 2026-10-30 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3FKY3loNkpBclkyR3VQek5NTFhrMHdGTTBkSVJSdThSc09BbTF6Y3N6akdYSXpwRXBQekdCS3RWRTlCOFJFWjVudGh1Z0xDX3ptdXpEMWlSdERDakc5emlwQVA3RTVZNlgwNDhjMzZJaXVPYTlzTkxaTVhhSW9CMTl1V29OUDFJQlQwSUNGQWhjXzdDS0xZTEtCV0lmSGlES25zRQ?oc=5\n\n2. Carney announces taxpayer-funded investment in Canada AI company Cohere - The Hamilton Independent\nDate: 2026-10-30 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUd0aVM4ZldOVVNsMi1nLXBib0R4dmNqUjF4ZXZZSXRnc0RjWjBfNTMwVk55NWJhMnVrdTU5Szd2TXlwMmpZN1czT0hRMWVGYXczN2FPT1RSc09ZVjVaaW80Vl9FMGlBV0lDUjFhVUE2UG8xbGdJcUJHWXM3ZllpY25MNEQteTRPUGJ6TEZoODFORXpJdlFvMUxmR190RFdpNGEtZEtR?oc=5\n\n3. Ottawa investing up to $1.6B in Canadian AI company Cohere - BNN Bloomberg\nDate: 2026-10-29 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVdnN2p3YXB3UFNpLVZ5VnhMSFRnOHZZMHliZWxzaTFpbV9NN0dqTGNqQ3VIdXNwOFFhTHI5XzNzc2RmNmZtUFBmX0NvTURTRDJUWnpXVlMtUGFqYi1fRG1ndmdMNXhGMG01NUs4ZTdOSXNGc1JhQzlQQ0h4VUNIUHUyb0hYM0pzSW5CZkt1UUU4eWlpX1lTbldrUU5Wb0RXbUVTWU55LW5mTzA4aE55am5NSDZ4cUwyUkx6LVVOSU04NktKeXllLQ?oc=5\n\n4. Nvidia and Canadian Government Join Forces on Bet, Cohere Valuation Soars to $20.5 Billion - BigGo Finance\nDate: 2026-10-29 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMidkFVX3lxTE0zbXFnVzlLZkxHYUxWemZESHFZMzBrRXJLUUw4WHpxZFBqXzFFNlc1VS16cW96cU50Y1ZDaW5WWWRZY0NSUFR0bmhDZTJDbG5NSVdfOTJGcFA0STdSNlRwb2dMNEl5cWg0TGRBOC1PRllZX2RrV3c?oc=5\n\n5. Feds to invest up to $1.6 billion in Canadian AI company Cohere in its $7-billion fundraise - Yahoo! Finance Canada\nDate: 2026-10-29 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMifEFVX3lxTFBWYUtlUHROUzF5cTRGR2F3ZU9TYXp2eWVGenY1RWtENEVRbnQ4RUx3bzR0WG1kQm9HY0ZjTzJURnBwOFNsQXFEVW51eUhmNU5LMWJaLVVpbWVyVFBUV0V4Mk0xSDFYZUNiYXFNbENvT0stazkzWlZjNEJiTEg?oc=5\n\n6. Cohere Series E round of up to CAD $7 billion draws Nvidia, Canada - Quartz\nDate: 2026-10-29 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE?oc=5\n\n7. Canada, Nvidia Back Cohere in Round at Over $20 Billion Value - Bloomberg.com\nDate: 2026-10-29 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMirwFBVV95cUxQVk0xNE9EYzVuMEQ0OUJvYXNDMTFEN2tfVkVYWV9xSXpQWnlQUkNVTTIyWG5XOThJMHY3WWs5RktqWXpVMjN1ZmtXcVFUeVJMYjJNaEhFTTg1b0RNblJUTHZ3LW1wZ0JmRUZEUURwTy0yaC1nXzlHM3ZKeWFIUVJBdUZ5VlU0RXZxcTNKdGZ0ZHVoVWFILTRRWmVyVlN3V2V1X1VONWdTNjFYYVcwYUlj?oc=5\n\n8. Cohere Announces Series E Fundraise Targeting CAD $7 Billion to Meet Surging Global Demand for Secure, Sovereign AI - PR Newswire Canada\nDate: 2026-10-29 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTjluVi1FTE5wM3dRd1g1VXgyTURYZTFUSFdTTzNDWjN0U0FjaDFjU014bV9iR1N6VTRPNmxJQUItMmlGbUdOa1ZvYml0cDBxaVZ4eUwwUjNYOWxsaHhSMVFMT2FXRzlQSHFoa3RLM0ctV05yVlhPcnlLbC1IbTIwYXVjTmtDZDhMNHZuYUlIU3h0MGFXeUphV1hldXhoTTlfa29yTVRaci1CS0h1Q3NRdDIwVFk1enkzN29FOHo5MzFrUmJlTy1lUTFaYnRPWTFiZm43dGdWbU1yU2NSTUlvM3ZkRkdrZDFMU2RwYl9RbWNZUWJrRkVVV3hn?oc=5\n\n9. Canada Cohere Investment: Up to C$1.6B Stake [2026] - tech-insider.org\nDate: 2026-10-29 | Opportunity\nRelevance: 5/5\nCanada Cohere Investment: Up to C$1.6B Stake [2026] tech-insider.org\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMihgFBVV95cUxNU1JkdFJDamFOMjNzZFBIdzhxcGYyckdOenN2MXhkRjUtbnIzRC1IOXZxelVVUFJSMXNzTllQdHJVRGhtRFVBN0tQOEQ0QTlHN2xaVURzVHhKYjZldmY4RmNnZHV2MWp5Zi1JcjJ4c0VQRVFrQTFqRk02WVYyUnZOWTJlMnJrQQ?oc=5\n\n10. Cisco Gains From AI Networking Boom: Can It Outpace HPE & ANET? - TradingView\nDate: 2026-10-29 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2tPMnVDVHA4cENoZWpuSDR1OXJmVTk2YmUxWU5GSFpnZDAzdmdWb09xWmN5Y3pJSEs2cV8xM2tXZmdJbTN4WkdOazlqcldZZjVnMFNoLUtZUU5RT3NfN3kwa0xQcV9FMW52cGN0T092cFBTQ3hrcGVwVGJ3d2V6eGk4VXJUVTgySkdEZUVEaWV1VzNGNFBBZXp2WWYzejd6NTNRWmRYbUdBNkpIQnFfY1FmczBxdw?oc=5\n\nDISCOVERY QUESTIONS\nWhich upcoming virtualization renewals create a modernization opportunity?\nWhich AI workloads need private deployment, observability or runtime governance?\nWhich partners could help deliver a discovery workshop next week?\n\nEditorial note: selected public RSS headlines; original reporting and claims have not been independently verified."
+  "text": "HYBRID RADAR WEEKLY — 2026-11-06\nNorth America first | Global technology intelligence\n\n1. Canada Hardware Startups: 16.5-Year Buying Cycle [2026] - shattered.io\nDate: 2026-11-05 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkxCNWlNc3FsQlJTbW91ZVk2N1B5VGVHRWloLTVDYmVvN0cwMGVBQUVsUkxEUjV4cktQOUFGQ08wOXNKXy1tUlZsMllBX0RYbDZqYjJFbm1QWFZCYkJuNGNFVVdTalhHQXhBdlRNN0s1ZDFsaktleWRXZlBDLVNBSnF3Uk5IZm96VmRRMTE5U19TWW5XR0E?oc=5\n\n2. Robo.ai Inc. (AIIO) Stock Price, News, Quote & History - Yahoo! Finance Canada\nDate: 2026-11-03 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5\n\n3. Hewlett Packard Enterprise (NYSE:HPE) Stock Forecast & Analyst Predictions - Simply Wall St\nDate: 2026-11-03 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMihgFBVV95cUxNMG4xUmUtYzhmYk9mSVdxOG9LaldNVmd5WExQVm0zbTFaTVFXMWxXbEJ4enl6T0pNNXR3R2JDSnpQS21VdzN2a2RiQ2lHX1hBc05oajR5M05EWUlSOUUwRk5TczJTcnNKN3IxUmhTTTh0QWItbmRmMHAxMTJzZk15RDVLa2pFUQ?oc=5\n\n4. Extreme Networks CEO Ed Meyercord sharpens pointed attacks against HPE, Cisco - SDxCentral\nDate: 2026-11-02 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWt6cjdqR3p3Vzl1MjdZV005TC1HOTQ5ckZkWnZPY1Z3R3B3MzFmenU2eFdWdWstdWtjQjZWS1R5YTlLOHN6UDd3a0l0MGxYS1FkUmJSNDkyZGRRNHBjZkhsRHYzYTJCOGR0bDVsZ29GMkdxSy1JZm9NaG4xZ2VvU0xuLV82anhqMjM3MzNBVVBzVXlpbnZ6SDlpMHlmQjFzMmlQRktNRVl2ZjdiYWc?oc=5\n\n5. Cohere Hits US$25bn as Canada & NVIDIA Fund Sovereign AI - AI Magazine\nDate: 2026-11-02 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc?oc=5\n\n6. Extreme Networks picks off Cisco and HPE partners - Channel Dive\nDate: 2026-11-02 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3BnQmVMTTVrS2EybWlWNk9hOC1DekRRa0VOZnV6QXZac0lOQkY2NjlKeXg2VnVTdDRXT1d0VlN6WnVVckd5M1FRM0pGTFBSeVhRckhIZ1Q2WG1VZzh2a3prV2xGNGdvam5OT0hQSlNjQ0hoN2FwNkExWHlpaUd3UVdEQ1JjNDRqYm5lSWl0MkNMV2tO?oc=5\n\n7. Cohere Projects Over 1,500 Canadian Jobs and C$4 Billion Investment by 2031 - Unite.AI\nDate: 2026-10-30 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMingFBVV95cUxNNlFxcHdYMUVpSkFScW9sblJaeW5Ha2FBTmM3eExOX2NqcDlJamJHVkUtc1BmMzFNaFZhREFIb0ttUDlOWFRPcTAxS1AxUDNTWHdkbkZBLWJnTzJxd3Q0NkRpT09zakktcW44aTBWa2Z2YWpFTnE1amZJYWdmNVYtaE1IeEQxUmozeC1HNWNuR3V4ZE80bktrczlQR3ZyQQ?oc=5\n\n8. HPE secures another Premier League networking win with Brentford deal - SDxCentral\nDate: 2026-10-30 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3FKY3loNkpBclkyR3VQek5NTFhrMHdGTTBkSVJSdThSc09BbTF6Y3N6akdYSXpwRXBQekdCS3RWRTlCOFJFWjVudGh1Z0xDX3ptdXpEMWlSdERDakc5emlwQVA3RTVZNlgwNDhjMzZJaXVPYTlzTkxaTVhhSW9CMTl1V29OUDFJQlQwSUNGQWhjXzdDS0xZTEtCV0lmSGlES25zRQ?oc=5\n\n9. AI Money Delivers Mixed Midterm Results as Data Center Backlash Emerges as a Political Force - AI Insider\nDate: 2026-11-06 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEZsVWREOS1Vb3FSU2oxSGZjb25Pa3lZZ3BKemxHTzBEUHY1cmFoZ0xHSVBGcFM0RjdEVndoMnRIX1JlcWZyYUYtNE5MZnA5WHRmMFNTdnJ5WHRYc3Z6X1JiLVpldUJ6cnNmQThMVjJnbjNWc1EzVDJtVFRZaHk0aDJqRVRFMzYzdGdXbGs5ZmdZb1JHRHdXSDk4TkZDbFFoUDVRWE53NjNqMk81dm5xZGpDSVVTdW1UMHpKTWt5T25aeERHZnk5YmVn?oc=5\n\n10. NVIDIA Kubernetes Engine Enters Preview: A Management Plane for GPU Kubernetes Clusters - news.lavx.hu\nDate: 2026-11-06 | AI & Cloud\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXBxbjhKZExBZGlyeW9VakF5X2lFbmVRTWQ0ZXZxWldJT2VCZTVLd0RMeFVYQ2xodEc2TVgwZGpVNHhrWmtUNjNYLWtmem13dnBxU2ZxYktpcU94cEY1Q0tLMnU3Y1JSZUJGeF9GeFN5U2UwXzRMS2RuZWJYUUM0RlJxUTJpQkFVRnBOaG4zbnIxaDc1TlI3UmJDVnJlYlloeExNc2U2ZWl2ZjNDRDVyX0lFWmFfQQ?oc=5\n\nDISCOVERY QUESTIONS\nWhich upcoming virtualization renewals create a modernization opportunity?\nWhich AI workloads need private deployment, observability or runtime governance?\nWhich partners could help deliver a discovery workshop next week?\n\nEditorial note: selected public RSS headlines; original reporting and claims have not been independently verified."
 }
