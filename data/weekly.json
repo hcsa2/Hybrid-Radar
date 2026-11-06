@@ -21,7 +21,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:32.266529+00:00",
+        "checked_at": "2026-11-06T17:41:40.371468+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkxCNWlNc3FsQlJTbW91ZVk2N1B5VGVHRWloLTVDYmVvN0cwMGVBQUVsUkxEUjV4cktQOUFGQ08wOXNKXy1tUlZsMllBX0RYbDZqYjJFbm1QWFZCYkJuNGNFVVdTalhHQXhBdlRNN0s1ZDFsaktleWRXZlBDLVNBSnF3Uk5IZm96VmRRMTE5U19TWW5XR0E?oc=5",
@@ -55,7 +55,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:32.421694+00:00",
+        "checked_at": "2026-11-06T17:41:40.508460+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5",
@@ -63,6 +63,40 @@
           },
           {
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "3eebfdbf6f981e",
+      "cat": "Opportunity",
+      "title": "Canada needs to start embracing AI data centres - The Hub | More Signal. Less Noise.",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 5,
+      "region": "Canada / Quebec",
+      "origin_region": "Canada / Quebec",
+      "na_impact": 5,
+      "na_impact_reason": "Canadian enterprise / public-sector relevance",
+      "date": "2026-11-03",
+      "published_at": "2026-11-03T08:00:51+00:00",
+      "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXhPTDlaX1lWRExWTGxFWmMwSjFLZ3lYdnpUWVRrUlVtTTB6cUVfYlNpLTNVZFpWV2RJVkxrYlZTLWd2MFA5eWZpYjZPd2pLblhpSEJTdGlKdkhYMjB4SlpXODItSlpkcUhsR25VOS0xVEVObFRsNmFRTmNyT3VodVZIMA?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-06T17:41:40.616464+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXhPTDlaX1lWRExWTGxFWmMwSjFLZ3lYdnpUWVRrUlVtTTB6cUVfYlNpLTNVZFpWV2RJVkxrYlZTLWd2MFA5eWZpYjZPd2pLblhpSEJTdGlKdkhYMjB4SlpXODItSlpkcUhsR25VOS0xVEVObFRsNmFRTmNyT3VodVZIMA?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXhPTDlaX1lWRExWTGxFWmMwSjFLZ3lYdnpUWVRrUlVtTTB6cUVfYlNpLTNVZFpWV2RJVkxrYlZTLWd2MFA5eWZpYjZPd2pLblhpSEJTdGlKdkhYMjB4SlpXODItSlpkcUhsR25VOS0xVEVObFRsNmFRTmNyT3VodVZIMA?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -89,7 +123,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:32.526351+00:00",
+        "checked_at": "2026-11-06T17:41:40.730382+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMG4xUmUtYzhmYk9mSVdxOG9LaldNVmd5WExQVm0zbTFaTVFXMWxXbEJ4enl6T0pNNXR3R2JDSnpQS21VdzN2a2RiQ2lHX1hBc05oajR5M05EWUlSOUUwRk5TczJTcnNKN3IxUmhTTTh0QWItbmRmMHAxMTJzZk15RDVLa2pFUQ?oc=5",
@@ -123,7 +157,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:32.687669+00:00",
+        "checked_at": "2026-11-06T17:41:40.843027+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWt6cjdqR3p3Vzl1MjdZV005TC1HOTQ5ckZkWnZPY1Z3R3B3MzFmenU2eFdWdWstdWtjQjZWS1R5YTlLOHN6UDd3a0l0MGxYS1FkUmJSNDkyZGRRNHBjZkhsRHYzYTJCOGR0bDVsZ29GMkdxSy1JZm9NaG4xZ2VvU0xuLV82anhqMjM3MzNBVVBzVXlpbnZ6SDlpMHlmQjFzMmlQRktNRVl2ZjdiYWc?oc=5",
@@ -157,7 +191,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:32.794814+00:00",
+        "checked_at": "2026-11-06T17:41:40.947855+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc?oc=5",
@@ -191,7 +225,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:32.905167+00:00",
+        "checked_at": "2026-11-06T17:41:41.059715+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3BnQmVMTTVrS2EybWlWNk9hOC1DekRRa0VOZnV6QXZac0lOQkY2NjlKeXg2VnVTdDRXT1d0VlN6WnVVckd5M1FRM0pGTFBSeVhRckhIZ1Q2WG1VZzh2a3prV2xGNGdvam5OT0hQSlNjQ0hoN2FwNkExWHlpaUd3UVdEQ1JjNDRqYm5lSWl0MkNMV2tO?oc=5",
@@ -206,33 +240,33 @@
       }
     },
     {
-      "id": "75aa92b614cf8e",
-      "cat": "Opportunity",
-      "title": "Cohere Projects Over 1,500 Canadian Jobs and C$4 Billion Investment by 2031 - Unite.AI",
+      "id": "9b619925902c04",
+      "cat": "Competitive",
+      "title": "Nutanix adds SIs to its partner mix - SDxCentral",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-10-30",
-      "published_at": "2026-10-30T14:35:03+00:00",
-      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlFxcHdYMUVpSkFScW9sblJaeW5Ha2FBTmM3eExOX2NqcDlJamJHVkUtc1BmMzFNaFZhREFIb0ttUDlOWFRPcTAxS1AxUDNTWHdkbkZBLWJnTzJxd3Q0NkRpT09zakktcW44aTBWa2Z2YWpFTnE1amZJYWdmNVYtaE1IeEQxUmozeC1HNWNuR3V4ZE80bktrczlQR3ZyQQ?oc=5",
+      "score": 4,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 4,
+      "na_impact_reason": "North American enterprise infrastructure relevance",
+      "date": "2026-11-06",
+      "published_at": "2026-11-06T13:39:18+00:00",
+      "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53UHRlTXlHU2xnRmgtTlc0TThIVW04X0YyX1c4Q0tQbk1IZTlpVWdoMGtJbVpzVG92X0EzdU40MlpZOEQ3RmFIN3U3ODloTTlZSlJQRjhGMFctZUJxOXhrY1JrSmtZSjlZMjdGZ3JJWE9vMHRYYjZV?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:33.015157+00:00",
+        "checked_at": "2026-11-06T17:41:41.190724+00:00",
         "evidence": [
           {
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlFxcHdYMUVpSkFScW9sblJaeW5Ha2FBTmM3eExOX2NqcDlJamJHVkUtc1BmMzFNaFZhREFIb0ttUDlOWFRPcTAxS1AxUDNTWHdkbkZBLWJnTzJxd3Q0NkRpT09zakktcW44aTBWa2Z2YWpFTnE1amZJYWdmNVYtaE1IeEQxUmozeC1HNWNuR3V4ZE80bktrczlQR3ZyQQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53UHRlTXlHU2xnRmgtTlc0TThIVW04X0YyX1c4Q0tQbk1IZTlpVWdoMGtJbVpzVG92X0EzdU40MlpZOEQ3RmFIN3U3ODloTTlZSlJQRjhGMFctZUJxOXhrY1JrSmtZSjlZMjdGZ3JJWE9vMHRYYjZV?oc=5",
             "kind": "RSS discovery"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlFxcHdYMUVpSkFScW9sblJaeW5Ha2FBTmM3eExOX2NqcDlJamJHVkUtc1BmMzFNaFZhREFIb0ttUDlOWFRPcTAxS1AxUDNTWHdkbkZBLWJnTzJxd3Q0NkRpT09zakktcW44aTBWa2Z2YWpFTnE1amZJYWdmNVYtaE1IeEQxUmozeC1HNWNuR3V4ZE80bktrczlQR3ZyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53UHRlTXlHU2xnRmgtTlc0TThIVW04X0YyX1c4Q0tQbk1IZTlpVWdoMGtJbVpzVG92X0EzdU40MlpZOEQ3RmFIN3U3ODloTTlZSlJQRjhGMFctZUJxOXhrY1JrSmtZSjlZMjdGZ3JJWE9vMHRYYjZV?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -240,33 +274,33 @@
       }
     },
     {
-      "id": "30f5c3eb723115",
-      "cat": "Partners",
-      "title": "HPE secures another Premier League networking win with Brentford deal - SDxCentral",
+      "id": "f448196a7ed513",
+      "cat": "Opportunity",
+      "title": "TELUS Reports Third Quarter 2026 Results, Demonstrates Continued Discipline in Core Telecom; Advances Transformation Strategy - TradingView",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
+      "score": 4,
       "region": "Unconfirmed / global",
       "origin_region": "Unconfirmed / global",
-      "na_impact": 5,
-      "na_impact_reason": "Direct HPE portfolio or partner relevance",
-      "date": "2026-10-30",
-      "published_at": "2026-10-30T11:48:41+00:00",
-      "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3FKY3loNkpBclkyR3VQek5NTFhrMHdGTTBkSVJSdThSc09BbTF6Y3N6akdYSXpwRXBQekdCS3RWRTlCOFJFWjVudGh1Z0xDX3ptdXpEMWlSdERDakc5emlwQVA3RTVZNlgwNDhjMzZJaXVPYTlzTkxaTVhhSW9CMTl1V29OUDFJQlQwSUNGQWhjXzdDS0xZTEtCV0lmSGlES25zRQ?oc=5",
+      "na_impact": 4,
+      "na_impact_reason": "Potential North American partner / customer relevance",
+      "date": "2026-11-06",
+      "published_at": "2026-11-06T11:45:00+00:00",
+      "source": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUVJMTEF6MTlBai1BemFpNjF5MW1LUl9uNHBQNmFhQVNiX3A4NHExN0tqZWRCX0tGenZqUHUxMlpNSzFLWWk4ZUxQSzlnSmJiT3dta2ZxaGg0eTM3cHVTQjJESGFhQThfOEJyYWZtRTBPVkxQWmpxeGNpOXREeHhacXpjdlhlcEg1VmZYRGtPZ3JzNmVZUmhfRU1ObG5Nb0s2WmJ1a0w5NWo3amJBcjU1SFNodEdnaG9UOWYwcjQ5bkZXYURBU2VMWEs1SEVZdlhEMWdmZF9Malgza0VkLTJzTVBlY3YzMnFqNmxoZ2RNRmp2Sy0wanRPQnRja2lwU1I1NWZ4bjR6TGRycjVIZnFreXR3?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:33.122804+00:00",
+        "checked_at": "2026-11-06T17:41:41.311003+00:00",
         "evidence": [
           {
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3FKY3loNkpBclkyR3VQek5NTFhrMHdGTTBkSVJSdThSc09BbTF6Y3N6akdYSXpwRXBQekdCS3RWRTlCOFJFWjVudGh1Z0xDX3ptdXpEMWlSdERDakc5emlwQVA3RTVZNlgwNDhjMzZJaXVPYTlzTkxaTVhhSW9CMTl1V29OUDFJQlQwSUNGQWhjXzdDS0xZTEtCV0lmSGlES25zRQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUVJMTEF6MTlBai1BemFpNjF5MW1LUl9uNHBQNmFhQVNiX3A4NHExN0tqZWRCX0tGenZqUHUxMlpNSzFLWWk4ZUxQSzlnSmJiT3dta2ZxaGg0eTM3cHVTQjJESGFhQThfOEJyYWZtRTBPVkxQWmpxeGNpOXREeHhacXpjdlhlcEg1VmZYRGtPZ3JzNmVZUmhfRU1ObG5Nb0s2WmJ1a0w5NWo3amJBcjU1SFNodEdnaG9UOWYwcjQ5bkZXYURBU2VMWEs1SEVZdlhEMWdmZF9Malgza0VkLTJzTVBlY3YzMnFqNmxoZ2RNRmp2Sy0wanRPQnRja2lwU1I1NWZ4bjR6TGRycjVIZnFreXR3?oc=5",
             "kind": "RSS discovery"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3FKY3loNkpBclkyR3VQek5NTFhrMHdGTTBkSVJSdThSc09BbTF6Y3N6akdYSXpwRXBQekdCS3RWRTlCOFJFWjVudGh1Z0xDX3ptdXpEMWlSdERDakc5emlwQVA3RTVZNlgwNDhjMzZJaXVPYTlzTkxaTVhhSW9CMTl1V29OUDFJQlQwSUNGQWhjXzdDS0xZTEtCV0lmSGlES25zRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUVJMTEF6MTlBai1BemFpNjF5MW1LUl9uNHBQNmFhQVNiX3A4NHExN0tqZWRCX0tGenZqUHUxMlpNSzFLWWk4ZUxQSzlnSmJiT3dta2ZxaGg0eTM3cHVTQjJESGFhQThfOEJyYWZtRTBPVkxQWmpxeGNpOXREeHhacXpjdlhlcEg1VmZYRGtPZ3JzNmVZUmhfRU1ObG5Nb0s2WmJ1a0w5NWo3amJBcjU1SFNodEdnaG9UOWYwcjQ5bkZXYURBU2VMWEs1SEVZdlhEMWdmZF9Malgza0VkLTJzTVBlY3YzMnFqNmxoZ2RNRmp2Sy0wanRPQnRja2lwU1I1NWZ4bjR6TGRycjVIZnFreXR3?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -293,7 +327,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:33.232257+00:00",
+        "checked_at": "2026-11-06T17:41:41.413822+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEZsVWREOS1Vb3FSU2oxSGZjb25Pa3lZZ3BKemxHTzBEUHY1cmFoZ0xHSVBGcFM0RjdEVndoMnRIX1JlcWZyYUYtNE5MZnA5WHRmMFNTdnJ5WHRYc3Z6X1JiLVpldUJ6cnNmQThMVjJnbjNWc1EzVDJtVFRZaHk0aDJqRVRFMzYzdGdXbGs5ZmdZb1JHRHdXSDk4TkZDbFFoUDVRWE53NjNqMk81dm5xZGpDSVVTdW1UMHpKTWt5T25aeERHZnk5YmVn?oc=5",
@@ -301,40 +335,6 @@
           },
           {
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEZsVWREOS1Vb3FSU2oxSGZjb25Pa3lZZ3BKemxHTzBEUHY1cmFoZ0xHSVBGcFM0RjdEVndoMnRIX1JlcWZyYUYtNE5MZnA5WHRmMFNTdnJ5WHRYc3Z6X1JiLVpldUJ6cnNmQThMVjJnbjNWc1EzVDJtVFRZaHk0aDJqRVRFMzYzdGdXbGs5ZmdZb1JHRHdXSDk4TkZDbFFoUDVRWE53NjNqMk81dm5xZGpDSVVTdW1UMHpKTWt5T25aeERHZnk5YmVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "ba2c5966f71a0d",
-      "cat": "AI & Cloud",
-      "title": "NVIDIA Kubernetes Engine Enters Preview: A Management Plane for GPU Kubernetes Clusters - news.lavx.hu",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Cross-border AI platform or developer relevance",
-      "date": "2026-11-06",
-      "published_at": "2026-11-06T04:05:33+00:00",
-      "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXBxbjhKZExBZGlyeW9VakF5X2lFbmVRTWQ0ZXZxWldJT2VCZTVLd0RMeFVYQ2xodEc2TVgwZGpVNHhrWmtUNjNYLWtmem13dnBxU2ZxYktpcU94cEY1Q0tLMnU3Y1JSZUJGeF9GeFN5U2UwXzRMS2RuZWJYUUM0RlJxUTJpQkFVRnBOaG4zbnIxaDc1TlI3UmJDVnJlYlloeExNc2U2ZWl2ZjNDRDVyX0lFWmFfQQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-11-06T11:43:33.335510+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXBxbjhKZExBZGlyeW9VakF5X2lFbmVRTWQ0ZXZxWldJT2VCZTVLd0RMeFVYQ2xodEc2TVgwZGpVNHhrWmtUNjNYLWtmem13dnBxU2ZxYktpcU94cEY1Q0tLMnU3Y1JSZUJGeF9GeFN5U2UwXzRMS2RuZWJYUUM0RlJxUTJpQkFVRnBOaG4zbnIxaDc1TlI3UmJDVnJlYlloeExNc2U2ZWl2ZjNDRDVyX0lFWmFfQQ?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXBxbjhKZExBZGlyeW9VakF5X2lFbmVRTWQ0ZXZxWldJT2VCZTVLd0RMeFVYQ2xodEc2TVgwZGpVNHhrWmtUNjNYLWtmem13dnBxU2ZxYktpcU94cEY1Q0tLMnU3Y1JSZUJGeF9GeFN5U2UwXzRMS2RuZWJYUUM0RlJxUTJpQkFVRnBOaG4zbnIxaDc1TlI3UmJDVnJlYlloeExNc2U2ZWl2ZjNDRDVyX0lFWmFfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -348,5 +348,5 @@
     "Which partners could help deliver a discovery workshop next week?"
   ],
   "methodology": "Selected public RSS headlines from the available seven-day feed, not a comprehensive or independently verified research report.",
-  "text": "HYBRID RADAR WEEKLY — 2026-11-06\nNorth America first | Global technology intelligence\n\n1. Canada Hardware Startups: 16.5-Year Buying Cycle [2026] - shattered.io\nDate: 2026-11-05 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkxCNWlNc3FsQlJTbW91ZVk2N1B5VGVHRWloLTVDYmVvN0cwMGVBQUVsUkxEUjV4cktQOUFGQ08wOXNKXy1tUlZsMllBX0RYbDZqYjJFbm1QWFZCYkJuNGNFVVdTalhHQXhBdlRNN0s1ZDFsaktleWRXZlBDLVNBSnF3Uk5IZm96VmRRMTE5U19TWW5XR0E?oc=5\n\n2. Robo.ai Inc. (AIIO) Stock Price, News, Quote & History - Yahoo! Finance Canada\nDate: 2026-11-03 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5\n\n3. Hewlett Packard Enterprise (NYSE:HPE) Stock Forecast & Analyst Predictions - Simply Wall St\nDate: 2026-11-03 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMihgFBVV95cUxNMG4xUmUtYzhmYk9mSVdxOG9LaldNVmd5WExQVm0zbTFaTVFXMWxXbEJ4enl6T0pNNXR3R2JDSnpQS21VdzN2a2RiQ2lHX1hBc05oajR5M05EWUlSOUUwRk5TczJTcnNKN3IxUmhTTTh0QWItbmRmMHAxMTJzZk15RDVLa2pFUQ?oc=5\n\n4. Extreme Networks CEO Ed Meyercord sharpens pointed attacks against HPE, Cisco - SDxCentral\nDate: 2026-11-02 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWt6cjdqR3p3Vzl1MjdZV005TC1HOTQ5ckZkWnZPY1Z3R3B3MzFmenU2eFdWdWstdWtjQjZWS1R5YTlLOHN6UDd3a0l0MGxYS1FkUmJSNDkyZGRRNHBjZkhsRHYzYTJCOGR0bDVsZ29GMkdxSy1JZm9NaG4xZ2VvU0xuLV82anhqMjM3MzNBVVBzVXlpbnZ6SDlpMHlmQjFzMmlQRktNRVl2ZjdiYWc?oc=5\n\n5. Cohere Hits US$25bn as Canada & NVIDIA Fund Sovereign AI - AI Magazine\nDate: 2026-11-02 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc?oc=5\n\n6. Extreme Networks picks off Cisco and HPE partners - Channel Dive\nDate: 2026-11-02 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3BnQmVMTTVrS2EybWlWNk9hOC1DekRRa0VOZnV6QXZac0lOQkY2NjlKeXg2VnVTdDRXT1d0VlN6WnVVckd5M1FRM0pGTFBSeVhRckhIZ1Q2WG1VZzh2a3prV2xGNGdvam5OT0hQSlNjQ0hoN2FwNkExWHlpaUd3UVdEQ1JjNDRqYm5lSWl0MkNMV2tO?oc=5\n\n7. Cohere Projects Over 1,500 Canadian Jobs and C$4 Billion Investment by 2031 - Unite.AI\nDate: 2026-10-30 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMingFBVV95cUxNNlFxcHdYMUVpSkFScW9sblJaeW5Ha2FBTmM3eExOX2NqcDlJamJHVkUtc1BmMzFNaFZhREFIb0ttUDlOWFRPcTAxS1AxUDNTWHdkbkZBLWJnTzJxd3Q0NkRpT09zakktcW44aTBWa2Z2YWpFTnE1amZJYWdmNVYtaE1IeEQxUmozeC1HNWNuR3V4ZE80bktrczlQR3ZyQQ?oc=5\n\n8. HPE secures another Premier League networking win with Brentford deal - SDxCentral\nDate: 2026-10-30 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3FKY3loNkpBclkyR3VQek5NTFhrMHdGTTBkSVJSdThSc09BbTF6Y3N6akdYSXpwRXBQekdCS3RWRTlCOFJFWjVudGh1Z0xDX3ptdXpEMWlSdERDakc5emlwQVA3RTVZNlgwNDhjMzZJaXVPYTlzTkxaTVhhSW9CMTl1V29OUDFJQlQwSUNGQWhjXzdDS0xZTEtCV0lmSGlES25zRQ?oc=5\n\n9. AI Money Delivers Mixed Midterm Results as Data Center Backlash Emerges as a Political Force - AI Insider\nDate: 2026-11-06 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEZsVWREOS1Vb3FSU2oxSGZjb25Pa3lZZ3BKemxHTzBEUHY1cmFoZ0xHSVBGcFM0RjdEVndoMnRIX1JlcWZyYUYtNE5MZnA5WHRmMFNTdnJ5WHRYc3Z6X1JiLVpldUJ6cnNmQThMVjJnbjNWc1EzVDJtVFRZaHk0aDJqRVRFMzYzdGdXbGs5ZmdZb1JHRHdXSDk4TkZDbFFoUDVRWE53NjNqMk81dm5xZGpDSVVTdW1UMHpKTWt5T25aeERHZnk5YmVn?oc=5\n\n10. NVIDIA Kubernetes Engine Enters Preview: A Management Plane for GPU Kubernetes Clusters - news.lavx.hu\nDate: 2026-11-06 | AI & Cloud\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXBxbjhKZExBZGlyeW9VakF5X2lFbmVRTWQ0ZXZxWldJT2VCZTVLd0RMeFVYQ2xodEc2TVgwZGpVNHhrWmtUNjNYLWtmem13dnBxU2ZxYktpcU94cEY1Q0tLMnU3Y1JSZUJGeF9GeFN5U2UwXzRMS2RuZWJYUUM0RlJxUTJpQkFVRnBOaG4zbnIxaDc1TlI3UmJDVnJlYlloeExNc2U2ZWl2ZjNDRDVyX0lFWmFfQQ?oc=5\n\nDISCOVERY QUESTIONS\nWhich upcoming virtualization renewals create a modernization opportunity?\nWhich AI workloads need private deployment, observability or runtime governance?\nWhich partners could help deliver a discovery workshop next week?\n\nEditorial note: selected public RSS headlines; original reporting and claims have not been independently verified."
+  "text": "HYBRID RADAR WEEKLY — 2026-11-06\nNorth America first | Global technology intelligence\n\n1. Canada Hardware Startups: 16.5-Year Buying Cycle [2026] - shattered.io\nDate: 2026-11-05 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkxCNWlNc3FsQlJTbW91ZVk2N1B5VGVHRWloLTVDYmVvN0cwMGVBQUVsUkxEUjV4cktQOUFGQ08wOXNKXy1tUlZsMllBX0RYbDZqYjJFbm1QWFZCYkJuNGNFVVdTalhHQXhBdlRNN0s1ZDFsaktleWRXZlBDLVNBSnF3Uk5IZm96VmRRMTE5U19TWW5XR0E?oc=5\n\n2. Robo.ai Inc. (AIIO) Stock Price, News, Quote & History - Yahoo! Finance Canada\nDate: 2026-11-03 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5\n\n3. Canada needs to start embracing AI data centres - The Hub | More Signal. Less Noise.\nDate: 2026-11-03 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXhPTDlaX1lWRExWTGxFWmMwSjFLZ3lYdnpUWVRrUlVtTTB6cUVfYlNpLTNVZFpWV2RJVkxrYlZTLWd2MFA5eWZpYjZPd2pLblhpSEJTdGlKdkhYMjB4SlpXODItSlpkcUhsR25VOS0xVEVObFRsNmFRTmNyT3VodVZIMA?oc=5\n\n4. Hewlett Packard Enterprise (NYSE:HPE) Stock Forecast & Analyst Predictions - Simply Wall St\nDate: 2026-11-03 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMihgFBVV95cUxNMG4xUmUtYzhmYk9mSVdxOG9LaldNVmd5WExQVm0zbTFaTVFXMWxXbEJ4enl6T0pNNXR3R2JDSnpQS21VdzN2a2RiQ2lHX1hBc05oajR5M05EWUlSOUUwRk5TczJTcnNKN3IxUmhTTTh0QWItbmRmMHAxMTJzZk15RDVLa2pFUQ?oc=5\n\n5. Extreme Networks CEO Ed Meyercord sharpens pointed attacks against HPE, Cisco - SDxCentral\nDate: 2026-11-02 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWt6cjdqR3p3Vzl1MjdZV005TC1HOTQ5ckZkWnZPY1Z3R3B3MzFmenU2eFdWdWstdWtjQjZWS1R5YTlLOHN6UDd3a0l0MGxYS1FkUmJSNDkyZGRRNHBjZkhsRHYzYTJCOGR0bDVsZ29GMkdxSy1JZm9NaG4xZ2VvU0xuLV82anhqMjM3MzNBVVBzVXlpbnZ6SDlpMHlmQjFzMmlQRktNRVl2ZjdiYWc?oc=5\n\n6. Cohere Hits US$25bn as Canada & NVIDIA Fund Sovereign AI - AI Magazine\nDate: 2026-11-02 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc?oc=5\n\n7. Extreme Networks picks off Cisco and HPE partners - Channel Dive\nDate: 2026-11-02 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3BnQmVMTTVrS2EybWlWNk9hOC1DekRRa0VOZnV6QXZac0lOQkY2NjlKeXg2VnVTdDRXT1d0VlN6WnVVckd5M1FRM0pGTFBSeVhRckhIZ1Q2WG1VZzh2a3prV2xGNGdvam5OT0hQSlNjQ0hoN2FwNkExWHlpaUd3UVdEQ1JjNDRqYm5lSWl0MkNMV2tO?oc=5\n\n8. Nutanix adds SIs to its partner mix - SDxCentral\nDate: 2026-11-06 | Competitive\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMid0FVX3lxTE53UHRlTXlHU2xnRmgtTlc0TThIVW04X0YyX1c4Q0tQbk1IZTlpVWdoMGtJbVpzVG92X0EzdU40MlpZOEQ3RmFIN3U3ODloTTlZSlJQRjhGMFctZUJxOXhrY1JrSmtZSjlZMjdGZ3JJWE9vMHRYYjZV?oc=5\n\n9. TELUS Reports Third Quarter 2026 Results, Demonstrates Continued Discipline in Core Telecom; Advances Transformation Strategy - TradingView\nDate: 2026-11-06 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMikgJBVV95cUxQUVJMTEF6MTlBai1BemFpNjF5MW1LUl9uNHBQNmFhQVNiX3A4NHExN0tqZWRCX0tGenZqUHUxMlpNSzFLWWk4ZUxQSzlnSmJiT3dta2ZxaGg0eTM3cHVTQjJESGFhQThfOEJyYWZtRTBPVkxQWmpxeGNpOXREeHhacXpjdlhlcEg1VmZYRGtPZ3JzNmVZUmhfRU1ObG5Nb0s2WmJ1a0w5NWo3amJBcjU1SFNodEdnaG9UOWYwcjQ5bkZXYURBU2VMWEs1SEVZdlhEMWdmZF9Malgza0VkLTJzTVBlY3YzMnFqNmxoZ2RNRmp2Sy0wanRPQnRja2lwU1I1NWZ4bjR6TGRycjVIZnFreXR3?oc=5\n\n10. AI Money Delivers Mixed Midterm Results as Data Center Backlash Emerges as a Political Force - AI Insider\nDate: 2026-11-06 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEZsVWREOS1Vb3FSU2oxSGZjb25Pa3lZZ3BKemxHTzBEUHY1cmFoZ0xHSVBGcFM0RjdEVndoMnRIX1JlcWZyYUYtNE5MZnA5WHRmMFNTdnJ5WHRYc3Z6X1JiLVpldUJ6cnNmQThMVjJnbjNWc1EzVDJtVFRZaHk0aDJqRVRFMzYzdGdXbGs5ZmdZb1JHRHdXSDk4TkZDbFFoUDVRWE53NjNqMk81dm5xZGpDSVVTdW1UMHpKTWt5T25aeERHZnk5YmVn?oc=5\n\nDISCOVERY QUESTIONS\nWhich upcoming virtualization renewals create a modernization opportunity?\nWhich AI workloads need private deployment, observability or runtime governance?\nWhich partners could help deliver a discovery workshop next week?\n\nEditorial note: selected public RSS headlines; original reporting and claims have not been independently verified."
 }
