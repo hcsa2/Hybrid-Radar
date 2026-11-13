@@ -21,7 +21,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:16.787600+00:00",
+        "checked_at": "2026-11-13T17:42:26.216129+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVNsa3JOM0RtT0JETnVlX2w1bHZtOTdjUkVFX1haQlppTDVwazNvTkZzSnFLMVVUZDMxb2Raek9MRXFyR05qZDY5U3JiUmNXRnhqeHF6N3Byd0tyLXByb0pqRGZ4ZGIyem0wbTUwNnd2SFJKS1BWbnR6V2tYcXZfT184ZWU1WFEwcFlZYUp4TTQxTzY5ZjY4bw?oc=5",
@@ -55,7 +55,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:16.949398+00:00",
+        "checked_at": "2026-11-13T17:42:26.422153+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmJic3c2Y2tjMDg4ckhyZnNQOHlJUkg5V1FLdlB6NnhKN1YxY0Nmd1d5T3RaZzNvcHFDaWVmcFo1TmtoNFY3SVdwM3Vna1BaMHBrVF9PWTZYRGNySUtPekY1X3V6V1VTWjRJYTdDeXVzVGM0YkQ4Mkw4WkppOVpoOEs1LVdYMjlST2phVE03aG5salZHRmlVWkVlVWhWMHFvTVZUbElwLU9qbDVIckpfR3lNRXpKXzYtaFBuYQ?oc=5",
@@ -89,7 +89,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:17.049575+00:00",
+        "checked_at": "2026-11-13T17:42:26.529988+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5",
@@ -123,7 +123,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:17.163685+00:00",
+        "checked_at": "2026-11-13T17:42:26.653165+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2E1MU5wWks0Y0tHTnBEeThvVWtHZlVvNUZfakVwMENVdHAzOGY0aXBEU3I0d3dSVEkzMEY1bEVXMXdKRXBiRDBmR0E3QVdRNlMwOEdDdmRXN2V5ZzFnSEdjMEFqYlEyMFhwa0xIRl91VXJIbEF4M3FxeE54cjJtbGdoU1IxNGdwUVBlMUJFOWxEYUszTmlmRlZ3dFV3SE9aZjZXd1hHWVZBal9aTFpVYTRMQ2lHZkZ2YmRFQ05NcmpLV1diMjlTNEtGMFpuN0ZzdERibFNiNUlVOGk4TjJiMWw1N3R4c200cllGZtIB7AFBVV95cUxOM2E1MU5wWks0Y0tHTnBEeThvVWtHZlVvNUZfakVwMENVdHAzOGY0aXBEU3I0d3dSVEkzMEY1bEVXMXdKRXBiRDBmR0E3QVdRNlMwOEdDdmRXN2V5ZzFnSEdjMEFqYlEyMFhwa0xIRl91VXJIbEF4M3FxeE54cjJtbGdoU1IxNGdwUVBlMUJFOWxEYUszTmlmRlZ3dFV3SE9aZjZXd1hHWVZBal9aTFpVYTRMQ2lHZkZ2YmRFQ05NcmpLV1diMjlTNEtGMFpuN0ZzdERibFNiNUlVOGk4TjJiMWw1N3R4c200cllGZg?oc=5",
@@ -138,33 +138,135 @@
       }
     },
     {
-      "id": "0e1fafbd8c91ac",
-      "cat": "Opportunity",
-      "title": "Canada Pension Fund Puts $50M Into AI Roll-Up Beacon; Over 50% EBITDA Growth Self-Reported - Tech Times",
+      "id": "369a6b509217b9",
+      "cat": "Partners",
+      "title": "Nuix Hires Lori Cornmesser To Drive Global Partner Ecosystem Growth - CRN",
       "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
       "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 5,
-      "region": "Canada / Quebec",
-      "origin_region": "Canada / Quebec",
-      "na_impact": 5,
-      "na_impact_reason": "Canadian enterprise / public-sector relevance",
-      "date": "2026-11-06",
-      "published_at": "2026-11-06T12:21:59+00:00",
-      "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFg3di1sR05VSlJXd0hNa3R6QnVhUEdDMDRxR3dmdEpkYXJqNy1UV0c0cUhJMDFrMnZLOHRNVENDX2ctTnMtYnFOVzQ0SmVOVUVTUk9jcklMZUhJRVBTV0pyUHM3VU1kRVhfanpSNVdGSV9rYUFQSUVCLXhjRHJfZXhZV1ZDeVBESk1JSzRPYXFSY09iejJMaUwzVXVHWHRtdXlhNHBJRjNBbWV4N3pKWnZvVXVBNVVfVjA0MzJJOHB5dmFOdEE2RXNadW80U1E?oc=5",
+      "score": 4,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 4,
+      "na_impact_reason": "Potential North American partner / customer relevance",
+      "date": "2026-11-13",
+      "published_at": "2026-11-13T15:55:00+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHpzbTQ1SG0wc1NaMW5lU25FNUdLbWtfWGs2UERrTVFJVXJIV0lrNmNKbmZIbXV0ekFnVDYzOG5lWUViSmgtSjRmZnJsRXdPS1MyNkR5a2NLR2N0NHlFbEh3SGx2aTBuenJtSnM1ZzVIQWhTZnVseC1CbHRMenFhZ3NVYU43Q3Z4XzdMcVpRbGtRcDhEMWE0V0xIdnN4czRyeWc?oc=5",
       "status": "RSS-discovered, unverified",
       "editorial": {
         "level": "Needs review",
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:17.276373+00:00",
+        "checked_at": "2026-11-13T17:42:26.777556+00:00",
         "evidence": [
           {
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFg3di1sR05VSlJXd0hNa3R6QnVhUEdDMDRxR3dmdEpkYXJqNy1UV0c0cUhJMDFrMnZLOHRNVENDX2ctTnMtYnFOVzQ0SmVOVUVTUk9jcklMZUhJRVBTV0pyUHM3VU1kRVhfanpSNVdGSV9rYUFQSUVCLXhjRHJfZXhZV1ZDeVBESk1JSzRPYXFSY09iejJMaUwzVXVHWHRtdXlhNHBJRjNBbWV4N3pKWnZvVXVBNVVfVjA0MzJJOHB5dmFOdEE2RXNadW80U1E?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHpzbTQ1SG0wc1NaMW5lU25FNUdLbWtfWGs2UERrTVFJVXJIV0lrNmNKbmZIbXV0ekFnVDYzOG5lWUViSmgtSjRmZnJsRXdPS1MyNkR5a2NLR2N0NHlFbEh3SGx2aTBuenJtSnM1ZzVIQWhTZnVseC1CbHRMenFhZ3NVYU43Q3Z4XzdMcVpRbGtRcDhEMWE0V0xIdnN4czRyeWc?oc=5",
             "kind": "RSS discovery"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFg3di1sR05VSlJXd0hNa3R6QnVhUEdDMDRxR3dmdEpkYXJqNy1UV0c0cUhJMDFrMnZLOHRNVENDX2ctTnMtYnFOVzQ0SmVOVUVTUk9jcklMZUhJRVBTV0pyUHM3VU1kRVhfanpSNVdGSV9rYUFQSUVCLXhjRHJfZXhZV1ZDeVBESk1JSzRPYXFSY09iejJMaUwzVXVHWHRtdXlhNHBJRjNBbWV4N3pKWnZvVXVBNVVfVjA0MzJJOHB5dmFOdEE2RXNadW80U1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHpzbTQ1SG0wc1NaMW5lU25FNUdLbWtfWGs2UERrTVFJVXJIV0lrNmNKbmZIbXV0ekFnVDYzOG5lWUViSmgtSjRmZnJsRXdPS1MyNkR5a2NLR2N0NHlFbEh3SGx2aTBuenJtSnM1ZzVIQWhTZnVseC1CbHRMenFhZ3NVYU43Q3Z4XzdMcVpRbGtRcDhEMWE0V0xIdnN4czRyeWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "5c46ef14bd6d40",
+      "cat": "Opportunity",
+      "title": "South Korea Proposes New Funding for AI Sensors, Robot Actuators and Humanoid Batteries - AI Insider",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 4,
+      "region": "Asia-Pacific",
+      "origin_region": "Asia-Pacific",
+      "na_impact": 4,
+      "na_impact_reason": "Potential North American partner / customer relevance",
+      "date": "2026-11-13",
+      "published_at": "2026-11-13T13:08:08+00:00",
+      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajQtaUNOMk1FbWNseHl3bTNOY2RuTTBYbXlIcDhLREd1RUU5R1FMbkVOekNRdU9vUmtOXzRUZmVaaGJKcnRQakVJalByeURXS2NSbzdoX2l4aGhCamhnUGtrZWlyRjRCV0lrNGpyM19scFJtLS13Q1BGMjZiSDE0U0ZsekgxMTJGbnZMaXltMk5ncjRIX1paRHlkY2tUZFppUk1PTDROX21sZFZQYXJLSm9rVG9RT0x0RllWSHhNSzU0dw?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-13T17:42:26.888211+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajQtaUNOMk1FbWNseHl3bTNOY2RuTTBYbXlIcDhLREd1RUU5R1FMbkVOekNRdU9vUmtOXzRUZmVaaGJKcnRQakVJalByeURXS2NSbzdoX2l4aGhCamhnUGtrZWlyRjRCV0lrNGpyM19scFJtLS13Q1BGMjZiSDE0U0ZsekgxMTJGbnZMaXltMk5ncjRIX1paRHlkY2tUZFppUk1PTDROX21sZFZQYXJLSm9rVG9RT0x0RllWSHhNSzU0dw?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajQtaUNOMk1FbWNseHl3bTNOY2RuTTBYbXlIcDhLREd1RUU5R1FMbkVOekNRdU9vUmtOXzRUZmVaaGJKcnRQakVJalByeURXS2NSbzdoX2l4aGhCamhnUGtrZWlyRjRCV0lrNGpyM19scFJtLS13Q1BGMjZiSDE0U0ZsekgxMTJGbnZMaXltMk5ncjRIX1paRHlkY2tUZFppUk1PTDROX21sZFZQYXJLSm9rVG9RT0x0RllWSHhNSzU0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "9dae2fb817670a",
+      "cat": "Opportunity",
+      "title": "Gritt Partners With MasTec to Deploy AI-Powered Robotics on Solar Construction Sites - AI Insider",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 4,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 4,
+      "na_impact_reason": "Potential North American partner / customer relevance",
+      "date": "2026-11-13",
+      "published_at": "2026-11-13T12:33:35+00:00",
+      "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZENKN09wQkE4SmlxMWVuaVJNR0R3b3NGSk5JM3d5eDhKNmZJd3hnVnZJLXFJRE1fQXRsQXVqVXYzOS1Ra280NmpfdExmZER6STc4ZjBFelh2X1lMUnloNTlpTDNQN21vMUtvUVRXT0JVcG5mN2FCZGhrWjBTS09GWGZWWWw3UDhsbk5IdDZ4d0JaRTZMTV9XT3FHQ2JBSFV3WGlPT2paa2E3Uk5sb0s0TFhCZFVWbXNoS214eUFsaw?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-13T17:42:26.991658+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZENKN09wQkE4SmlxMWVuaVJNR0R3b3NGSk5JM3d5eDhKNmZJd3hnVnZJLXFJRE1fQXRsQXVqVXYzOS1Ra280NmpfdExmZER6STc4ZjBFelh2X1lMUnloNTlpTDNQN21vMUtvUVRXT0JVcG5mN2FCZGhrWjBTS09GWGZWWWw3UDhsbk5IdDZ4d0JaRTZMTV9XT3FHQ2JBSFV3WGlPT2paa2E3Uk5sb0s0TFhCZFVWbXNoS214eUFsaw?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZENKN09wQkE4SmlxMWVuaVJNR0R3b3NGSk5JM3d5eDhKNmZJd3hnVnZJLXFJRE1fQXRsQXVqVXYzOS1Ra280NmpfdExmZER6STc4ZjBFelh2X1lMUnloNTlpTDNQN21vMUtvUVRXT0JVcG5mN2FCZGhrWjBTS09GWGZWWWw3UDhsbk5IdDZ4d0JaRTZMTV9XT3FHQ2JBSFV3WGlPT2paa2E3Uk5sb0s0TFhCZFVWbXNoS214eUFsaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "kind": "Accessible source"
+          }
+        ],
+        "note": "Article accessible; independent corroboration not established."
+      }
+    },
+    {
+      "id": "c6c138e2a335ff",
+      "cat": "Opportunity",
+      "title": "May Mobility Targets More Than 10K Volkswagen ID. Buzz Robotaxis Through 2031 - AI Insider",
+      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
+      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
+      "score": 4,
+      "region": "Unconfirmed / global",
+      "origin_region": "Unconfirmed / global",
+      "na_impact": 4,
+      "na_impact_reason": "Potential North American partner / customer relevance",
+      "date": "2026-11-13",
+      "published_at": "2026-11-13T12:07:33+00:00",
+      "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnNwY1NwN0JBRFJxa3NJYmp2YTZpSjhsTU9vd21femhleFJwSEhxcFlSdGdVTlRiWHJiNkc1cnRpM0RYUzlCOUtpZXZKVkh3RWRvN3F5VUplbjlhcnp6UDlROVctbzlXbW5Oa0wwWlVSOWV3eDRGNkJvUkc4MmExTFdpX2U4LWRiUGY3ektYQnNZdmhpYUpHbllBVUpXYmtPY29DaW4yYjdDXzdNVndfMWJZaFc?oc=5",
+      "status": "RSS-discovered, unverified",
+      "editorial": {
+        "level": "Needs review",
+        "source_status": "Third-party source accessible",
+        "claim_status": "Not independently validated",
+        "confidence": "Low",
+        "checked_at": "2026-11-13T17:42:27.107120+00:00",
+        "evidence": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnNwY1NwN0JBRFJxa3NJYmp2YTZpSjhsTU9vd21femhleFJwSEhxcFlSdGdVTlRiWHJiNkc1cnRpM0RYUzlCOUtpZXZKVkh3RWRvN3F5VUplbjlhcnp6UDlROVctbzlXbW5Oa0wwWlVSOWV3eDRGNkJvUkc4MmExTFdpX2U4LWRiUGY3ektYQnNZdmhpYUpHbllBVUpXYmtPY29DaW4yYjdDXzdNVndfMWJZaFc?oc=5",
+            "kind": "RSS discovery"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnNwY1NwN0JBRFJxa3NJYmp2YTZpSjhsTU9vd21femhleFJwSEhxcFlSdGdVTlRiWHJiNkc1cnRpM0RYUzlCOUtpZXZKVkh3RWRvN3F5VUplbjlhcnp6UDlROVctbzlXbW5Oa0wwWlVSOWV3eDRGNkJvUkc4MmExTFdpX2U4LWRiUGY3ektYQnNZdmhpYUpHbllBVUpXYmtPY29DaW4yYjdDXzdNVndfMWJZaFc?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -191,7 +293,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:17.425466+00:00",
+        "checked_at": "2026-11-13T17:42:27.224932+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3BGWHNQaFIyVmFHdWlnNXg1bExfMV9tUks1OExqZ0VEeFE4NG5xMWkwTlNTNVp2bFZsbUNvbHpQT1VFUk9SYzdFa1VPUktqQ1dZMTdjWTNOLWNqNWxXQUdHdDJoR3NQWlY4VHdQeEkyOUdtMWVoZEtaYklubXRxNUlLMWxlNklLVnIyY3ZIT0QxbHFqYzBmTmRPTWpPZU9nd2l0SDI1eVlXcEUzR2RXcjIyZ3FDbWxHTnVvRTRlU3Q1Z1lX?oc=5",
@@ -225,7 +327,7 @@
         "source_status": "Third-party source accessible",
         "claim_status": "Not independently validated",
         "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:17.654934+00:00",
+        "checked_at": "2026-11-13T17:42:27.324697+00:00",
         "evidence": [
           {
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb2FaVm1WZFhDcUdJQXpsUVRrOUVOYi1oUHBtRHFfcWd4cmg1VXVsNkg2YkZDNGxEZ0NCX084YnZCLWppaVpNYVRmb3pKanZNYTNSajlkZFFkM2cxbzJXSklTeFZ4NkpWMVBzaEZCbW82S2RqZkF0cHBxZFNzci1WSm1LdnBNeG5zclM4U2RvTHVDRXRoSGptc3BXS3otUVVDMTVmcVJpWlZNeHd4Ujk0QVM0VW5LZFlYekFmNFFaWjN3RmFjNDcxZmRJYy0?oc=5",
@@ -233,108 +335,6 @@
           },
           {
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb2FaVm1WZFhDcUdJQXpsUVRrOUVOYi1oUHBtRHFfcWd4cmg1VXVsNkg2YkZDNGxEZ0NCX084YnZCLWppaVpNYVRmb3pKanZNYTNSajlkZFFkM2cxbzJXSklTeFZ4NkpWMVBzaEZCbW82S2RqZkF0cHBxZFNzci1WSm1LdnBNeG5zclM4U2RvTHVDRXRoSGptc3BXS3otUVVDMTVmcVJpWlZNeHd4Ujk0QVM0VW5LZFlYekFmNFFaWjN3RmFjNDcxZmRJYy0?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "fc8b904c8c1c48",
-      "cat": "Opportunity",
-      "title": "How Big Is the AI Software Market? A Bottom-Up Estimate Puts It Near $144B - AI Insider",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Potential North American partner / customer relevance",
-      "date": "2026-11-13",
-      "published_at": "2026-11-13T09:38:21+00:00",
-      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelhzd2pGd1BVSWlzSHZGTG1PQjlrbERPZXVoTU9WenpCRTVfQW04TExxeXY3NmJiemhwSmdDbms4QkdFSDZCVUZzbzM2RUkwQ0psVlZQdG9HY3VVQ05LRjV5X19xblZjS3ZJdEc3dmNLd2F4d09oME9aWVd2LVJpbTY5X2s3Vlk0U1dHd2hYeVJrc19ZUmRiQWkxeGFRYnk0U2lhS18zcjhfald2TGxZ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:17.735488+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelhzd2pGd1BVSWlzSHZGTG1PQjlrbERPZXVoTU9WenpCRTVfQW04TExxeXY3NmJiemhwSmdDbms4QkdFSDZCVUZzbzM2RUkwQ0psVlZQdG9HY3VVQ05LRjV5X19xblZjS3ZJdEc3dmNLd2F4d09oME9aWVd2LVJpbTY5X2s3Vlk0U1dHd2hYeVJrc19ZUmRiQWkxeGFRYnk0U2lhS18zcjhfald2TGxZ?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelhzd2pGd1BVSWlzSHZGTG1PQjlrbERPZXVoTU9WenpCRTVfQW04TExxeXY3NmJiemhwSmdDbms4QkdFSDZCVUZzbzM2RUkwQ0psVlZQdG9HY3VVQ05LRjV5X19xblZjS3ZJdEc3dmNLd2F4d09oME9aWVd2LVJpbTY5X2s3Vlk0U1dHd2hYeVJrc19ZUmRiQWkxeGFRYnk0U2lhS18zcjhfald2TGxZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "6161ff6e2ed0a9",
-      "cat": "Opportunity",
-      "title": "SoftBank Takes $7.1B Quarterly Loss as AI Power Turbine Bet Backfires - AI Insider",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Potential North American partner / customer relevance",
-      "date": "2026-11-13",
-      "published_at": "2026-11-13T08:44:37+00:00",
-      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXRaVVRTOF9GXy03cl9WYW4tcWpXTThhNTNSM1ozRlFTS3h6anZna3JVYmluRklaNWd4SnNfZlZ1c0hacjYtdGtaTXNmSkZiQ184eDhoWk56VTRUNGpDWS1TN0J1TGxYOU1hLWUtOFFWQnI2cWdrYU1LSEVuOVJfRmJQb0RkZXppdkN6a0N1c2ZydmppbjVHaFRLSEZ0cEZROUFzTE5OMktaUQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:17.820518+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXRaVVRTOF9GXy03cl9WYW4tcWpXTThhNTNSM1ozRlFTS3h6anZna3JVYmluRklaNWd4SnNfZlZ1c0hacjYtdGtaTXNmSkZiQ184eDhoWk56VTRUNGpDWS1TN0J1TGxYOU1hLWUtOFFWQnI2cWdrYU1LSEVuOVJfRmJQb0RkZXppdkN6a0N1c2ZydmppbjVHaFRLSEZ0cEZROUFzTE5OMktaUQ?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXRaVVRTOF9GXy03cl9WYW4tcWpXTThhNTNSM1ozRlFTS3h6anZna3JVYmluRklaNWd4SnNfZlZ1c0hacjYtdGtaTXNmSkZiQ184eDhoWk56VTRUNGpDWS1TN0J1TGxYOU1hLWUtOFFWQnI2cWdrYU1LSEVuOVJfRmJQb0RkZXppdkN6a0N1c2ZydmppbjVHaFRLSEZ0cEZROUFzTE5OMktaUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-            "kind": "Accessible source"
-          }
-        ],
-        "note": "Article accessible; independent corroboration not established."
-      }
-    },
-    {
-      "id": "ca42a64ab63f40",
-      "cat": "Opportunity",
-      "title": "Jensen Huang’s Exit Leaves Nvidia’s Open Source AI Strategy in Question - AI Insider",
-      "summary": "Headline from a public RSS feed. Read the source for the reporting and context.",
-      "impact": "Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.",
-      "score": 4,
-      "region": "Unconfirmed / global",
-      "origin_region": "Unconfirmed / global",
-      "na_impact": 4,
-      "na_impact_reason": "Potential North American partner / customer relevance",
-      "date": "2026-11-13",
-      "published_at": "2026-11-13T08:37:59+00:00",
-      "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelEtbHJkWW9uSnh0a29kUUdGNEE5UHBhdVVZV1JPVS1oMnB6MjNZMml1TGtXeUVnNURhTlVKTk5zQU4tZDM0MmxxaHVkd0JGUGt5d1J4eGJJUzhablhwYjViZHZqRHFmaG5aOU44QVZLTUVJSEp1M2lvbWkyUFUxYkFwMkxDTTdmRFdjVU5SUTJBeGRhbHUyT0M2dWMtdnlabmcwNG5tSlVuZDQ?oc=5",
-      "status": "RSS-discovered, unverified",
-      "editorial": {
-        "level": "Needs review",
-        "source_status": "Third-party source accessible",
-        "claim_status": "Not independently validated",
-        "confidence": "Low",
-        "checked_at": "2026-11-13T11:46:17.906532+00:00",
-        "evidence": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelEtbHJkWW9uSnh0a29kUUdGNEE5UHBhdVVZV1JPVS1oMnB6MjNZMml1TGtXeUVnNURhTlVKTk5zQU4tZDM0MmxxaHVkd0JGUGt5d1J4eGJJUzhablhwYjViZHZqRHFmaG5aOU44QVZLTUVJSEp1M2lvbWkyUFUxYkFwMkxDTTdmRFdjVU5SUTJBeGRhbHUyT0M2dWMtdnlabmcwNG5tSlVuZDQ?oc=5",
-            "kind": "RSS discovery"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelEtbHJkWW9uSnh0a29kUUdGNEE5UHBhdVVZV1JPVS1oMnB6MjNZMml1TGtXeUVnNURhTlVKTk5zQU4tZDM0MmxxaHVkd0JGUGt5d1J4eGJJUzhablhwYjViZHZqRHFmaG5aOU44QVZLTUVJSEp1M2lvbWkyUFUxYkFwMkxDTTdmRFdjVU5SUTJBeGRhbHUyT0M2dWMtdnlabmcwNG5tSlVuZDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
             "kind": "Accessible source"
           }
         ],
@@ -348,5 +348,5 @@
     "Which partners could help deliver a discovery workshop next week?"
   ],
   "methodology": "Selected public RSS headlines from the available seven-day feed, not a comprehensive or independently verified research report.",
-  "text": "HYBRID RADAR WEEKLY — 2026-11-13\nNorth America first | Global technology intelligence\n\n1. Railtown AI Announces Technology Integration Partnership with SeedPort to Streamline Government Funding Access for Canadian AI Companies - Yahoo! Finance Canada\nDate: 2026-11-12 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVNsa3JOM0RtT0JETnVlX2w1bHZtOTdjUkVFX1haQlppTDVwazNvTkZzSnFLMVVUZDMxb2Raek9MRXFyR05qZDY5U3JiUmNXRnhqeHF6N3Byd0tyLXByb0pqRGZ4ZGIyem0wbTUwNnd2SFJKS1BWbnR6V2tYcXZfT184ZWU1WFEwcFlZYUp4TTQxTzY5ZjY4bw?oc=5\n\n2. Canada takes equity stake in Cohere as AI company targets $7-billion funding round - Ontario Construction News\nDate: 2026-11-11 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmJic3c2Y2tjMDg4ckhyZnNQOHlJUkg5V1FLdlB6NnhKN1YxY0Nmd1d5T3RaZzNvcHFDaWVmcFo1TmtoNFY3SVdwM3Vna1BaMHBrVF9PWTZYRGNySUtPekY1X3V6V1VTWjRJYTdDeXVzVGM0YkQ4Mkw4WkppOVpoOEs1LVdYMjlST2phVE03aG5salZHRmlVWkVlVWhWMHFvTVZUbElwLU9qbDVIckpfR3lNRXpKXzYtaFBuYQ?oc=5\n\n3. Robo.ai Inc. (AIIO) Stock Price, News, Quote & History - Yahoo! Finance Canada\nDate: 2026-11-10 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5\n\n4. AI Data Center Spending Surges in 2026: Dell, NVIDIA, HPE, Cisco and Storage Vendors Target Channel Revenue Growth - InfotechLead\nDate: 2026-11-09 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2E1MU5wWks0Y0tHTnBEeThvVWtHZlVvNUZfakVwMENVdHAzOGY0aXBEU3I0d3dSVEkzMEY1bEVXMXdKRXBiRDBmR0E3QVdRNlMwOEdDdmRXN2V5ZzFnSEdjMEFqYlEyMFhwa0xIRl91VXJIbEF4M3FxeE54cjJtbGdoU1IxNGdwUVBlMUJFOWxEYUszTmlmRlZ3dFV3SE9aZjZXd1hHWVZBal9aTFpVYTRMQ2lHZkZ2YmRFQ05NcmpLV1diMjlTNEtGMFpuN0ZzdERibFNiNUlVOGk4TjJiMWw1N3R4c200cllGZtIB7AFBVV95cUxOM2E1MU5wWks0Y0tHTnBEeThvVWtHZlVvNUZfakVwMENVdHAzOGY0aXBEU3I0d3dSVEkzMEY1bEVXMXdKRXBiRDBmR0E3QVdRNlMwOEdDdmRXN2V5ZzFnSEdjMEFqYlEyMFhwa0xIRl91VXJIbEF4M3FxeE54cjJtbGdoU1IxNGdwUVBlMUJFOWxEYUszTmlmRlZ3dFV3SE9aZjZXd1hHWVZBal9aTFpVYTRMQ2lHZkZ2YmRFQ05NcmpLV1diMjlTNEtGMFpuN0ZzdERibFNiNUlVOGk4TjJiMWw1N3R4c200cllGZg?oc=5\n\n5. Canada Pension Fund Puts $50M Into AI Roll-Up Beacon; Over 50% EBITDA Growth Self-Reported - Tech Times\nDate: 2026-11-06 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFg3di1sR05VSlJXd0hNa3R6QnVhUEdDMDRxR3dmdEpkYXJqNy1UV0c0cUhJMDFrMnZLOHRNVENDX2ctTnMtYnFOVzQ0SmVOVUVTUk9jcklMZUhJRVBTV0pyUHM3VU1kRVhfanpSNVdGSV9rYUFQSUVCLXhjRHJfZXhZV1ZDeVBESk1JSzRPYXFSY09iejJMaUwzVXVHWHRtdXlhNHBJRjNBbWV4N3pKWnZvVXVBNVVfVjA0MzJJOHB5dmFOdEE2RXNadW80U1E?oc=5\n\n6. South Korea Leads IFR's Global Robot Density Rankings as Manufacturing Automation Expands - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3BGWHNQaFIyVmFHdWlnNXg1bExfMV9tUks1OExqZ0VEeFE4NG5xMWkwTlNTNVp2bFZsbUNvbHpQT1VFUk9SYzdFa1VPUktqQ1dZMTdjWTNOLWNqNWxXQUdHdDJoR3NQWlY4VHdQeEkyOUdtMWVoZEtaYklubXRxNUlLMWxlNklLVnIyY3ZIT0QxbHFqYzBmTmRPTWpPZU9nd2l0SDI1eVlXcEUzR2RXcjIyZ3FDbWxHTnVvRTRlU3Q1Z1lX?oc=5\n\n7. Uforce Raises $700M in Series A Funding to Expand Ukraine-Focused Autonomous Defense Production - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMizAFBVV95cUxQb2FaVm1WZFhDcUdJQXpsUVRrOUVOYi1oUHBtRHFfcWd4cmg1VXVsNkg2YkZDNGxEZ0NCX084YnZCLWppaVpNYVRmb3pKanZNYTNSajlkZFFkM2cxbzJXSklTeFZ4NkpWMVBzaEZCbW82S2RqZkF0cHBxZFNzci1WSm1LdnBNeG5zclM4U2RvTHVDRXRoSGptc3BXS3otUVVDMTVmcVJpWlZNeHd4Ujk0QVM0VW5LZFlYekFmNFFaWjN3RmFjNDcxZmRJYy0?oc=5\n\n8. How Big Is the AI Software Market? A Bottom-Up Estimate Puts It Near $144B - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMirwFBVV95cUxPelhzd2pGd1BVSWlzSHZGTG1PQjlrbERPZXVoTU9WenpCRTVfQW04TExxeXY3NmJiemhwSmdDbms4QkdFSDZCVUZzbzM2RUkwQ0psVlZQdG9HY3VVQ05LRjV5X19xblZjS3ZJdEc3dmNLd2F4d09oME9aWVd2LVJpbTY5X2s3Vlk0U1dHd2hYeVJrc19ZUmRiQWkxeGFRYnk0U2lhS18zcjhfald2TGxZ?oc=5\n\n9. SoftBank Takes $7.1B Quarterly Loss as AI Power Turbine Bet Backfires - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXRaVVRTOF9GXy03cl9WYW4tcWpXTThhNTNSM1ozRlFTS3h6anZna3JVYmluRklaNWd4SnNfZlZ1c0hacjYtdGtaTXNmSkZiQ184eDhoWk56VTRUNGpDWS1TN0J1TGxYOU1hLWUtOFFWQnI2cWdrYU1LSEVuOVJfRmJQb0RkZXppdkN6a0N1c2ZydmppbjVHaFRLSEZ0cEZROUFzTE5OMktaUQ?oc=5\n\n10. Jensen Huang’s Exit Leaves Nvidia’s Open Source AI Strategy in Question - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelEtbHJkWW9uSnh0a29kUUdGNEE5UHBhdVVZV1JPVS1oMnB6MjNZMml1TGtXeUVnNURhTlVKTk5zQU4tZDM0MmxxaHVkd0JGUGt5d1J4eGJJUzhablhwYjViZHZqRHFmaG5aOU44QVZLTUVJSEp1M2lvbWkyUFUxYkFwMkxDTTdmRFdjVU5SUTJBeGRhbHUyT0M2dWMtdnlabmcwNG5tSlVuZDQ?oc=5\n\nDISCOVERY QUESTIONS\nWhich upcoming virtualization renewals create a modernization opportunity?\nWhich AI workloads need private deployment, observability or runtime governance?\nWhich partners could help deliver a discovery workshop next week?\n\nEditorial note: selected public RSS headlines; original reporting and claims have not been independently verified."
+  "text": "HYBRID RADAR WEEKLY — 2026-11-13\nNorth America first | Global technology intelligence\n\n1. Railtown AI Announces Technology Integration Partnership with SeedPort to Streamline Government Funding Access for Canadian AI Companies - Yahoo! Finance Canada\nDate: 2026-11-12 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVNsa3JOM0RtT0JETnVlX2w1bHZtOTdjUkVFX1haQlppTDVwazNvTkZzSnFLMVVUZDMxb2Raek9MRXFyR05qZDY5U3JiUmNXRnhqeHF6N3Byd0tyLXByb0pqRGZ4ZGIyem0wbTUwNnd2SFJKS1BWbnR6V2tYcXZfT184ZWU1WFEwcFlZYUp4TTQxTzY5ZjY4bw?oc=5\n\n2. Canada takes equity stake in Cohere as AI company targets $7-billion funding round - Ontario Construction News\nDate: 2026-11-11 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmJic3c2Y2tjMDg4ckhyZnNQOHlJUkg5V1FLdlB6NnhKN1YxY0Nmd1d5T3RaZzNvcHFDaWVmcFo1TmtoNFY3SVdwM3Vna1BaMHBrVF9PWTZYRGNySUtPekY1X3V6V1VTWjRJYTdDeXVzVGM0YkQ4Mkw4WkppOVpoOEs1LVdYMjlST2phVE03aG5salZHRmlVWkVlVWhWMHFvTVZUbElwLU9qbDVIckpfR3lNRXpKXzYtaFBuYQ?oc=5\n\n3. Robo.ai Inc. (AIIO) Stock Price, News, Quote & History - Yahoo! Finance Canada\nDate: 2026-11-10 | Opportunity\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbWtKeXA4czQ1YkVMSXVZQ1ZORG5GYmJxX1huWkpveWpvRE05VDFMS0hLaWwyZ29mUkNDWll5TTFqT0JaTzBZZkgtZjRkS3lnc0E?oc=5\n\n4. AI Data Center Spending Surges in 2026: Dell, NVIDIA, HPE, Cisco and Storage Vendors Target Channel Revenue Growth - InfotechLead\nDate: 2026-11-09 | Partners\nRelevance: 5/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2E1MU5wWks0Y0tHTnBEeThvVWtHZlVvNUZfakVwMENVdHAzOGY0aXBEU3I0d3dSVEkzMEY1bEVXMXdKRXBiRDBmR0E3QVdRNlMwOEdDdmRXN2V5ZzFnSEdjMEFqYlEyMFhwa0xIRl91VXJIbEF4M3FxeE54cjJtbGdoU1IxNGdwUVBlMUJFOWxEYUszTmlmRlZ3dFV3SE9aZjZXd1hHWVZBal9aTFpVYTRMQ2lHZkZ2YmRFQ05NcmpLV1diMjlTNEtGMFpuN0ZzdERibFNiNUlVOGk4TjJiMWw1N3R4c200cllGZtIB7AFBVV95cUxOM2E1MU5wWks0Y0tHTnBEeThvVWtHZlVvNUZfakVwMENVdHAzOGY0aXBEU3I0d3dSVEkzMEY1bEVXMXdKRXBiRDBmR0E3QVdRNlMwOEdDdmRXN2V5ZzFnSEdjMEFqYlEyMFhwa0xIRl91VXJIbEF4M3FxeE54cjJtbGdoU1IxNGdwUVBlMUJFOWxEYUszTmlmRlZ3dFV3SE9aZjZXd1hHWVZBal9aTFpVYTRMQ2lHZkZ2YmRFQ05NcmpLV1diMjlTNEtGMFpuN0ZzdERibFNiNUlVOGk4TjJiMWw1N3R4c200cllGZg?oc=5\n\n5. Nuix Hires Lori Cornmesser To Drive Global Partner Ecosystem Growth - CRN\nDate: 2026-11-13 | Partners\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHpzbTQ1SG0wc1NaMW5lU25FNUdLbWtfWGs2UERrTVFJVXJIV0lrNmNKbmZIbXV0ekFnVDYzOG5lWUViSmgtSjRmZnJsRXdPS1MyNkR5a2NLR2N0NHlFbEh3SGx2aTBuenJtSnM1ZzVIQWhTZnVseC1CbHRMenFhZ3NVYU43Q3Z4XzdMcVpRbGtRcDhEMWE0V0xIdnN4czRyeWc?oc=5\n\n6. South Korea Proposes New Funding for AI Sensors, Robot Actuators and Humanoid Batteries - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajQtaUNOMk1FbWNseHl3bTNOY2RuTTBYbXlIcDhLREd1RUU5R1FMbkVOekNRdU9vUmtOXzRUZmVaaGJKcnRQakVJalByeURXS2NSbzdoX2l4aGhCamhnUGtrZWlyRjRCV0lrNGpyM19scFJtLS13Q1BGMjZiSDE0U0ZsekgxMTJGbnZMaXltMk5ncjRIX1paRHlkY2tUZFppUk1PTDROX21sZFZQYXJLSm9rVG9RT0x0RllWSHhNSzU0dw?oc=5\n\n7. Gritt Partners With MasTec to Deploy AI-Powered Robotics on Solar Construction Sites - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMivwFBVV95cUxNZENKN09wQkE4SmlxMWVuaVJNR0R3b3NGSk5JM3d5eDhKNmZJd3hnVnZJLXFJRE1fQXRsQXVqVXYzOS1Ra280NmpfdExmZER6STc4ZjBFelh2X1lMUnloNTlpTDNQN21vMUtvUVRXT0JVcG5mN2FCZGhrWjBTS09GWGZWWWw3UDhsbk5IdDZ4d0JaRTZMTV9XT3FHQ2JBSFV3WGlPT2paa2E3Uk5sb0s0TFhCZFVWbXNoS214eUFsaw?oc=5\n\n8. May Mobility Targets More Than 10K Volkswagen ID. Buzz Robotaxis Through 2031 - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnNwY1NwN0JBRFJxa3NJYmp2YTZpSjhsTU9vd21femhleFJwSEhxcFlSdGdVTlRiWHJiNkc1cnRpM0RYUzlCOUtpZXZKVkh3RWRvN3F5VUplbjlhcnp6UDlROVctbzlXbW5Oa0wwWlVSOWV3eDRGNkJvUkc4MmExTFdpX2U4LWRiUGY3ektYQnNZdmhpYUpHbllBVUpXYmtPY29DaW4yYjdDXzdNVndfMWJZaFc?oc=5\n\n9. South Korea Leads IFR's Global Robot Density Rankings as Manufacturing Automation Expands - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3BGWHNQaFIyVmFHdWlnNXg1bExfMV9tUks1OExqZ0VEeFE4NG5xMWkwTlNTNVp2bFZsbUNvbHpQT1VFUk9SYzdFa1VPUktqQ1dZMTdjWTNOLWNqNWxXQUdHdDJoR3NQWlY4VHdQeEkyOUdtMWVoZEtaYklubXRxNUlLMWxlNklLVnIyY3ZIT0QxbHFqYzBmTmRPTWpPZU9nd2l0SDI1eVlXcEUzR2RXcjIyZ3FDbWxHTnVvRTRlU3Q1Z1lX?oc=5\n\n10. Uforce Raises $700M in Series A Funding to Expand Ukraine-Focused Autonomous Defense Production - AI Insider\nDate: 2026-11-13 | Opportunity\nRelevance: 4/5\nHeadline from a public RSS feed. Read the source for the reporting and context.\nPresales angle: Review the source and evaluate relevance to customer architecture or partner discussions; this item is not independently analyzed.\nSource: https://news.google.com/rss/articles/CBMizAFBVV95cUxQb2FaVm1WZFhDcUdJQXpsUVRrOUVOYi1oUHBtRHFfcWd4cmg1VXVsNkg2YkZDNGxEZ0NCX084YnZCLWppaVpNYVRmb3pKanZNYTNSajlkZFFkM2cxbzJXSklTeFZ4NkpWMVBzaEZCbW82S2RqZkF0cHBxZFNzci1WSm1LdnBNeG5zclM4U2RvTHVDRXRoSGptc3BXS3otUVVDMTVmcVJpWlZNeHd4Ujk0QVM0VW5LZFlYekFmNFFaWjN3RmFjNDcxZmRJYy0?oc=5\n\nDISCOVERY QUESTIONS\nWhich upcoming virtualization renewals create a modernization opportunity?\nWhich AI workloads need private deployment, observability or runtime governance?\nWhich partners could help deliver a discovery workshop next week?\n\nEditorial note: selected public RSS headlines; original reporting and claims have not been independently verified."
 }
